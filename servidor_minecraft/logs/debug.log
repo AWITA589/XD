@@ -2262,3 +2262,372 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Feb2025 23:30:27.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
 [15Feb2025 23:30:40.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> tengo
 [15Feb2025 23:30:43.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Isn't It Iron Pick]
+[15Feb2025 23:30:50.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Isn't It Iron Pick]
+[15Feb2025 23:30:59.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
+[15Feb2025 23:31:20.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> botas
+[15Feb2025 23:31:27.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> nno
+[15Feb2025 23:31:31.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> escudo
+[15Feb2025 23:31:37.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pipipi
+[15Feb2025 23:32:00.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> baja cagon
+[15Feb2025 23:32:04.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> baja
+[15Feb2025 23:32:27.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Suit Up]
+[15Feb2025 23:32:38.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 23:32:38.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 23:32:42.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mucha chamba
+[15Feb2025 23:33:20.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
+[15Feb2025 23:33:48.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> haste un escudo y una espada
+[15Feb2025 23:33:58.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> god
+[15Feb2025 23:34:06.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Suit Up]
+[15Feb2025 23:34:11.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma
+[15Feb2025 23:34:18.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Not Today, Thank You]
+[15Feb2025 23:34:57.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no tengo
+[15Feb2025 23:35:39.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
+[15Feb2025 23:37:18.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> hola
+[15Feb2025 23:37:21.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> :3
+[15Feb2025 23:37:31.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ciego
+[15Feb2025 23:37:38.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 23:37:38.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 23:38:15.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> esta en falic
+[15Feb2025 23:38:19.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[15Feb2025 23:38:43.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [A Strange Grave Dust]
+[15Feb2025 23:38:50.881] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:sons_of_sins for mod file /workspaces/XD/servidor_minecraft/mods/sons-of-sins-1.18.2-1.1.1.jar
+[15Feb2025 23:38:50.883] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:carryon for mod file /workspaces/XD/servidor_minecraft/mods/carryon-1.18.2-1.17.2.15.jar
+[15Feb2025 23:38:50.884] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:tombstone for mod file /workspaces/XD/servidor_minecraft/mods/tombstone-1.18.2-7.7.6.jar
+[15Feb2025 23:38:50.884] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:dungeoncrawl for mod file /workspaces/XD/servidor_minecraft/mods/DungeonCrawl-1.18.2-2.3.14.jar
+[15Feb2025 23:38:50.886] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/forge/1.18.2-40.2.21/forge-1.18.2-40.2.21-universal.jar
+[15Feb2025 23:38:50.888] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:sophisticatedcore for mod file /workspaces/XD/servidor_minecraft/mods/sophisticatedcore-1.18.2-0.6.4.604.jar
+[15Feb2025 23:38:50.892] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:sophisticatedbackpacks for mod file /workspaces/XD/servidor_minecraft/mods/sophisticatedbackpacks-1.18.2-3.20.3.1063.jar
+[15Feb2025 23:38:50.901] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:expandability for mod file /workspaces/XD/servidor_minecraft/mods/expandability-6.0.0.jar
+[15Feb2025 23:38:50.904] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:curios for mod file /workspaces/XD/servidor_minecraft/mods/curios-forge-1.18.2-5.0.9.2.jar
+[15Feb2025 23:38:50.904] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:dungeons_arise for mod file /workspaces/XD/servidor_minecraft/mods/DungeonsArise-1.18.2-2.1.52-release.jar
+[15Feb2025 23:38:50.906] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jei for mod file /workspaces/XD/servidor_minecraft/mods/jei-1.18.2-forge-10.2.1.1009.jar
+[15Feb2025 23:38:50.907] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:artifacts for mod file /workspaces/XD/servidor_minecraft/mods/artifacts-1.18.2-4.2.4.jar
+[15Feb2025 23:38:50.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Reloading!
+[15Feb2025 23:38:50.919] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Feb2025 23:38:50.921] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Feb2025 23:38:50.923] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 23:38:50.925] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 23:38:50.927] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Feb2025 23:38:53.746] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[15Feb2025 23:38:54.381] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1392 advancements
+[15Feb2025 23:38:54.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved too quickly! -1.7171296029224248,6.419999986886978,8.046193326051025
+[15Feb2025 23:38:54.385] [Server thread/INFO] [Dungeon Crawl/]: Loading data...
+[15Feb2025 23:38:54.404] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/corridor/linker/linker.nbt
+[15Feb2025 23:38:54.405] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/corridor/linker/linker.json
+[15Feb2025 23:38:54.406] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/corridor/linker/linker_trap.nbt
+[15Feb2025 23:38:54.406] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/corridor/linker/linker_trap.json
+[15Feb2025 23:38:54.407] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/connector.nbt
+[15Feb2025 23:38:54.407] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/connector_2.nbt
+[15Feb2025 23:38:54.408] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/corridor/ceiling.nbt
+[15Feb2025 23:38:54.408] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/corridor/ceiling_glowstone.nbt
+[15Feb2025 23:38:54.408] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/corridor/ceiling_lamp.nbt
+[15Feb2025 23:38:54.409] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/crypt_graves.nbt
+[15Feb2025 23:38:54.409] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/crypt_graves.json
+[15Feb2025 23:38:54.410] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/hidden_piston.nbt
+[15Feb2025 23:38:54.410] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/large_connector.nbt
+[15Feb2025 23:38:54.410] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/large_spawner_cell_open.nbt
+[15Feb2025 23:38:54.411] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/node/ceiling/crumbled.nbt
+[15Feb2025 23:38:54.411] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/node/ceiling/dome.nbt
+[15Feb2025 23:38:54.412] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/node/ceiling/flat.nbt
+[15Feb2025 23:38:54.412] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/node/ceiling/light.nbt
+[15Feb2025 23:38:54.413] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/crypt_dead_end.nbt
+[15Feb2025 23:38:54.414] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/crypt_dead_end.json
+[15Feb2025 23:38:54.415] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/crypt_turn.nbt
+[15Feb2025 23:38:54.416] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/crypt_turn.json
+[15Feb2025 23:38:54.417] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/fountain.nbt
+[15Feb2025 23:38:54.422] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/fountain.json
+[15Feb2025 23:38:54.422] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/prison.nbt
+[15Feb2025 23:38:54.425] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/prison.json
+[15Feb2025 23:38:54.426] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/prison_fork.nbt
+[15Feb2025 23:38:54.429] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/prison_fork.json
+[15Feb2025 23:38:54.430] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/room.nbt
+[15Feb2025 23:38:54.432] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/room.json
+[15Feb2025 23:38:54.433] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/room_2.nbt
+[15Feb2025 23:38:54.437] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/room_2.json
+[15Feb2025 23:38:54.437] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sarcophagus.nbt
+[15Feb2025 23:38:54.440] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sarcophagus.json
+[15Feb2025 23:38:54.441] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers.nbt
+[15Feb2025 23:38:54.445] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers.json
+[15Feb2025 23:38:54.446] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_dead_end.nbt
+[15Feb2025 23:38:54.450] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_dead_end.json
+[15Feb2025 23:38:54.451] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_fork.nbt
+[15Feb2025 23:38:54.456] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_fork.json
+[15Feb2025 23:38:54.457] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_straight.nbt
+[15Feb2025 23:38:54.463] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_straight.json
+[15Feb2025 23:38:54.464] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/room/spawner_room.nbt
+[15Feb2025 23:38:54.465] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/room/spawner_room.json
+[15Feb2025 23:38:54.466] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor.nbt
+[15Feb2025 23:38:54.466] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor.json
+[15Feb2025 23:38:54.467] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_2.nbt
+[15Feb2025 23:38:54.468] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_2.json
+[15Feb2025 23:38:54.469] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_3.nbt
+[15Feb2025 23:38:54.469] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_3.json
+[15Feb2025 23:38:54.471] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_fire.nbt
+[15Feb2025 23:38:54.472] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_fire.json
+[15Feb2025 23:38:54.472] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_light.nbt
+[15Feb2025 23:38:54.473] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_light.json
+[15Feb2025 23:38:54.475] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_room.nbt
+[15Feb2025 23:38:54.477] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_room.json
+[15Feb2025 23:38:54.477] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_spawner.nbt
+[15Feb2025 23:38:54.478] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_spawner.json
+[15Feb2025 23:38:54.478] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/cake_room.nbt
+[15Feb2025 23:38:54.479] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/cake_room.json
+[15Feb2025 23:38:54.479] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker.nbt
+[15Feb2025 23:38:54.480] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker.json
+[15Feb2025 23:38:54.480] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_2.nbt
+[15Feb2025 23:38:54.481] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_2.json
+[15Feb2025 23:38:54.483] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_3.nbt
+[15Feb2025 23:38:54.484] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_3.json
+[15Feb2025 23:38:54.484] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_4.nbt
+[15Feb2025 23:38:54.485] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_4.json
+[15Feb2025 23:38:54.485] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_5.nbt
+[15Feb2025 23:38:54.485] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_5.json
+[15Feb2025 23:38:54.485] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_6.nbt
+[15Feb2025 23:38:54.486] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_6.json
+[15Feb2025 23:38:54.486] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/old_corridor.nbt
+[15Feb2025 23:38:54.486] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/old_corridor.json
+[15Feb2025 23:38:54.486] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/old_corridor_3.nbt
+[15Feb2025 23:38:54.487] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/old_corridor_3.json
+[15Feb2025 23:38:54.487] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/secret_room_entrance.nbt
+[15Feb2025 23:38:54.488] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/secret_room_entrance.json
+[15Feb2025 23:38:54.489] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/stone_corridor.nbt
+[15Feb2025 23:38:54.489] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/stone_corridor.json
+[15Feb2025 23:38:54.489] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/loot_room.nbt
+[15Feb2025 23:38:54.495] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/loot_room.json
+[15Feb2025 23:38:54.495] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/bookshelf.nbt
+[15Feb2025 23:38:54.495] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/chest.nbt
+[15Feb2025 23:38:54.495] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/chest_room.nbt
+[15Feb2025 23:38:54.496] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/chest_room_2.nbt
+[15Feb2025 23:38:54.496] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/crops.nbt
+[15Feb2025 23:38:54.496] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/crops.json
+[15Feb2025 23:38:54.496] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/default.nbt
+[15Feb2025 23:38:54.496] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/empty_room.nbt
+[15Feb2025 23:38:54.497] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/empty_room_2.nbt
+[15Feb2025 23:38:54.497] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/empty_room_3.nbt
+[15Feb2025 23:38:54.497] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/empty_room_4.nbt
+[15Feb2025 23:38:54.497] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/fire.nbt
+[15Feb2025 23:38:54.498] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/light.nbt
+[15Feb2025 23:38:54.498] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/light_switch.nbt
+[15Feb2025 23:38:54.499] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/secret_room_entrance.nbt
+[15Feb2025 23:38:54.499] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/secret_room_entrance_2.nbt
+[15Feb2025 23:38:54.499] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/secret_room_entrance_3.nbt
+[15Feb2025 23:38:54.500] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/secret_room_entrance_bookshelf.nbt
+[15Feb2025 23:38:54.500] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/spawner.nbt
+[15Feb2025 23:38:54.501] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/spawner_room.nbt
+[15Feb2025 23:38:54.501] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/variant.nbt
+[15Feb2025 23:38:54.502] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/variant_2.nbt
+[15Feb2025 23:38:54.502] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/large_wall.nbt
+[15Feb2025 23:38:54.502] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/node_connector.nbt
+[15Feb2025 23:38:54.503] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/short_node_connector.nbt
+[15Feb2025 23:38:54.503] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/wall.nbt
+[15Feb2025 23:38:54.503] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/wall_2.nbt
+[15Feb2025 23:38:54.504] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector.nbt
+[15Feb2025 23:38:54.505] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector.json
+[15Feb2025 23:38:54.505] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_2.nbt
+[15Feb2025 23:38:54.505] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_2.json
+[15Feb2025 23:38:54.505] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_3.nbt
+[15Feb2025 23:38:54.506] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_3.json
+[15Feb2025 23:38:54.506] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_4.nbt
+[15Feb2025 23:38:54.506] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_4.json
+[15Feb2025 23:38:54.506] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_6.nbt
+[15Feb2025 23:38:54.506] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_6.json
+[15Feb2025 23:38:54.506] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_lava.nbt
+[15Feb2025 23:38:54.507] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/node_connector_catacomb.nbt
+[15Feb2025 23:38:54.507] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/node_connector_catacomb.json
+[15Feb2025 23:38:54.507] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/dark_hall.nbt
+[15Feb2025 23:38:54.510] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/fire_hall.nbt
+[15Feb2025 23:38:54.513] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/fireplace.nbt
+[15Feb2025 23:38:54.516] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/fireplace.json
+[15Feb2025 23:38:54.516] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/forge.nbt
+[15Feb2025 23:38:54.519] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/forge.json
+[15Feb2025 23:38:54.519] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/jukebox_room.nbt
+[15Feb2025 23:38:54.520] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/jukebox_room.json
+[15Feb2025 23:38:54.521] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/library.nbt
+[15Feb2025 23:38:54.528] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/library.json
+[15Feb2025 23:38:54.528] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/node_turn.nbt
+[15Feb2025 23:38:54.531] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/node_turn.json
+[15Feb2025 23:38:54.531] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/old_fire_hall.nbt
+[15Feb2025 23:38:54.535] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/old_fire_hall.json
+[15Feb2025 23:38:54.535] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/old_jukebox_room.nbt
+[15Feb2025 23:38:54.537] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/old_jukebox_room.json
+[15Feb2025 23:38:54.537] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/room.nbt
+[15Feb2025 23:38:54.538] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/room.json
+[15Feb2025 23:38:54.538] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/room_2.nbt
+[15Feb2025 23:38:54.540] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/room_2.json
+[15Feb2025 23:38:54.540] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/spawner_hall.nbt
+[15Feb2025 23:38:54.545] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/spawner_hall.json
+[15Feb2025 23:38:54.545] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/old_loot_room.nbt
+[15Feb2025 23:38:54.550] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/old_loot_room.json
+[15Feb2025 23:38:54.550] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/food_side_room.nbt
+[15Feb2025 23:38:54.550] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/food_side_room.json
+[15Feb2025 23:38:54.550] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/secret_room.nbt
+[15Feb2025 23:38:54.551] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/secret_room.json
+[15Feb2025 23:38:54.551] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room.nbt
+[15Feb2025 23:38:54.552] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room.json
+[15Feb2025 23:38:54.552] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_2.nbt
+[15Feb2025 23:38:54.553] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_2.json
+[15Feb2025 23:38:54.553] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_material.nbt
+[15Feb2025 23:38:54.553] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_material.json
+[15Feb2025 23:38:54.553] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_material_2.nbt
+[15Feb2025 23:38:54.554] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_material_2.json
+[15Feb2025 23:38:54.554] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/starter_room.nbt
+[15Feb2025 23:38:54.554] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/starter_room.json
+[15Feb2025 23:38:54.554] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/tnt_trap_side_room.nbt
+[15Feb2025 23:38:54.555] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/tnt_trap_side_room.json
+[15Feb2025 23:38:54.555] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/staircase.nbt
+[15Feb2025 23:38:54.555] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/staircase.json
+[15Feb2025 23:38:54.556] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/staircase_layer.nbt
+[15Feb2025 23:38:54.556] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_bottom.nbt
+[15Feb2025 23:38:54.556] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_bottom.json
+[15Feb2025 23:38:54.556] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_bottom_2.nbt
+[15Feb2025 23:38:54.557] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_bottom_2.json
+[15Feb2025 23:38:54.557] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_top.nbt
+[15Feb2025 23:38:54.558] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_top.json
+[15Feb2025 23:38:54.558] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/eniko_tower.nbt
+[15Feb2025 23:38:54.560] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/eniko_tower.json
+[15Feb2025 23:38:54.560] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/house.nbt
+[15Feb2025 23:38:54.562] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/house.json
+[15Feb2025 23:38:54.562] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/pyramid.nbt
+[15Feb2025 23:38:54.563] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/pyramid.json
+[15Feb2025 23:38:54.563] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/rogue_tower.nbt
+[15Feb2025 23:38:54.565] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/rogue_tower.json
+[15Feb2025 23:38:54.565] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/witch_tower.nbt
+[15Feb2025 23:38:54.568] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/witch_tower.json
+[15Feb2025 23:38:54.568] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/node/lava_hall.nbt
+[15Feb2025 23:38:54.570] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/node/small_loot_room.nbt
+[15Feb2025 23:38:54.572] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/node/small_loot_room.json
+[15Feb2025 23:38:54.572] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/room/empty_room.nbt
+[15Feb2025 23:38:54.573] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/room/empty_room.json
+[15Feb2025 23:38:54.573] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/room/spawner_room.nbt
+[15Feb2025 23:38:54.574] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/room/spawner_room.json
+[15Feb2025 23:38:54.574] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/model_pools.json
+[15Feb2025 23:38:54.616] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/types/default.json
+[15Feb2025 23:38:54.617] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/types/desert/default.json
+[15Feb2025 23:38:54.618] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/types/forest/default.json
+[15Feb2025 23:38:54.619] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/types/mountains/default.json
+[15Feb2025 23:38:54.628] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/biome_mappings/default.json
+[15Feb2025 23:38:54.638] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/catacombs/crumbled.json
+[15Feb2025 23:38:54.639] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/hell/roguelike.json
+[15Feb2025 23:38:54.639] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/acacia.json
+[15Feb2025 23:38:54.639] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/badlands/default.json
+[15Feb2025 23:38:54.639] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/birch.json
+[15Feb2025 23:38:54.640] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/catacombs/mossy.json
+[15Feb2025 23:38:54.640] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/catacombs/overgrown.json
+[15Feb2025 23:38:54.641] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/dark_oak.json
+[15Feb2025 23:38:54.641] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/desert/default.json
+[15Feb2025 23:38:54.641] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/desert/diorite.json
+[15Feb2025 23:38:54.641] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/desert/granite.json
+[15Feb2025 23:38:54.642] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/hell/default.json
+[15Feb2025 23:38:54.642] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/jungle.json
+[15Feb2025 23:38:54.642] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/mountains/default.json
+[15Feb2025 23:38:54.642] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/oak.json
+[15Feb2025 23:38:54.643] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/spruce.json
+[15Feb2025 23:38:54.652] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/catacombs/crumbled.json
+[15Feb2025 23:38:54.653] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/create/andesite.json
+[15Feb2025 23:38:54.653] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/create/crumbled_andesite.json
+[15Feb2025 23:38:54.653] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/create/mossy_andesite.json
+[15Feb2025 23:38:54.654] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/create/overgrown_andesite.json
+[15Feb2025 23:38:54.654] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/hell/roguelike.json
+[15Feb2025 23:38:54.655] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/andesite.json
+[15Feb2025 23:38:54.655] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/badlands/default.json
+[15Feb2025 23:38:54.656] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/bricks.json
+[15Feb2025 23:38:54.656] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/bricks_2.json
+[15Feb2025 23:38:54.656] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/catacombs/ancient.json
+[15Feb2025 23:38:54.657] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/catacombs/bricks.json
+[15Feb2025 23:38:54.658] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/catacombs/crumbled_floor.json
+[15Feb2025 23:38:54.658] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/catacombs/mossy.json
+[15Feb2025 23:38:54.659] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/catacombs/overgrown.json
+[15Feb2025 23:38:54.659] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/default.json
+[15Feb2025 23:38:54.660] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/desert/default.json
+[15Feb2025 23:38:54.660] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/desert/diorite.json
+[15Feb2025 23:38:54.661] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/desert/granite.json
+[15Feb2025 23:38:54.661] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/desert/terracotta.json
+[15Feb2025 23:38:54.661] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/hell/checked_floor.json
+[15Feb2025 23:38:54.662] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/hell/default.json
+[15Feb2025 23:38:54.662] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/hell/mossy.json
+[15Feb2025 23:38:54.663] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/jungle/default.json
+[15Feb2025 23:38:54.664] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/mountains/default.json
+[15Feb2025 23:38:54.710] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/spawn_rates.json
+[15Feb2025 23:38:54.711] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:treasure/stage_1.json
+[15Feb2025 23:38:54.711] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:treasure/stage_2.json
+[15Feb2025 23:38:54.711] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:treasure/stage_3.json
+[15Feb2025 23:38:54.711] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:treasure/stage_4.json
+[15Feb2025 23:38:54.711] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:treasure/stage_5.json
+[15Feb2025 23:38:54.711] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/entities/stage_1.json
+[15Feb2025 23:38:54.712] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/entities/stage_2.json
+[15Feb2025 23:38:54.712] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/entities/stage_3.json
+[15Feb2025 23:38:54.712] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/entities/stage_4.json
+[15Feb2025 23:38:54.712] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/entities/stage_5.json
+[15Feb2025 23:38:54.712] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/armor/stage_1.json
+[15Feb2025 23:38:54.712] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/armor/stage_2.json
+[15Feb2025 23:38:54.712] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/armor/stage_3.json
+[15Feb2025 23:38:54.713] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/armor/stage_4.json
+[15Feb2025 23:38:54.713] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/armor/stage_5.json
+[15Feb2025 23:38:54.713] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/weapon/stage_1.json
+[15Feb2025 23:38:54.713] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/weapon/stage_2.json
+[15Feb2025 23:38:54.713] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/weapon/stage_3.json
+[15Feb2025 23:38:54.713] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/weapon/stage_4.json
+[15Feb2025 23:38:54.713] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/weapon/stage_5.json
+[15Feb2025 23:38:54.713] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/potion_effects/stage_1.json
+[15Feb2025 23:38:54.714] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/potion_effects/stage_2.json
+[15Feb2025 23:38:54.714] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/potion_effects/stage_3.json
+[15Feb2025 23:38:54.714] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/potion_effects/stage_4.json
+[15Feb2025 23:38:54.714] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/potion_effects/stage_5.json
+[15Feb2025 23:38:54.714] [Server thread/DEBUG] [Dungeon Crawl/]: Completing...
+[15Feb2025 23:38:54.714] [Server thread/INFO] [Dungeon Crawl/]: Done.
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/woot/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/fluxnetworks/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mob_grinding_utils/entity_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/astralsorcery/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/immersivepetroleum/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/immersiveengineering/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/pedestals/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/platforms/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/rftoolsutility/entity_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/compactmachines/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mcwwindows/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/integrateddynamics/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:entity_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Finished loading registry data for sophisticatedbackpacks:entity_tools
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mekanism/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/powah/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/apotheosis/entity_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/bloodmagic/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/immersiveposts/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/rats/entity_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/framedcompactdrawers/block_tools 
+[15Feb2025 23:38:54.716] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/iceandfire/entity_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/storagedrawers/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mcwroofs/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/morphtool/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/botania/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/pneumaticraft/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/shrink/entity_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/blockcarpentry/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/pipez/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/transport/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/thermal/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Finished loading registry data for sophisticatedbackpacks:block_tools
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/create/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/farmersdelight/entity_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/refinedstorage/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/chiselsandbits/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/farmersdelight/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/resourcefulbees/entity_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/tetra/swords 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:swords 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Finished loading registry data for sophisticatedbackpacks:swords
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mythicbotany/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/resourcefulbees/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/syp/entity_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/eidolon/block_tools 
+[15Feb2025 23:38:54.717] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/rftoolsbase/block_tools 
+[15Feb2025 23:38:55.110] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f2794d0
+[15Feb2025 23:38:55.129] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1afb4ae1
+[15Feb2025 23:38:55.176] [Server thread/DEBUG] [tombstone/]: Updating LootTables
+[15Feb2025 23:38:55.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved too quickly! -1.7191462401157285,6.0,8.050124980691749
+[15Feb2025 23:38:55.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[15Feb2025 23:39:03.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: The difficulty has been set to Hard]
+[15Feb2025 23:40:07.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> :OOOOO
+[15Feb2025 23:40:32.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Not Today, Thank You]

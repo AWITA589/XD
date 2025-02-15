@@ -188,3 +188,45 @@
 [15Feb2025 23:30:27.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
 [15Feb2025 23:30:40.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> tengo
 [15Feb2025 23:30:43.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Isn't It Iron Pick]
+[15Feb2025 23:30:50.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Isn't It Iron Pick]
+[15Feb2025 23:30:59.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
+[15Feb2025 23:31:20.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> botas
+[15Feb2025 23:31:27.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> nno
+[15Feb2025 23:31:31.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> escudo
+[15Feb2025 23:31:37.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pipipi
+[15Feb2025 23:32:00.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> baja cagon
+[15Feb2025 23:32:04.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> baja
+[15Feb2025 23:32:27.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Suit Up]
+[15Feb2025 23:32:42.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mucha chamba
+[15Feb2025 23:33:20.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
+[15Feb2025 23:33:48.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> haste un escudo y una espada
+[15Feb2025 23:33:58.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> god
+[15Feb2025 23:34:06.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Suit Up]
+[15Feb2025 23:34:11.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma
+[15Feb2025 23:34:18.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Not Today, Thank You]
+[15Feb2025 23:34:57.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no tengo
+[15Feb2025 23:35:39.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
+[15Feb2025 23:37:18.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> hola
+[15Feb2025 23:37:21.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> :3
+[15Feb2025 23:37:31.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ciego
+[15Feb2025 23:38:15.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> esta en falic
+[15Feb2025 23:38:19.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[15Feb2025 23:38:43.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [A Strange Grave Dust]
+[15Feb2025 23:38:50.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Reloading!
+[15Feb2025 23:38:50.919] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Feb2025 23:38:50.921] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Feb2025 23:38:50.923] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 23:38:50.925] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 23:38:50.927] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Feb2025 23:38:53.746] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[15Feb2025 23:38:54.381] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1392 advancements
+[15Feb2025 23:38:54.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved too quickly! -1.7171296029224248,6.419999986886978,8.046193326051025
+[15Feb2025 23:38:54.385] [Server thread/INFO] [Dungeon Crawl/]: Loading data...
+[15Feb2025 23:38:54.714] [Server thread/INFO] [Dungeon Crawl/]: Done.
+[15Feb2025 23:38:55.110] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f2794d0
+[15Feb2025 23:38:55.129] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1afb4ae1
+[15Feb2025 23:38:55.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved too quickly! -1.7191462401157285,6.0,8.050124980691749
+[15Feb2025 23:38:55.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[15Feb2025 23:39:03.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: The difficulty has been set to Hard]
+[15Feb2025 23:40:07.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> :OOOOO
+[15Feb2025 23:40:32.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Not Today, Thank You]
