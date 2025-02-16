@@ -3082,3 +3082,41 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Feb2025 00:08:45.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDD
 [16Feb2025 00:08:56.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> aprovecha
 [16Feb2025 00:10:17.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> puedes agarrar a las ovejas agachandote???
+[16Feb2025 00:11:09.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=59, y=77, z=868} BlockPos{x=59, y=76, z=868}
+[16Feb2025 00:12:14.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [The Parrots and the Bats]
+[16Feb2025 00:12:27.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> hambrita
+[16Feb2025 00:12:44.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> insesto
+[16Feb2025 00:12:47.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 00:12:47.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 00:14:29.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> tienes hilo??
+[16Feb2025 00:14:36.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> :C
+[16Feb2025 00:14:47.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 46.500000, 21.500000, 712.500000]
+[16Feb2025 00:15:57.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> tienes cuero??
+[16Feb2025 00:16:04.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[16Feb2025 00:16:48.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> wa buscar vacas pa tu mochila
+[16Feb2025 00:17:47.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 00:17:47.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 00:17:56.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mano un barcoooooooo
+[16Feb2025 00:18:04.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Vindicator
+[16Feb2025 00:18:05.108] [Server thread/DEBUG] [tombstone/]: A new grave of the player The_Dragon_589 was created at position [x:53, y:63, z:1181, dim:minecraft:overworld]
+[16Feb2025 00:18:05.113] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[16Feb2025 00:18:10.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> .__.
+[16Feb2025 00:18:58.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no habia ni mrd
+[16Feb2025 00:19:09.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> leche mano
+[16Feb2025 00:19:21.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
+[16Feb2025 00:21:34.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 fell from a high place
+[16Feb2025 00:21:34.924] [Server thread/DEBUG] [tombstone/]: A new grave of the player The_Dragon_589 was created at position [x:-264, y:70, z:809, dim:minecraft:overworld]
+[16Feb2025 00:21:34.949] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[16Feb2025 00:21:42.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> hola ya volvi
+[16Feb2025 00:21:47.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ZZZ
+[16Feb2025 00:22:43.279] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:lukewarm_ocean at [-48,34]
+[16Feb2025 00:22:47.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 00:22:47.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 00:25:01.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> tierra a la vistaaaa
+[16Feb2025 00:25:18.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
+[16Feb2025 00:26:17.341] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:deep_lukewarm_ocean at [-50,8]
+[16Feb2025 00:26:46.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> y si nos mudamos aqui??
+[16Feb2025 00:26:57.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[16Feb2025 00:27:33.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pt es otra isla
+[16Feb2025 00:27:47.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 00:27:47.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
