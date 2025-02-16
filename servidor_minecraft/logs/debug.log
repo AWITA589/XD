@@ -3120,3 +3120,133 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Feb2025 00:27:33.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pt es otra isla
 [16Feb2025 00:27:47.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Feb2025 00:27:47.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 00:32:26.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[16Feb2025 00:32:39.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma
+[16Feb2025 00:32:47.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 00:32:47.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 00:32:49.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> y esto mas
+[16Feb2025 00:33:32.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> dame hierro
+[16Feb2025 00:33:34.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> 8
+[16Feb2025 00:33:43.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> y oro si tienes
+[16Feb2025 00:34:03.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma
+[16Feb2025 00:35:12.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> causa ya me voy
+[16Feb2025 00:35:13.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> zzzz
+[16Feb2025 00:35:24.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mañana jugamos pe
+[16Feb2025 00:35:39.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> porque
+[16Feb2025 00:36:22.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ya mano
+[16Feb2025 00:36:30.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> entonces otro dia jugamos pe
+[16Feb2025 00:36:49.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> chau
+[16Feb2025 00:36:51.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Disconnected
+[16Feb2025 00:36:51.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[16Feb2025 00:36:56.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
+[16Feb2025 00:36:56.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[16Feb2025 00:37:18.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[16Feb2025 00:37:18.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: closed<--[HERE]
+[16Feb2025 00:37:21.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
+[16Feb2025 00:37:21.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (get|base|modifier)
+[16Feb2025 00:37:21.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[16Feb2025 00:37:21.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|remove|list|set|get)
+[16Feb2025 00:37:21.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
+[16Feb2025 00:37:21.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[16Feb2025 00:37:21.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (merge|get|remove|modify)
+[16Feb2025 00:37:21.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (enable|disable|list)
+[16Feb2025 00:37:21.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (start|stop|function)
+[16Feb2025 00:37:21.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (survival|creative|adventure|spectator)
+[16Feb2025 00:37:21.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [peaceful|easy|normal|hard]
+[16Feb2025 00:37:21.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
+[16Feb2025 00:37:21.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
+[16Feb2025 00:37:21.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
+[16Feb2025 00:37:21.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|set|query)
+[16Feb2025 00:37:21.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
+[16Feb2025 00:37:21.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[16Feb2025 00:37:21.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|remove|query)
+[16Feb2025 00:37:21.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
+[16Feb2025 00:37:21.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (survival|creative|adventure|spectator)
+[16Feb2025 00:37:21.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|sonsGriefing|spawnRadius|spectatorsGenerateChunks|universalAnger|wistiverJawLimit)
+[16Feb2025 00:37:21.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
+[16Feb2025 00:37:21.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
+[16Feb2025 00:37:21.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /item (replace|modify)
+[16Feb2025 00:37:21.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
+[16Feb2025 00:37:21.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
+[16Feb2025 00:37:21.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
+[16Feb2025 00:37:21.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate <structure>
+[16Feb2025 00:37:21.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
+[16Feb2025 00:37:21.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (replace|insert|give|spawn)
+[16Feb2025 00:37:21.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
+[16Feb2025 00:37:21.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
+[16Feb2025 00:37:21.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
+[16Feb2025 00:37:21.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
+[16Feb2025 00:37:21.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /placefeature <feature> [<pos>]
+[16Feb2025 00:37:21.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[16Feb2025 00:37:21.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
+[16Feb2025 00:37:21.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
+[16Feb2025 00:37:21.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
+[16Feb2025 00:37:21.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (function|clear)
+[16Feb2025 00:37:21.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
+[16Feb2025 00:37:21.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
+[16Feb2025 00:37:21.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[16Feb2025 00:37:21.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
+[16Feb2025 00:37:21.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
+[16Feb2025 00:37:21.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
+[16Feb2025 00:37:21.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[16Feb2025 00:37:21.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[16Feb2025 00:37:21.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
+[16Feb2025 00:37:21.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|remove|list)
+[16Feb2025 00:37:21.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (list|add|remove|empty|join|leave|modify)
+[16Feb2025 00:37:21.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
+[16Feb2025 00:37:21.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
+[16Feb2025 00:37:21.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<location>|<destination>|<targets>)
+[16Feb2025 00:37:21.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
+[16Feb2025 00:37:21.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
+[16Feb2025 00:37:21.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (set|add|query)
+[16Feb2025 00:37:21.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[16Feb2025 00:37:21.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
+[16Feb2025 00:37:21.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
+[16Feb2025 00:37:21.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|set|center|damage|get|warning)
+[16Feb2025 00:37:21.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /jfr (start|stop)
+[16Feb2025 00:37:21.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
+[16Feb2025 00:37:21.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
+[16Feb2025 00:37:21.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
+[16Feb2025 00:37:21.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
+[16Feb2025 00:37:21.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
+[16Feb2025 00:37:21.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
+[16Feb2025 00:37:21.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
+[16Feb2025 00:37:21.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /perf (start|stop)
+[16Feb2025 00:37:21.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
+[16Feb2025 00:37:21.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
+[16Feb2025 00:37:21.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
+[16Feb2025 00:37:21.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
+[16Feb2025 00:37:21.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
+[16Feb2025 00:37:21.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (on|off|list|add|remove|reload)
+[16Feb2025 00:37:21.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrestoreinventory [<player>]
+[16Feb2025 00:37:21.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbshowlastgrave [<player>]
+[16Feb2025 00:37:21.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbknowledge [<player>]
+[16Feb2025 00:37:21.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbacceptteleport [<target>]
+[16Feb2025 00:37:21.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbsiege [start|stop]
+[16Feb2025 00:37:21.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrecovery [save_all_players|save_player|load_player]
+[16Feb2025 00:37:21.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrevivefamiliar [<player>]
+[16Feb2025 00:37:21.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrequestteleport [<target>]
+[16Feb2025 00:37:21.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbbind [show|set|teleport]
+[16Feb2025 00:37:21.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbteleport [pos|player|grave|death|home|discovery|biome]
+[16Feb2025 00:37:21.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[16Feb2025 00:37:21.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
+[16Feb2025 00:37:21.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[16Feb2025 00:37:21.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sbp (list|give|removeNonPlayer)
+[16Feb2025 00:37:21.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sophisticatedbackpacks -> sbp
+[16Feb2025 00:37:21.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /carryon (debug|clear)
+[16Feb2025 00:37:31.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[16Feb2025 00:37:31.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Feb2025 00:37:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Feb2025 00:37:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Feb2025 00:37:33.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Feb2025 00:37:33.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Feb2025 00:37:33.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Feb2025 00:37:33.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 00:37:33.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 00:37:33.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Feb2025 00:37:33.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Feb2025 00:37:33.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Feb2025 00:37:33.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Feb2025 00:37:33.589] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[16Feb2025 00:37:33.589] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[16Feb2025 00:37:33.590] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file carryon-server.toml changed, sending notifies

@@ -262,6 +262,7 @@
       "cooked_mutton": "2025-02-15 23:19:31 +0000",
       "cooked_beef": "2025-02-15 23:13:24 +0000",
       "apple": "2025-02-15 23:09:38 +0000",
+      "bread": "2025-02-16 00:35:42 +0000",
       "rotten_flesh": "2025-02-15 23:45:20 +0000"
     },
     "done": false
@@ -803,6 +804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-16 00:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-15 23:07:51 +0000"
@@ -818,6 +825,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 23:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-16 00:32:53 +0000"
     },
     "done": true
   },
@@ -1115,6 +1128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-16 00:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-15 23:07:51 +0000"
@@ -1303,6 +1322,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-02-16 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-16 00:34:20 +0000"
     },
     "done": true
   },
