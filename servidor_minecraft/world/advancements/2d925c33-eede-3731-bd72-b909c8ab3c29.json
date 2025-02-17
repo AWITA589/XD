@@ -361,6 +361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-17 22:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 23:25:53 +0000"
@@ -661,6 +667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-17 22:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-02-15 23:18:06 +0000"
@@ -845,6 +857,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-15 23:34:39 +0000",
       "minecraft:spider": "2025-02-15 23:17:11 +0000",
+      "minecraft:piglin_brute": "2025-02-17 22:31:56 +0000",
+      "minecraft:piglin": "2025-02-17 22:31:51 +0000",
       "minecraft:enderman": "2025-02-15 23:16:35 +0000",
       "minecraft:stray": "2025-02-17 21:55:37 +0000",
       "minecraft:zombie": "2025-02-15 23:17:30 +0000"
