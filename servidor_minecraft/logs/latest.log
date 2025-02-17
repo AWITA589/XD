@@ -125,3 +125,81 @@
 [17Feb2025 21:43:02.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
 [17Feb2025 21:43:35.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> aca esta la salida
 [17Feb2025 21:43:56.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> q rico
+[17Feb2025 21:45:55.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> te ago tp??
+[17Feb2025 21:46:08.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[17Feb2025 21:47:31.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was blown up by Creeper
+[17Feb2025 21:47:32.319] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[17Feb2025 21:47:35.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[17Feb2025 21:47:49.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[17Feb2025 21:49:46.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no no la hice
+[17Feb2025 21:49:54.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to -569.500000, 68.500000, 582.500000]
+[17Feb2025 21:50:15.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to -1375.500000, 46.500000, 467.500000]
+[17Feb2025 21:50:20.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> te hago tp??
+[17Feb2025 21:51:21.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no puedes
+[17Feb2025 21:51:30.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[17Feb2025 21:51:39.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> si
+[17Feb2025 21:51:46.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> dame antorchas
+[17Feb2025 21:54:00.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Magic Writing]
+[17Feb2025 21:54:04.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[17Feb2025 21:54:18.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was killed trying to hurt Skeleton
+[17Feb2025 21:54:19.029] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[17Feb2025 21:54:56.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> los negros
+[17Feb2025 21:58:14.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was shot by Stray
+[17Feb2025 21:58:15.324] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[17Feb2025 21:58:27.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was shot by Stray
+[17Feb2025 21:58:27.321] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[17Feb2025 21:58:34.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Timed out
+[17Feb2025 21:58:34.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[17Feb2025 21:58:34.411] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Feb2025 21:58:35.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Timed out
+[17Feb2025 21:58:35.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[17Feb2025 21:59:15.928] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@199ca83b
+[17Feb2025 21:59:15.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:47547] logged in with entity id 17394 at (-1357.4065719151565, 30.0, 566.9257535321062)
+[17Feb2025 21:59:15.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[17Feb2025 21:59:27.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=862} too far away from player BlockPos{x=-1358, y=31, z=566}.
+[17Feb2025 21:59:27.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=63, y=75, z=862} too far away from player BlockPos{x=-1358, y=31, z=566}.
+[17Feb2025 21:59:27.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=63, y=75, z=861} too far away from player BlockPos{x=-1358, y=31, z=566}.
+[17Feb2025 21:59:27.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=63, y=75, z=861} too far away from player BlockPos{x=-1358, y=31, z=566}.
+[17Feb2025 21:59:30.119] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b77a2cd
+[17Feb2025 21:59:30.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.98.178.24:52413] logged in with entity id 17977 at (-1343.5726890463466, 30.0, 567.9226899769575)
+[17Feb2025 21:59:30.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[17Feb2025 22:00:11.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has reached the goal [Chain Death]
+[17Feb2025 22:00:11.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was shot by Stray
+[17Feb2025 22:00:11.722] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[17Feb2025 22:01:03.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> bajamos
+[17Feb2025 22:02:35.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was shot by Stray
+[17Feb2025 22:02:35.522] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[17Feb2025 22:02:46.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was blown up by Creeper
+[17Feb2025 22:02:46.420] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[17Feb2025 22:03:42.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> q fue
+[17Feb2025 22:05:36.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> zi
+[17Feb2025 22:07:03.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[17Feb2025 22:07:23.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no hay mas
+[17Feb2025 22:08:36.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> te ago tp??
+[17Feb2025 22:08:43.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[17Feb2025 22:08:45.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[17Feb2025 22:08:50.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[17Feb2025 22:08:51.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[17Feb2025 22:08:53.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[17Feb2025 22:09:05.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mira
+[17Feb2025 22:11:02.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[17Feb2025 22:14:52.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[17Feb2025 22:16:20.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDD
+[17Feb2025 22:16:43.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDD
+[17Feb2025 22:17:24.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> yo estoy comiendo manzanas doradas
+[17Feb2025 22:17:44.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[17Feb2025 22:18:30.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Chest Slayer]
+[17Feb2025 22:18:30.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> para ti
+[17Feb2025 22:18:31.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Amateur Archaeologist]
+[17Feb2025 22:18:40.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[17Feb2025 22:18:45.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by The_Dragon_589
+[17Feb2025 22:18:45.123] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[17Feb2025 22:18:47.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[17Feb2025 22:18:58.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[17Feb2025 22:19:07.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[17Feb2025 22:19:21.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> tengo un chingo de oro
+[17Feb2025 22:20:57.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [We Need to Go Deeper]
+[17Feb2025 22:20:57.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4168ms or 83 ticks behind
+[17Feb2025 22:21:17.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> yo te lo encanto
+[17Feb2025 22:22:41.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=116, z=130} BlockPos{x=-16, y=120, z=134}
+[17Feb2025 22:24:07.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> god
