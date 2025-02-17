@@ -203,3 +203,64 @@
 [17Feb2025 22:21:17.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> yo te lo encanto
 [17Feb2025 22:22:41.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=116, z=130} BlockPos{x=-16, y=120, z=134}
 [17Feb2025 22:24:07.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> god
+[17Feb2025 22:25:28.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 was kicked for floating too long!
+[17Feb2025 22:25:28.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Flying is not enabled on this server
+[17Feb2025 22:25:28.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[17Feb2025 22:25:28.789] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Feb2025 22:26:10.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Reloading!
+[17Feb2025 22:26:10.591] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17Feb2025 22:26:10.593] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17Feb2025 22:26:10.595] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17Feb2025 22:26:10.596] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17Feb2025 22:26:10.599] [Server thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17Feb2025 22:26:13.923] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[17Feb2025 22:26:14.680] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1392 advancements
+[17Feb2025 22:26:14.687] [Server thread/INFO] [Dungeon Crawl/]: Loading data...
+[17Feb2025 22:26:15.059] [Server thread/INFO] [Dungeon Crawl/]: Done.
+[17Feb2025 22:26:15.533] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@199ca83b
+[17Feb2025 22:26:15.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[17Feb2025 22:26:19.677] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@96de9db
+[17Feb2025 22:26:19.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.98.178.24:57393] logged in with entity id 25852 at (172.98874270803805, 53.67477734173357, -53.51309654732992)
+[17Feb2025 22:26:19.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[17Feb2025 22:26:24.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 was kicked for floating too long!
+[17Feb2025 22:26:24.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Flying is not enabled on this server
+[17Feb2025 22:26:24.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[17Feb2025 22:26:34.419] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7301302
+[17Feb2025 22:26:34.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.98.178.24:47299] logged in with entity id 26006 at (172.46228988233506, 35.273777561890505, -57.08802701958289)
+[17Feb2025 22:26:34.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[17Feb2025 22:27:35.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> me saco del server por volar
+[17Feb2025 22:27:38.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDD
+[17Feb2025 22:27:54.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> estaba con caida de pluma
+[17Feb2025 22:27:57.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> asi q si
+[17Feb2025 22:28:49.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> bastion
+[17Feb2025 22:29:38.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> espera
+[17Feb2025 22:30:32.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has completed the challenge [Hot Tourist Destinations]
+[17Feb2025 22:30:49.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Those Were the Days]
+[17Feb2025 22:31:00.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [We Need to Go Deeper]
+[17Feb2025 22:31:00.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[17Feb2025 22:31:00.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Those Were the Days]
+[17Feb2025 22:31:34.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [War Pigs]
+[17Feb2025 22:31:34.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Piglin Brute
+[17Feb2025 22:31:34.588] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[17Feb2025 22:31:36.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Who is Cutting Onions?]
+[17Feb2025 22:32:06.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Piglin Brute
+[17Feb2025 22:32:06.790] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[17Feb2025 22:32:23.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Piglin
+[17Feb2025 22:32:23.271] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[17Feb2025 22:32:47.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[17Feb2025 22:32:50.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Piglin
+[17Feb2025 22:32:50.871] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[17Feb2025 22:33:00.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Piglin Brute
+[17Feb2025 22:33:02.027] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[17Feb2025 22:33:21.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=63, y=75, z=862} too far away from player BlockPos{x=204, y=37, z=-398}.
+[17Feb2025 22:33:21.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=63, y=75, z=862} too far away from player BlockPos{x=204, y=37, z=-398}.
+[17Feb2025 22:33:23.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has reached the goal [Chain Death]
+[17Feb2025 22:33:23.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Piglin Brute
+[17Feb2025 22:33:23.448] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[17Feb2025 22:33:41.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=204, y=37, z=-398}.
+[17Feb2025 22:33:41.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=204, y=37, z=-398}.
+[17Feb2025 22:34:21.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Hidden in the Depths]
+[17Feb2025 22:34:27.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Where Is The Stone Pen?]
+[17Feb2025 22:34:58.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[17Feb2025 22:35:42.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Piglin
+[17Feb2025 22:35:43.133] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
