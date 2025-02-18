@@ -1391,3 +1391,23 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Feb2025 23:05:14.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Summoned new Cow]
 [18Feb2025 23:09:15.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Feb2025 23:09:15.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 23:14:15.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 1728.500000, 60.000000, 3012.500000]
+[18Feb2025 23:14:16.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 23:14:16.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 23:14:43.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:43.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:43.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:43.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:43.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:43.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:43.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:43.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:43.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:43.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:44.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:14:44.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=67, z=3028} BlockPos{x=1739, y=67, z=3028}
+[18Feb2025 23:18:56.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
+[18Feb2025 23:19:15.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 23:19:15.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 23:21:42.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 1686.500000, 80.500000, 3242.500000]
+[18Feb2025 23:22:01.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
