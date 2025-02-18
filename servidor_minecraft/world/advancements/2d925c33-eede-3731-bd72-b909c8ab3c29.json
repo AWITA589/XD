@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-18 17:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-02-17 21:56:39 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-18 16:55:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:36:43 +0000"
@@ -293,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-18 17:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-02-15 23:36:51 +0000"
@@ -308,6 +326,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-15 23:48:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-18 16:52:26 +0000"
     },
     "done": true
   },
@@ -571,6 +595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-18 17:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:36:43 +0000"
@@ -634,6 +664,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-17 21:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-18 17:26:45 +0000"
     },
     "done": true
   },
@@ -898,6 +934,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-15 23:34:39 +0000",
+      "minecraft:hoglin": "2025-02-18 17:34:20 +0000",
       "minecraft:spider": "2025-02-15 23:17:11 +0000",
       "minecraft:piglin_brute": "2025-02-17 22:31:56 +0000",
       "minecraft:piglin": "2025-02-17 22:31:51 +0000",
@@ -1459,6 +1496,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-18 17:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-15 23:41:35 +0000"
@@ -1675,6 +1718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-18 17:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 23:50:47 +0000"
@@ -1875,6 +1924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-18 17:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-02-15 23:18:06 +0000"
@@ -1949,7 +2004,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-02-17 22:31:00 +0000"
+      "minecraft:crimson_forest": "2025-02-18 17:34:48 +0000",
+      "minecraft:soul_sand_valley": "2025-02-17 22:31:00 +0000",
+      "minecraft:nether_wastes": "2025-02-18 17:32:09 +0000",
+      "minecraft:warped_forest": "2025-02-18 17:25:22 +0000"
     },
     "done": false
   },
