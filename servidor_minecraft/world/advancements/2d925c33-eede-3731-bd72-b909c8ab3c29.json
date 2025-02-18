@@ -565,6 +565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-18 16:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:36:43 +0000"
@@ -820,6 +826,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-02-15 23:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-18 16:07:48 +0000"
     },
     "done": true
   },
@@ -1480,6 +1492,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-02-17 22:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-18 16:07:48 +0000"
     },
     "done": true
   },
