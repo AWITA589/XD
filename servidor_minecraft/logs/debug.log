@@ -1455,3 +1455,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Feb2025 19:00:57.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Feb2025 19:05:57.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Feb2025 19:05:57.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 19:10:57.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 19:10:57.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 19:15:57.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 19:15:57.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 19:19:02.617] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[19Feb2025 19:19:02.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gave 5 [Cow Spawn Egg] to The_Dragon_589]
+[19Feb2025 19:19:11.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gave 1 [Cow Spawn Egg] to The_Dragon_589]
