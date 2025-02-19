@@ -122,3 +122,4 @@
 [19Feb2025 18:24:20.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=2053, y=-11, z=3326} too far away from player BlockPos{x=1883, y=-35, z=3712}.
 [19Feb2025 18:24:20.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=2053, y=-11, z=3326} too far away from player BlockPos{x=1883, y=-35, z=3712}.
 [19Feb2025 18:24:20.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=2053, y=-11, z=3326} too far away from player BlockPos{x=1883, y=-35, z=3712}.
+[19Feb2025 18:31:56.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
