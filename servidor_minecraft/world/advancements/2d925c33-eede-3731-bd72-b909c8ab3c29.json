@@ -481,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-19 22:00:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-02-15 23:06:01 +0000"
@@ -1746,11 +1752,15 @@
     "criteria": {
       "minecraft:birch_forest": "2025-02-15 23:18:24 +0000",
       "minecraft:wooded_badlands": "2025-02-19 16:29:37 +0000",
+      "minecraft:badlands": "2025-02-19 21:55:07 +0000",
       "minecraft:beach": "2025-02-17 22:13:55 +0000",
+      "minecraft:sparse_jungle": "2025-02-19 22:01:33 +0000",
       "minecraft:river": "2025-02-17 21:54:34 +0000",
       "minecraft:stony_shore": "2025-02-15 23:05:54 +0000",
+      "minecraft:dripstone_caves": "2025-02-19 22:00:08 +0000",
       "minecraft:jagged_peaks": "2025-02-15 23:17:45 +0000",
       "minecraft:forest": "2025-02-15 23:02:04 +0000",
+      "minecraft:desert": "2025-02-19 21:55:10 +0000",
       "minecraft:ocean": "2025-02-15 23:03:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-17 22:06:24 +0000",
       "minecraft:plains": "2025-02-15 23:03:54 +0000"

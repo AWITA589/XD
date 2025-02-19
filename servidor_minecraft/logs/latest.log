@@ -84,3 +84,67 @@
 [19Feb2025 21:54:22.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Invalid name or UUID
 [19Feb2025 21:54:22.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: msg :O<--[HERE]
 [19Feb2025 21:54:31.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved too quickly! 1.8571367266704328,-1.2491870787446828,10.0460815188394
+[19Feb2025 21:56:46.630] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69e2244
+[19Feb2025 21:56:46.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.98.178.24:54843] logged in with entity id 1713 at (22.96574937658117, 76.0, 877.4629291887637)
+[19Feb2025 21:56:46.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[19Feb2025 21:56:56.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> :O
+[19Feb2025 21:57:44.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> Q HACE
+[19Feb2025 21:57:52.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> buscando minas xd
+[19Feb2025 21:57:56.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> a
+[19Feb2025 21:58:07.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[19Feb2025 22:00:12.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Gluttony
+[19Feb2025 22:00:12.936] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[19Feb2025 22:00:18.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> que mrda???
+[19Feb2025 22:00:22.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> aaaaaaaa
+[19Feb2025 22:00:27.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> q comiste
+[19Feb2025 22:01:07.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Take Aim]
+[19Feb2025 22:02:00.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ayuda almenos
+[19Feb2025 22:02:08.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano ns donde me meti
+[19Feb2025 22:02:37.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Gluttony
+[19Feb2025 22:02:39.082] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[19Feb2025 22:02:39.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Feb2025 22:02:41.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pt
+[19Feb2025 22:02:48.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> que es esa webada mano
+[19Feb2025 22:02:50.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Gluttony
+[19Feb2025 22:02:50.260] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[19Feb2025 22:03:02.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 1301.500000, 3.500000, 3185.500000]
+[19Feb2025 22:03:41.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Disconnected
+[19Feb2025 22:03:41.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[19Feb2025 22:04:03.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Gluttony
+[19Feb2025 22:04:04.426] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[19Feb2025 22:04:09.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[19Feb2025 22:04:13.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=1296, y=-10, z=3105}.
+[19Feb2025 22:04:13.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=1296, y=-10, z=3105}.
+[19Feb2025 22:04:13.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=1296, y=-10, z=3105}.
+[19Feb2025 22:04:24.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Gluttony
+[19Feb2025 22:04:25.706] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[19Feb2025 22:04:37.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=1296, y=-9, z=3103}.
+[19Feb2025 22:04:46.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Gluttony
+[19Feb2025 22:04:46.861] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[19Feb2025 22:05:00.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=1294, y=-9, z=3104}.
+[19Feb2025 22:05:00.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=1294, y=-9, z=3104}.
+[19Feb2025 22:05:00.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=1294, y=-9, z=3104}.
+[19Feb2025 22:05:16.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Gluttony
+[19Feb2025 22:05:16.935] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[19Feb2025 22:05:28.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=1296, y=1, z=3098}.
+[19Feb2025 22:05:28.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=1296, y=1, z=3098}.
+[19Feb2025 22:06:52.914] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@68a02464
+[19Feb2025 22:06:52.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:46637] logged in with entity id 6433 at (1252.0376778717455, -43.0, 3072.087654450254)
+[19Feb2025 22:06:52.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[19Feb2025 22:06:53.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gave 64 [Arrow] to The_Dragon_589]
+[19Feb2025 22:07:06.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> pta que ya volvi mano xd
+[19Feb2025 22:07:13.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Gluttony
+[19Feb2025 22:07:14.415] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[19Feb2025 22:07:18.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> aaaaaaaaaaa
+[19Feb2025 22:07:38.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> despues me haces tp pa ayudar xd
+[19Feb2025 22:07:46.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Gluttony
+[19Feb2025 22:07:46.765] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[19Feb2025 22:07:49.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ptm
+[19Feb2025 22:09:49.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> tengo su cabeza
+[19Feb2025 22:09:56.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> a la mrda
+[19Feb2025 22:10:27.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> pta esa webada como scremer me salio
+[19Feb2025 22:10:30.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDD
+[19Feb2025 22:10:42.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> comiste una manzana con cara??
+[19Feb2025 22:10:49.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> nop
+[19Feb2025 22:14:39.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[19Feb2025 22:14:48.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> pta no seas wbon
