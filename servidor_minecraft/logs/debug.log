@@ -1417,3 +1417,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Feb2025 18:10:57.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Feb2025 18:15:57.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Feb2025 18:15:57.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 18:20:57.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 18:20:57.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 18:23:47.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Zombie
+[19Feb2025 18:23:49.066] [Server thread/DEBUG] [tombstone/]: A new grave of the player The_Dragon_589 was created at position [x:1883, y:-36, z:3712, dim:minecraft:overworld]
+[19Feb2025 18:23:49.073] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[19Feb2025 18:24:20.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=2053, y=-11, z=3326} too far away from player BlockPos{x=1883, y=-35, z=3712}.
+[19Feb2025 18:24:20.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=2053, y=-11, z=3326} too far away from player BlockPos{x=1883, y=-35, z=3712}.
+[19Feb2025 18:24:20.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=2053, y=-11, z=3326} too far away from player BlockPos{x=1883, y=-35, z=3712}.
+[19Feb2025 18:25:57.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 18:25:57.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 18:27:43.153] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (2148 | 44 | 4116).
+[19Feb2025 18:27:43.155] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[19Feb2025 18:27:43.162] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 3(0) Rooms
+[19Feb2025 18:27:43.163] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[19Feb2025 18:27:43.163] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[19Feb2025 18:27:43.163] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[19Feb2025 18:27:43.164] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(0) Nodes and 5(0) Rooms
+[19Feb2025 18:27:43.164] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[19Feb2025 18:27:43.164] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 4(0) Rooms
+[19Feb2025 18:27:43.164] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[19Feb2025 18:27:43.164] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 4(0) Rooms
