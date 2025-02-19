@@ -315,3 +315,33 @@
 [19Feb2025 23:44:10.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no hay
 [19Feb2025 23:46:11.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> Q??
 [19Feb2025 23:46:22.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> invita
+[19Feb2025 23:47:27.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> a es el nya hichomi san nya arigato??
+[19Feb2025 23:47:54.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> son monitas chinas
+[19Feb2025 23:48:24.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> como un comic??
+[19Feb2025 23:48:55.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> te lo pase en DC
+[19Feb2025 23:49:24.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> solo discos del minecraft
+[19Feb2025 23:49:30.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> si hay mods
+[19Feb2025 23:50:36.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> esta??
+[19Feb2025 23:51:17.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> foto
+[19Feb2025 23:53:41.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
+[19Feb2025 23:53:41.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[19Feb2025 23:53:56.574] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6df8996a
+[19Feb2025 23:53:56.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.98.178.24:54865] logged in with entity id 44499 at (68.41716876138092, 85.0, 910.4213400750461)
+[19Feb2025 23:53:56.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[19Feb2025 23:55:20.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ya mano ya me voy
+[19Feb2025 23:55:47.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> si
+[19Feb2025 23:56:00.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> depues no se va guardar
+[19Feb2025 23:56:14.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> te jodes
+[19Feb2025 23:56:21.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[19Feb2025 23:56:21.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Feb2025 23:56:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Feb2025 23:56:22.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Server closed
+[19Feb2025 23:56:22.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[19Feb2025 23:56:22.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Feb2025 23:56:23.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Feb2025 23:56:23.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Feb2025 23:56:23.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Feb2025 23:56:23.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Feb2025 23:56:23.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Feb2025 23:56:23.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Feb2025 23:56:23.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
