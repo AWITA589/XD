@@ -149,3 +149,22 @@
 [19Feb2025 16:30:07.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
 [19Feb2025 16:30:09.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> es de donde trage los aldeanos
 [19Feb2025 16:57:06.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2186, y=-41, z=3208} BlockPos{x=2186, y=-43, z=3208}
+[19Feb2025 17:07:14.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Timed out
+[19Feb2025 17:07:14.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[19Feb2025 17:07:14.931] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Feb2025 17:09:03.690] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@697afe83
+[19Feb2025 17:09:03.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.98.178.24:59511] logged in with entity id 32517 at (2087.793968037132, -40.0, 3636.300000011921)
+[19Feb2025 17:09:03.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[19Feb2025 17:11:42.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
+[19Feb2025 17:11:42.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[19Feb2025 17:11:45.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[19Feb2025 17:11:45.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Feb2025 17:11:45.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Feb2025 17:11:45.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Feb2025 17:11:47.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Feb2025 17:11:47.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Feb2025 17:11:47.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Feb2025 17:11:47.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Feb2025 17:11:47.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Feb2025 17:11:47.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Feb2025 17:11:47.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
