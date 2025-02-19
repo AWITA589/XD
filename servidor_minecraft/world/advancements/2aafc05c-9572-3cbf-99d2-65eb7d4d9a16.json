@@ -755,6 +755,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-19 22:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-15 23:12:16 +0000"
@@ -1727,6 +1733,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_ceryneian_hind": {
+    "criteria": {
+      "location0": "2025-02-19 23:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2025-02-17 21:53:02 +0000"
@@ -1784,6 +1796,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-02-18 15:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-19 23:06:55 +0000"
     },
     "done": true
   },
@@ -2593,6 +2611,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-19 23:06:55 +0000"
     },
     "done": true
   },
