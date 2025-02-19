@@ -1028,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-19 16:04:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-17 21:39:20 +0000"
@@ -1526,6 +1532,7 @@
       "minecraft:river": "2025-02-15 19:31:42 +0000",
       "minecraft:lukewarm_ocean": "2025-02-17 21:23:40 +0000",
       "minecraft:stony_shore": "2025-02-15 23:05:50 +0000",
+      "minecraft:dripstone_caves": "2025-02-19 15:58:58 +0000",
       "minecraft:jagged_peaks": "2025-02-15 23:11:37 +0000",
       "minecraft:forest": "2025-02-15 19:27:50 +0000",
       "minecraft:lush_caves": "2025-02-15 19:38:52 +0000",
@@ -2648,6 +2655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-19 16:04:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/glassblower_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-18 16:51:21 +0000"
@@ -3260,6 +3273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-19 16:04:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-15 19:28:27 +0000"
@@ -3659,6 +3678,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-18 17:52:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-19 16:05:55 +0000"
     },
     "done": true
   },
