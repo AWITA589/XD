@@ -1406,3 +1406,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Feb2025 17:55:56.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Feb2025 17:55:59.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3367ms or 67 ticks behind
 [19Feb2025 17:56:13.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[19Feb2025 18:00:57.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 18:00:57.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 18:05:57.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 18:05:57.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 18:07:36.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Zombie
+[19Feb2025 18:07:37.772] [Server thread/DEBUG] [tombstone/]: A new grave of the player The_Dragon_589 was created at position [x:1979, y:-28, z:3774, dim:minecraft:overworld]
+[19Feb2025 18:07:37.778] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved

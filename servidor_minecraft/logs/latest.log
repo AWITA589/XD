@@ -115,3 +115,5 @@
 [19Feb2025 17:55:53.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 1999.500000, -25.500000, 3753.500000]
 [19Feb2025 17:55:59.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3367ms or 67 ticks behind
 [19Feb2025 17:56:13.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[19Feb2025 18:07:36.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Zombie
+[19Feb2025 18:07:37.778] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
