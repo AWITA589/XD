@@ -81,3 +81,9 @@
 [19Feb2025 15:22:24.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gamerule randomTickSpeed is now set to: 1]
 [19Feb2025 15:22:28.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gamerule randomTickSpeed is now set to: 0]
 [19Feb2025 15:22:32.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gamerule randomTickSpeed is now set to: 1]
+[19Feb2025 15:31:09.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 1686.500000, 80.500000, 3242.500000]
+[19Feb2025 15:42:40.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Rusted Root]
+[19Feb2025 15:44:25.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was doomed to fall by Hoglin
+[19Feb2025 15:44:27.151] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[19Feb2025 15:44:29.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[19Feb2025 15:44:35.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from The_Dragon_589: hit position BlockPos{x=60, y=75, z=865} too far away from player BlockPos{x=1619, y=82, z=4392}.
