@@ -1048,6 +1048,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-02-19 22:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-15 23:27:56 +0000"
