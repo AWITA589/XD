@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/power_crystal": {
+    "criteria": {
+      "cobblestone": "2025-02-20 17:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-02-19 23:41:15 +0000"
@@ -50,6 +56,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-20 17:12:46 +0000"
     },
     "done": true
   },
@@ -113,6 +125,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/medkit": {
+    "criteria": {
+      "cobblestone": "2025-02-20 17:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 23:25:53 +0000"
@@ -140,6 +158,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-02-19 23:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-20 17:22:16 +0000"
     },
     "done": true
   },
@@ -188,6 +212,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-02-15 23:07:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-02-20 17:08:51 +0000"
     },
     "done": true
   },
@@ -359,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-20 17:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-15 23:27:56 +0000"
@@ -394,6 +430,7 @@
       "bread": "2025-02-16 00:35:42 +0000",
       "golden_apple": "2025-02-17 22:01:24 +0000",
       "rotten_flesh": "2025-02-15 23:45:20 +0000",
+      "glow_berries": "2025-02-20 17:16:17 +0000",
       "golden_carrot": "2025-02-17 22:30:27 +0000",
       "cooked_rabbit": "2025-02-19 23:54:18 +0000",
       "carrot": "2025-02-17 22:17:16 +0000"
@@ -469,6 +506,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-20 17:22:16 +0000"
     },
     "done": true
   },
@@ -868,6 +911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-20 17:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-15 23:32:47 +0000"
@@ -952,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-20 17:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-15 23:34:39 +0000",
@@ -959,6 +1014,7 @@
       "minecraft:spider": "2025-02-15 23:17:11 +0000",
       "minecraft:piglin_brute": "2025-02-17 22:31:56 +0000",
       "minecraft:creeper": "2025-02-19 22:20:33 +0000",
+      "minecraft:cave_spider": "2025-02-20 17:17:28 +0000",
       "minecraft:piglin": "2025-02-17 22:31:51 +0000",
       "minecraft:enderman": "2025-02-15 23:16:35 +0000",
       "minecraft:stray": "2025-02-17 21:55:37 +0000",
@@ -1074,6 +1130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-20 17:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-15 23:27:56 +0000"
@@ -1164,6 +1226,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-02-20 17:21:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-17 22:20:47 +0000"
@@ -1179,6 +1247,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-15 23:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-20 17:22:16 +0000"
     },
     "done": true
   },
@@ -1332,6 +1406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-20 17:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-15 23:18:06 +0000"
@@ -1446,6 +1526,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/bandages": {
+    "criteria": {
+      "cobblestone": "2025-02-20 17:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-15 23:26:29 +0000"
@@ -1497,6 +1583,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-02-15 23:43:10 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/scalinghealth/heart_crystal": {
+    "criteria": {
+      "cobblestone": "2025-02-20 17:33:12 +0000"
     },
     "done": true
   },
@@ -1596,6 +1688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-20 17:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-15 23:07:51 +0000"
@@ -1611,6 +1709,12 @@
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-02-19 22:57:55 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2025-02-20 17:22:17 +0000"
     },
     "done": true
   },
@@ -1689,6 +1793,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-18 16:04:08 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/scalinghealth/heart_dust": {
+    "criteria": {
+      "cobblestone": "2025-02-20 17:33:12 +0000"
     },
     "done": true
   },
@@ -1850,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-20 17:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-02-17 22:02:03 +0000"
@@ -1943,6 +2059,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-02-17 22:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-20 17:22:16 +0000"
     },
     "done": true
   },
@@ -2048,6 +2170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-20 17:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 23:03:34 +0000"
@@ -2068,6 +2196,18 @@
       "minecraft:warped_forest": "2025-02-18 17:25:22 +0000"
     },
     "done": false
+  },
+  "toolleveling:recipes/tool_leveling_table": {
+    "criteria": {
+      "has_enchanting_table": "2025-02-20 17:08:51 +0000"
+    },
+    "done": true
+  },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2025-02-20 17:27:54 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
