@@ -735,6 +735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-20 18:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-17 22:31:00 +0000"
@@ -804,6 +810,12 @@
   "scalinghealth:recipes/scalinghealth/bandages": {
     "criteria": {
       "cobblestone": "2025-02-20 17:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-20 18:33:09 +0000"
     },
     "done": true
   },
@@ -1046,6 +1058,7 @@
       "minecraft:birch_forest": "2025-02-15 23:18:24 +0000",
       "minecraft:wooded_badlands": "2025-02-19 16:29:37 +0000",
       "minecraft:badlands": "2025-02-19 21:55:07 +0000",
+      "minecraft:savanna_plateau": "2025-02-20 18:33:20 +0000",
       "minecraft:beach": "2025-02-17 22:13:55 +0000",
       "minecraft:sparse_jungle": "2025-02-19 22:01:33 +0000",
       "minecraft:river": "2025-02-17 21:54:34 +0000",
@@ -1077,6 +1090,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-20 18:33:09 +0000"
     },
     "done": true
   },

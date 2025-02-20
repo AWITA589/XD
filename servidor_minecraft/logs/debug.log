@@ -6257,3 +6257,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Feb2025 18:23:13.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Feb2025 18:28:13.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Feb2025 18:28:13.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 18:33:13.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 18:33:13.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 18:36:20.867] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[20Feb2025 18:38:13.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 18:38:13.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 18:39:27.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Fire Dragon
+[20Feb2025 18:39:27.089] [Server thread/DEBUG] [tombstone/]: A new grave of the player zalvro was created at position [x:425, y:-24, z:1150, dim:minecraft:overworld]
+[20Feb2025 18:39:27.097] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:39:28.466] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:39:28.468] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[20Feb2025 18:39:34.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=425, y=-23, z=1150}.
+[20Feb2025 18:39:34.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=425, y=-23, z=1150}.
+[20Feb2025 18:39:34.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=425, y=-23, z=1150}.
+[20Feb2025 18:39:37.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Fire Dragon
+[20Feb2025 18:39:37.117] [Server thread/DEBUG] [tombstone/]: A new grave of the player zalvro was created at position [x:425, y:-24, z:1150, dim:minecraft:overworld]
+[20Feb2025 18:39:37.129] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:39:38.793] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:39:38.793] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[20Feb2025 18:39:47.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was incinerated by Fire Dragon
+[20Feb2025 18:39:47.700] [Server thread/DEBUG] [tombstone/]: A new grave of the player zalvro was created at position [x:425, y:-24, z:1150, dim:minecraft:overworld]
+[20Feb2025 18:39:47.715] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:39:49.286] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:39:49.286] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[20Feb2025 18:39:55.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=425, y=-23, z=1150}.
+[20Feb2025 18:39:55.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=425, y=-23, z=1150}.
+[20Feb2025 18:40:02.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Fire Dragon
+[20Feb2025 18:40:02.046] [Server thread/DEBUG] [tombstone/]: A new grave of the player zalvro was created at position [x:425, y:-28, z:1150, dim:minecraft:overworld]
+[20Feb2025 18:40:02.087] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:40:03.367] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:40:03.367] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
