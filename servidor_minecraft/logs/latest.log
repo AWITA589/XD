@@ -1214,3 +1214,17 @@
 [20Feb2025 16:13:25.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Not Carbolic]
 [20Feb2025 16:13:25.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Quickly Applied]
 [20Feb2025 16:13:44.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [All colours will agree in the dark]
+[20Feb2025 16:45:21.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gamerule maxEntityCramming is now set to: 100]
+[20Feb2025 16:46:53.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Timed out
+[20Feb2025 16:46:53.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[20Feb2025 16:46:53.678] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Feb2025 16:49:55.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Feb2025 16:49:55.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gamerule maxEntityCramming 24<--[HERE]
+[20Feb2025 16:50:23.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[20Feb2025 16:50:23.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gamerule maxentitycramming 24<--[HERE]
+[20Feb2025 16:50:42.154] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e2d7029
+[20Feb2025 16:50:42.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.98.178.24:47831] logged in with entity id 15195 at (20.687461935133598, 75.0, 880.6999999880791)
+[20Feb2025 16:50:42.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[20Feb2025 16:50:42.234] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[20Feb2025 16:50:42.236] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[20Feb2025 16:50:42.236] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
