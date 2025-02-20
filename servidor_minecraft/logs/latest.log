@@ -1229,3 +1229,13 @@
 [20Feb2025 16:50:42.236] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
 [20Feb2025 16:50:42.236] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [20Feb2025 16:52:21.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gamerule maxEntityCramming is now set to: 24]
+[20Feb2025 17:08:51.195] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71465217
+[20Feb2025 17:08:51.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:43289] logged in with entity id 18086 at (23.850708327354823, 75.0, 876.6319833811838)
+[20Feb2025 17:08:51.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[20Feb2025 17:08:51.295] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[20Feb2025 17:08:51.297] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[20Feb2025 17:08:51.298] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[20Feb2025 17:08:51.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Ice and Fire]
+[20Feb2025 17:09:22.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> chau wa comer
+[20Feb2025 17:09:23.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[20Feb2025 17:09:26.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> chau xdd
