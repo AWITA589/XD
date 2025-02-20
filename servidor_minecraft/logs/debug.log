@@ -11996,3 +11996,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Feb2025 19:28:17.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [A Flaming Sword]
 [20Feb2025 19:28:25.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Feb2025 19:28:25.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:33:25.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:33:25.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:35:17.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Mother of Dragons]
+[20Feb2025 19:36:03.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[20Feb2025 19:36:05.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> esta prra
+[20Feb2025 19:36:48.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gamerule maxEntityCramming is now set to: 100]
+[20Feb2025 19:38:25.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:38:25.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:39:25.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gamerule maxEntityCramming is now set to: 24]
+[20Feb2025 19:43:06.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 374.500000, 97.500000, 1792.500000]
+[20Feb2025 19:43:25.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:43:25.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:48:25.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:48:25.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:53:25.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:53:25.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
