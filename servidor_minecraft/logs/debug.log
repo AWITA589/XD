@@ -12040,3 +12040,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Feb2025 20:13:55.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> que encantamientos tiene
 [20Feb2025 20:14:05.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> fortuna 12+1
 [20Feb2025 20:14:13.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> eficiencia 6
+[20Feb2025 20:14:24.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> imrompibilidad 8
+[20Feb2025 20:14:33.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20Feb2025 20:14:38.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> a la mrda
+[20Feb2025 20:14:42.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano asme tp
+[20Feb2025 20:14:45.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> xd
+[20Feb2025 20:14:53.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[20Feb2025 20:15:04.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> a la mrda
+[20Feb2025 20:17:11.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> quieres ayudar
+[20Feb2025 20:17:13.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ??
+[20Feb2025 20:17:20.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> rellena todo esto
+[20Feb2025 20:17:35.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> tengo que irme ahora :c wa ir a mi entrenamiento
+[20Feb2025 20:17:44.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> bueno
+[20Feb2025 20:17:49.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> tu te lo pierdes
+[20Feb2025 20:17:55.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> :ccc
+[20Feb2025 20:18:29.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:18:29.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:18:32.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Disconnected
+[20Feb2025 20:18:32.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[20Feb2025 20:23:29.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:23:29.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:24:22.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=79, z=932} BlockPos{x=63, y=79, z=931}
