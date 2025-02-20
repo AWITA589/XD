@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/power_crystal": {
+    "criteria": {
+      "cobblestone": "2025-02-20 15:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:07:52 +0000"
@@ -182,6 +188,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-02-15 23:04:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-02-20 15:33:17 +0000"
     },
     "done": true
   },
@@ -1299,6 +1311,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/bandages": {
+    "criteria": {
+      "cobblestone": "2025-02-20 15:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-02-17 21:51:58 +0000"
@@ -1539,6 +1557,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/heart_dust": {
+    "criteria": {
+      "cobblestone": "2025-02-20 15:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:07:17 +0000"
@@ -1632,6 +1656,12 @@
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-19 16:31:48 +0000"
+    },
+    "done": true
+  },
+  "enchantmentmachine:recipes/enchantmentmachine/enchantment_block": {
+    "criteria": {
+      "has_obsidian": "2025-02-20 15:33:55 +0000"
     },
     "done": true
   },
@@ -1902,6 +1932,12 @@
     },
     "done": true
   },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2025-02-20 15:33:33 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_infested_temple_map": {
     "criteria": {
       "find_map": "2025-02-15 19:31:28 +0000"
@@ -2004,6 +2040,12 @@
     },
     "done": true
   },
+  "enchantmentmachine:recipes/enchantmentmachine/disenchanter_block": {
+    "criteria": {
+      "has_obsidian": "2025-02-20 15:33:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-02-15 22:56:54 +0000"
@@ -2079,6 +2121,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-02-16 00:01:24 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/scalinghealth/medkit": {
+    "criteria": {
+      "cobblestone": "2025-02-20 15:34:00 +0000"
     },
     "done": true
   },
@@ -3428,6 +3476,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/heart_crystal": {
+    "criteria": {
+      "cobblestone": "2025-02-20 15:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 23:03:33 +0000"
@@ -3884,9 +3938,21 @@
     },
     "done": true
   },
+  "toolleveling:recipes/tool_leveling_table": {
+    "criteria": {
+      "has_enchanting_table": "2025-02-20 15:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-18 17:52:15 +0000"
+    },
+    "done": true
+  },
+  "enchantmentmachine:recipes/enchantmentmachine/enchanter_block": {
+    "criteria": {
+      "has_obsidian": "2025-02-20 15:33:55 +0000"
     },
     "done": true
   },
