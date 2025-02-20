@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-20 19:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-17 21:39:20 +0000"
@@ -1301,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-20 19:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-18 23:25:32 +0000"
@@ -1769,6 +1781,7 @@
       "minecraft:ocean": "2025-02-15 23:02:34 +0000",
       "minecraft:jungle": "2025-02-19 22:17:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-15 22:55:56 +0000",
+      "minecraft:flower_forest": "2025-02-20 19:17:30 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-17 21:32:30 +0000",
       "minecraft:meadow": "2025-02-20 17:41:15 +0000",
       "minecraft:savanna": "2025-02-16 00:25:31 +0000",
@@ -1947,6 +1960,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-02-16 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-20 19:14:50 +0000"
     },
     "done": true
   },
@@ -2808,6 +2827,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-02-20 19:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-15 23:27:13 +0000"
@@ -3231,6 +3256,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-02-18 23:25:32 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-20 19:19:10 +0000"
     },
     "done": true
   },
@@ -3792,6 +3823,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-20 19:19:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-02-17 22:34:27 +0000"
@@ -3933,6 +3970,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-19 22:01:07 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-20 19:19:10 +0000"
     },
     "done": true
   },
@@ -4119,6 +4162,12 @@
   "toolleveling:recipes/tool_leveling_table": {
     "criteria": {
       "has_enchanting_table": "2025-02-20 15:33:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-02-20 19:23:43 +0000"
     },
     "done": true
   },

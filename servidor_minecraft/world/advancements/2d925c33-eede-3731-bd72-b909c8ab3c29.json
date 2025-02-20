@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-02-20 19:28:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-02-17 21:39:13 +0000"
@@ -505,8 +511,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-20 19:20:02 +0000",
       "minecraft:skeleton": "2025-02-15 23:34:39 +0000",
       "minecraft:hoglin": "2025-02-18 17:34:20 +0000",
+      "minecraft:magma_cube": "2025-02-20 19:10:17 +0000",
       "minecraft:spider": "2025-02-15 23:17:11 +0000",
       "minecraft:piglin_brute": "2025-02-17 22:31:56 +0000",
       "minecraft:creeper": "2025-02-19 22:20:33 +0000",
@@ -516,7 +524,8 @@
       "minecraft:enderman": "2025-02-15 23:16:35 +0000",
       "minecraft:stray": "2025-02-17 21:55:37 +0000",
       "minecraft:zombie": "2025-02-15 23:17:30 +0000",
-      "minecraft:drowned": "2025-02-20 18:16:15 +0000"
+      "minecraft:drowned": "2025-02-20 18:16:15 +0000",
+      "minecraft:zombie_villager": "2025-02-20 19:18:44 +0000"
     },
     "done": false
   },
@@ -1088,6 +1097,7 @@
       "minecraft:desert": "2025-02-19 21:55:10 +0000",
       "minecraft:ocean": "2025-02-15 23:03:40 +0000",
       "minecraft:jungle": "2025-02-19 22:17:59 +0000",
+      "minecraft:flower_forest": "2025-02-20 19:17:32 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-17 22:06:24 +0000",
       "minecraft:meadow": "2025-02-20 18:18:11 +0000",
       "minecraft:savanna": "2025-02-20 19:00:38 +0000",
@@ -1218,6 +1228,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-02-15 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-20 19:19:22 +0000"
     },
     "done": true
   },
@@ -1740,6 +1756,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-02-20 19:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-15 23:26:29 +0000"
@@ -2214,6 +2236,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-02-20 19:09:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:10:45 +0000"
@@ -2364,6 +2392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-20 19:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-02-17 22:02:02 +0000"
@@ -2487,6 +2521,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-15 23:32:47 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-02-20 19:27:14 +0000"
     },
     "done": true
   },

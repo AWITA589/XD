@@ -1437,3 +1437,49 @@
 [20Feb2025 19:09:14.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has reached the goal [Magic Siphoner]
 [20Feb2025 19:09:43.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> globo aerostatico
 [20Feb2025 19:12:22.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[20Feb2025 19:12:55.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> vamos pve insano
+[20Feb2025 19:13:10.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mi armadura se va romper :v
+[20Feb2025 19:13:15.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> Y???
+[20Feb2025 19:13:30.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> quiero guardar sus encantamientos xd
+[20Feb2025 19:14:50.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Who You Gonna Call?]
+[20Feb2025 19:17:48.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Feb2025 19:18:06.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3039ms or 60 ticks behind
+[20Feb2025 19:18:24.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20Feb2025 19:19:10.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Zombie Villager
+[20Feb2025 19:19:10.974] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 19:19:12.496] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 19:19:12.496] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[20Feb2025 19:19:14.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> jajjaja
+[20Feb2025 19:19:29.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [All Along The Watchtower]
+[20Feb2025 19:19:54.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [All Along The Watchtower]
+[20Feb2025 19:20:02.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> aaaaaaaa
+[20Feb2025 19:20:21.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no entrres
+[20Feb2025 19:21:08.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Zombie Villager
+[20Feb2025 19:21:08.848] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 19:21:10.242] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 19:21:10.243] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Feb2025 19:21:11.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[20Feb2025 19:21:16.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=864} too far away from player BlockPos{x=1188, y=68, z=2074}.
+[20Feb2025 19:21:16.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=1188, y=68, z=2074}.
+[20Feb2025 19:21:16.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=1188, y=68, z=2074}.
+[20Feb2025 19:21:16.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=1188, y=68, z=2074}.
+[20Feb2025 19:21:42.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Zombie Villager
+[20Feb2025 19:21:42.722] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 19:21:44.346] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 19:21:44.349] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[20Feb2025 19:21:56.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=1177, y=66, z=2095}.
+[20Feb2025 19:23:19.601] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/65929, l='ServerLevel[world]', x=1145.80, y=65.00, z=2201.56] died, message: 'Farmer was slain by Zombie Villager'
+[20Feb2025 19:23:43.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Splintering II]
+[20Feb2025 19:23:53.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Feb2025 19:24:11.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[20Feb2025 19:25:33.258] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1848, y=23, z=2150} but found not block entity block Block{minecraft:water}[level=0] at location
+[20Feb2025 19:25:33.259] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1848, y=23, z=2150}
+[20Feb2025 19:26:05.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano estas en la hato?
+[20Feb2025 19:26:11.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no
+[20Feb2025 19:26:19.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> por??
+[20Feb2025 19:26:20.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> pipipipii
+[20Feb2025 19:26:33.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> ya se me rompio la armadura xd
+[20Feb2025 19:26:42.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[20Feb2025 19:26:55.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> estoy desnudo xd
+[20Feb2025 19:27:14.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has reached the goal [Pray to the Goddess]
+[20Feb2025 19:28:17.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [A Flaming Sword]
