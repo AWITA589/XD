@@ -1228,3 +1228,4 @@
 [20Feb2025 16:50:42.234] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
 [20Feb2025 16:50:42.236] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
 [20Feb2025 16:50:42.236] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[20Feb2025 16:52:21.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gamerule maxEntityCramming is now set to: 24]
