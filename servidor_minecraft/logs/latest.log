@@ -1526,3 +1526,10 @@
 [20Feb2025 20:18:32.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Disconnected
 [20Feb2025 20:18:32.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
 [20Feb2025 20:24:22.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=79, z=932} BlockPos{x=63, y=79, z=931}
+[20Feb2025 20:55:46.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Stolen Magic]
+[20Feb2025 20:56:32.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to -3.500000, 100.500000, 113.500000]
+[20Feb2025 21:01:21.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[20Feb2025 21:01:58.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[20Feb2025 21:03:30.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[20Feb2025 21:03:42.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[20Feb2025 21:04:25.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has reached the goal [Magic Siphoner]
