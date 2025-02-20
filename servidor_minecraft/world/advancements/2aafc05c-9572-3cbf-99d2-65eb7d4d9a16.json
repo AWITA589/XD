@@ -1473,6 +1473,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2025-02-20 15:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-16 00:29:23 +0000"
