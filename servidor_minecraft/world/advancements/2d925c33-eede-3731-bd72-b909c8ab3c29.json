@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-20 18:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-02-20 17:24:46 +0000"
@@ -504,6 +510,7 @@
       "minecraft:spider": "2025-02-15 23:17:11 +0000",
       "minecraft:piglin_brute": "2025-02-17 22:31:56 +0000",
       "minecraft:creeper": "2025-02-19 22:20:33 +0000",
+      "minecraft:witch": "2025-02-20 18:56:59 +0000",
       "minecraft:cave_spider": "2025-02-20 17:17:28 +0000",
       "minecraft:piglin": "2025-02-17 22:31:51 +0000",
       "minecraft:enderman": "2025-02-15 23:16:35 +0000",
@@ -618,6 +625,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-02-15 23:07:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_giant_mushroom": {
+    "criteria": {
+      "location0": "2025-02-20 19:01:09 +0000"
     },
     "done": true
   },
@@ -1023,6 +1036,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-02-20 18:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 23:03:34 +0000"
@@ -1071,6 +1090,7 @@
       "minecraft:jungle": "2025-02-19 22:17:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-17 22:06:24 +0000",
       "minecraft:meadow": "2025-02-20 18:18:11 +0000",
+      "minecraft:savanna": "2025-02-20 19:00:38 +0000",
       "minecraft:plains": "2025-02-15 23:03:54 +0000"
     },
     "done": false
@@ -1294,6 +1314,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-20 18:56:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-02-15 23:18:06 +0000"
@@ -1492,6 +1518,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-02-20 18:48:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-02-18 16:52:26 +0000"
@@ -1561,6 +1593,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-20 18:47:22 +0000"
     },
     "done": true
   },
@@ -2074,6 +2112,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-02-20 19:08:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-02-15 23:43:39 +0000"
@@ -2371,6 +2415,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-02-15 23:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-20 18:46:13 +0000"
     },
     "done": true
   },

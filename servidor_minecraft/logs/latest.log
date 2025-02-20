@@ -1344,3 +1344,96 @@
 [20Feb2025 18:40:02.087] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
 [20Feb2025 18:40:03.367] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [20Feb2025 18:40:03.367] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[20Feb2025 18:42:37.097] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f40214a
+[20Feb2025 18:42:37.123] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.98.178.24:58003] logged in with entity id 41366 at (516.6999999880791, -5.0, 1594.699999988079)
+[20Feb2025 18:42:37.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[20Feb2025 18:42:37.161] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[20Feb2025 18:42:37.162] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[20Feb2025 18:42:37.163] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[20Feb2025 18:42:43.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> UWU
+[20Feb2025 18:42:46.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> manoooooo
+[20Feb2025 18:42:51.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> haste tp
+[20Feb2025 18:42:58.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> me estan violando
+[20Feb2025 18:42:59.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no
+[20Feb2025 18:43:12.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano un dragon madre de fuego
+[20Feb2025 18:43:22.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> y el mio tambien
+[20Feb2025 18:43:28.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> tmadre
+[20Feb2025 18:43:34.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was turned into KFC by Fire Dragon
+[20Feb2025 18:43:34.780] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:43:36.963] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:43:36.963] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[20Feb2025 18:43:44.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=61, y=75, z=863} too far away from player BlockPos{x=425, y=-32, z=1150}.
+[20Feb2025 18:43:44.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=60, y=75, z=863} too far away from player BlockPos{x=425, y=-32, z=1150}.
+[20Feb2025 18:43:44.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=60, y=75, z=863} too far away from player BlockPos{x=425, y=-32, z=1150}.
+[20Feb2025 18:44:15.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> bueno mio es macho
+[20Feb2025 18:44:29.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> el mios es negraaaa
+[20Feb2025 18:44:38.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ?????????
+[20Feb2025 18:45:28.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was turned into KFC by Fire Dragon
+[20Feb2025 18:45:29.004] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:45:30.209] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:45:30.210] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[20Feb2025 18:45:39.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Fire Dragon
+[20Feb2025 18:45:39.761] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:45:41.152] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:45:41.153] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[20Feb2025 18:45:49.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Fire Dragon
+[20Feb2025 18:45:49.651] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:45:50.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[20Feb2025 18:45:51.243] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:45:51.246] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[20Feb2025 18:46:13.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Take Aim]
+[20Feb2025 18:46:42.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was incinerated by Fire Dragon
+[20Feb2025 18:46:44.262] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[20Feb2025 18:46:44.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 moved too quickly! 1.235612534284087,-9.225357909726506,-5.714587845790675
+[20Feb2025 18:46:44.476] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:46:44.477] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Feb2025 18:46:45.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was incinerated by Fire Dragon
+[20Feb2025 18:46:45.604] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:46:46.796] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:46:46.797] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Feb2025 18:46:46.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> :C
+[20Feb2025 18:47:02.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Fire Dragon
+[20Feb2025 18:47:02.651] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:47:03.937] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:47:03.938] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[20Feb2025 18:47:13.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> wa uasr la cabeza
+[20Feb2025 18:47:19.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Fire Dragon
+[20Feb2025 18:47:19.247] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 18:47:20.495] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 18:47:20.496] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Feb2025 18:47:22.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Dragonslayer]
+[20Feb2025 18:47:43.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> esta es la ultima vez que lo usas por que esta muy roto
+[20Feb2025 18:47:50.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> :C
+[20Feb2025 18:48:09.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
+[20Feb2025 18:48:37.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Mother of Dragons]
+[20Feb2025 18:48:49.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> :v el huevo es verde
+[20Feb2025 18:56:38.094] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[20Feb2025 18:56:59.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Ambush]
+[20Feb2025 18:57:10.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[20Feb2025 18:58:31.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano que mrda es esto?
+[20Feb2025 18:58:37.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> nose
+[20Feb2025 18:58:57.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> tiene bedrock
+[20Feb2025 19:01:40.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano sabes donde esta hato
+[20Feb2025 19:01:46.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no
+[20Feb2025 19:01:58.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> ptmare xdd
+[20Feb2025 19:02:41.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Lightning Dragon
+[20Feb2025 19:02:41.852] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 19:02:43.218] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 19:02:43.218] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[20Feb2025 19:02:48.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=340, y=77, z=1869}.
+[20Feb2025 19:02:48.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=340, y=77, z=1869}.
+[20Feb2025 19:02:48.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=340, y=77, z=1869}.
+[20Feb2025 19:02:57.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Lightning Dragon
+[20Feb2025 19:02:57.951] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[20Feb2025 19:02:59.295] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Feb2025 19:02:59.295] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[20Feb2025 19:03:04.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=62, y=75, z=863} too far away from player BlockPos{x=342, y=77, z=1869}.
+[20Feb2025 19:03:09.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
+[20Feb2025 19:07:37.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> no mamesssss
+[20Feb2025 19:07:41.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> q??
+[20Feb2025 19:07:51.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> un telederigido xd
+[20Feb2025 19:08:03.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ???
+[20Feb2025 19:08:57.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved wrongly!
+[20Feb2025 19:09:14.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has reached the goal [Magic Siphoner]
+[20Feb2025 19:09:43.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> globo aerostatico
+[20Feb2025 19:12:22.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]

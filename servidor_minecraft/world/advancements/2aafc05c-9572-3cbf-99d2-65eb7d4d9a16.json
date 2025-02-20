@@ -1679,6 +1679,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-02-20 18:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 23:03:33 +0000"
