@@ -99,3 +99,4 @@
 [21Feb2025 21:59:27.922] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [21Feb2025 21:59:29.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
 [21Feb2025 21:59:49.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5102ms or 102 ticks behind
+[21Feb2025 22:09:16.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Gamerule maxEntityCramming is now set to: 0]
