@@ -1043,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-02-23 22:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-19 16:31:48 +0000"
@@ -1163,6 +1169,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-23 22:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-02-16 00:19:04 +0000"
@@ -1262,6 +1274,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-02-17 21:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-02-23 22:38:31 +0000"
     },
     "done": true
   },
@@ -1844,6 +1862,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mushroom_fields": "2025-02-15 23:02:05 +0000",
+      "minecraft:taiga": "2025-02-23 22:44:37 +0000",
       "minecraft:deep_ocean": "2025-02-16 00:22:49 +0000",
       "minecraft:eroded_badlands": "2025-02-19 15:53:35 +0000",
       "minecraft:birch_forest": "2025-02-15 23:10:02 +0000",
@@ -3225,6 +3244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-02-23 22:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-02-17 21:36:14 +0000"
@@ -4281,6 +4306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-02-23 22:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
     "criteria": {
       "has_cut_red_sandstone": "2025-02-19 15:54:10 +0000"
@@ -4376,6 +4407,12 @@
       "has_stone": "2025-02-16 00:29:23 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/siamese.png": "2025-02-23 22:47:43 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
