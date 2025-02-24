@@ -327,3 +327,4 @@
 [24Feb2025 19:50:44.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52878, l='ServerLevel[world]', x=19.07, y=78.00, z=909.50] died, message: 'Villager was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
 [24Feb2025 19:53:07.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
 [24Feb2025 19:53:21.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48148, l='ServerLevel[world]', x=35.77, y=78.06, z=907.50] died, message: 'Villager was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 20:24:40.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=172, y=62, z=860} BlockPos{x=172, y=61, z=860}
