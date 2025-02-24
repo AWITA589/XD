@@ -2748,3 +2748,99 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Feb2025 17:51:18.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> negro??
 [24Feb2025 17:51:28.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> la cosa es qeu sea de electricidad
 [24Feb2025 17:54:12.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [The Heart and the Flame]
+[24Feb2025 17:54:47.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 17:54:47.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 17:55:59.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> ptamareeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[24Feb2025 17:56:05.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> a un bloque webon
+[24Feb2025 17:56:45.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> xdddd
+[24Feb2025 17:56:59.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> corre a matar
+[24Feb2025 17:57:05.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> sera p xd
+[24Feb2025 17:57:11.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> o sino mira has esto
+[24Feb2025 17:57:38.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> todo el suelo y techo
+[24Feb2025 17:57:50.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> que mrda xdddd
+[24Feb2025 17:57:54.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mejor me wa a matar
+[24Feb2025 17:58:09.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> despues chambeare
+[24Feb2025 17:58:13.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ok
+[24Feb2025 17:58:16.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> yo wa buscar
+[24Feb2025 17:58:25.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 374.500000, 97.500000, 1792.500000]
+[24Feb2025 17:58:25.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3237ms or 64 ticks behind
+[24Feb2025 17:58:26.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> :vvvvv
+[24Feb2025 17:58:34.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> yayayaya deja el huevo incubando
+[24Feb2025 17:58:40.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> :v asi sera mas rapido
+[24Feb2025 17:58:45.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
+[24Feb2025 17:59:09.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 374.500000, 97.500000, 1792.500000]
+[24Feb2025 17:59:13.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ok ahi dejo mi huevo
+[24Feb2025 17:59:50.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 17:59:50.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 18:00:13.120] [Worker-Main-15/DEBUG] [mixin/]: Mixing MuteSetBlockFarChunk from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[24Feb2025 18:00:31.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ya encontre
+[24Feb2025 18:01:30.528] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-256 | 28 | 1986)
+[24Feb2025 18:01:30.560] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-256 | 28 | 1986)
+[24Feb2025 18:01:30.566] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/fireplace at (-256 | 28 | 1986)
+[24Feb2025 18:01:30.568] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/fireplace at (-256 | 28 | 1986)
+[24Feb2025 18:01:30.568] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-256 | 28 | 2013)
+[24Feb2025 18:01:30.569] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-256 | 28 | 2013)
+[24Feb2025 18:01:30.569] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/dark_hall at (-256 | 28 | 2013)
+[24Feb2025 18:01:30.574] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/dark_hall at (-256 | 28 | 2013)
+[24Feb2025 18:01:30.574] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_90 at (-256 | 9 | 2004)
+[24Feb2025 18:01:30.582] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_90 at (-256 | 9 | 2004)
+[24Feb2025 18:01:30.641] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-256 | 28 | 1986)
+[24Feb2025 18:01:30.651] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-256 | 28 | 1986)
+[24Feb2025 18:01:30.651] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/fireplace at (-256 | 28 | 1986)
+[24Feb2025 18:01:30.652] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/fireplace at (-256 | 28 | 1986)
+[24Feb2025 18:02:53.578] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-251 | 28 | 2003)
+[24Feb2025 18:02:53.603] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-251 | 28 | 2003)
+[24Feb2025 18:02:53.603] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-251 | 28 | 2003)
+[24Feb2025 18:02:53.604] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-251 | 28 | 2003)
+[24Feb2025 18:02:53.604] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-256 | 28 | 1986)
+[24Feb2025 18:02:53.621] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-256 | 28 | 1986)
+[24Feb2025 18:02:53.622] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/fireplace at (-256 | 28 | 1986)
+[24Feb2025 18:02:53.623] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/fireplace at (-256 | 28 | 1986)
+[24Feb2025 18:02:53.623] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-251 | 28 | 2008)
+[24Feb2025 18:02:53.624] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-251 | 28 | 2008)
+[24Feb2025 18:02:53.624] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-251 | 28 | 2008)
+[24Feb2025 18:02:53.628] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-251 | 28 | 2008)
+[24Feb2025 18:02:53.628] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-256 | 28 | 2013)
+[24Feb2025 18:02:53.635] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-256 | 28 | 2013)
+[24Feb2025 18:02:53.636] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/dark_hall at (-256 | 28 | 2013)
+[24Feb2025 18:02:53.638] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/dark_hall at (-256 | 28 | 2013)
+[24Feb2025 18:02:53.639] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-257 | 19 | 2010)
+[24Feb2025 18:02:53.641] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-257 | 19 | 2010)
+[24Feb2025 18:02:53.641] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-257 | 19 | 2010)
+[24Feb2025 18:02:53.642] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-257 | 19 | 2010)
+[24Feb2025 18:02:53.642] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-252 | 19 | 2008)
+[24Feb2025 18:02:53.649] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-252 | 19 | 2008)
+[24Feb2025 18:02:53.649] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/room/spawner_room at (-252 | 19 | 2008)
+[24Feb2025 18:02:53.652] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/room/spawner_room at (-252 | 19 | 2008)
+[24Feb2025 18:02:53.652] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (-250 | 16 | 2010)
+[24Feb2025 18:02:53.652] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (-250 | 16 | 2010)
+[24Feb2025 18:02:53.653] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-250 | 10 | 1999)
+[24Feb2025 18:02:53.656] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-250 | 10 | 1999)
+[24Feb2025 18:02:53.657] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_90 at (-256 | 9 | 2004)
+[24Feb2025 18:02:53.671] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_90 at (-256 | 9 | 2004)
+[24Feb2025 18:02:53.671] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-255 | -8 | 1987)
+[24Feb2025 18:02:53.673] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-255 | -8 | 1987)
+[24Feb2025 18:02:53.736] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-256 | 28 | 1986)
+[24Feb2025 18:02:53.753] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-256 | 28 | 1986)
+[24Feb2025 18:02:53.753] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/fireplace at (-256 | 28 | 1986)
+[24Feb2025 18:02:53.761] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/fireplace at (-256 | 28 | 1986)
+[24Feb2025 18:02:53.761] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-250 | 10 | 1993)
+[24Feb2025 18:02:53.762] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-250 | 10 | 1993)
+[24Feb2025 18:02:53.762] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-256 | 10 | 1983)
+[24Feb2025 18:02:53.766] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-256 | 10 | 1983)
+[24Feb2025 18:02:53.767] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-251 | 10 | 1994)
+[24Feb2025 18:02:53.772] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-251 | 10 | 1994)
+[24Feb2025 18:02:53.773] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-255 | 10 | 1978)
+[24Feb2025 18:02:53.800] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-255 | 10 | 1978)
+[24Feb2025 18:02:53.807] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-250 | 10 | 1999)
+[24Feb2025 18:02:53.807] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-250 | 10 | 1999)
+[24Feb2025 18:02:53.808] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-256 | -8 | 1992)
+[24Feb2025 18:02:53.808] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-256 | -8 | 1992)
+[24Feb2025 18:02:53.808] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-255 | -8 | 1987)
+[24Feb2025 18:02:53.837] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-255 | -8 | 1987)
+[24Feb2025 18:02:54.397] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-256 | 10 | 1983)
+[24Feb2025 18:02:54.397] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-256 | 10 | 1983)
+[24Feb2025 18:02:54.397] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-255 | 10 | 1978)
+[24Feb2025 18:02:54.406] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-255 | 10 | 1978)
+[24Feb2025 18:03:22.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ptmr tiene 600 de vida
+[24Feb2025 18:03:29.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> xdddd
