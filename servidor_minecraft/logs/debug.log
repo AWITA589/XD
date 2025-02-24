@@ -2947,3 +2947,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Feb2025 19:40:01.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
 [24Feb2025 19:44:50.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Feb2025 19:44:50.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 19:49:02.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[24Feb2025 19:49:50.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 19:49:50.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 19:50:42.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55204, l='ServerLevel[world]', x=16.46, y=77.00, z=909.75] died, message: 'Villager was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 19:50:42.305] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48153, l='ServerLevel[world]', x=16.30, y=78.00, z=908.70] died, message: 'Villager was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 19:50:42.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54390, l='ServerLevel[world]', x=17.29, y=77.00, z=909.46] died, message: 'Villager was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 19:50:44.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52878, l='ServerLevel[world]', x=19.07, y=78.00, z=909.50] died, message: 'Villager was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 19:53:07.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[24Feb2025 19:53:21.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48148, l='ServerLevel[world]', x=35.77, y=78.06, z=907.50] died, message: 'Villager was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 19:54:50.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 19:54:50.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
