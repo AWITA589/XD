@@ -178,3 +178,27 @@
 [24Feb2025 17:17:21.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
 [24Feb2025 17:17:21.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
 [24Feb2025 17:17:27.011] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by zalvro
+[24Feb2025 17:34:50.925] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d9bfa4d
+[24Feb2025 17:34:50.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.98.178.24:44201] logged in with entity id 18563 at (60.417307515211505, 76.0, 865.2528539419579)
+[24Feb2025 17:34:50.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[24Feb2025 17:34:51.002] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[24Feb2025 17:34:51.004] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[24Feb2025 17:34:51.004] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[24Feb2025 17:35:33.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> hola :3
+[24Feb2025 17:35:39.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> xddd
+[24Feb2025 17:35:50.505] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by The_Dragon_589
+[24Feb2025 17:36:51.835] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by The_Dragon_589
+[24Feb2025 17:37:39.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> wa seguir chambeando
+[24Feb2025 17:37:46.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> ayayayaya
+[24Feb2025 17:41:51.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[24Feb2025 17:42:08.291] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by The_Dragon_589
+[24Feb2025 17:42:51.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> q piedra querias'???
+[24Feb2025 17:42:59.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> la normal xd
+[24Feb2025 17:43:05.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> esta??
+[24Feb2025 17:43:08.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> sip xd
+[24Feb2025 17:43:14.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ya toma
+[24Feb2025 17:43:25.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> god
+[24Feb2025 17:43:38.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma mrd
+[24Feb2025 17:43:47.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDD
+[24Feb2025 17:43:48.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> que mrda xdddddd
+[24Feb2025 17:43:58.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> esque tengo toque de seda
