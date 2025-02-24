@@ -2857,3 +2857,56 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Feb2025 18:14:49.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mi huevo de amatista
 [24Feb2025 18:14:50.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Feb2025 18:14:50.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 18:15:05.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [An Ear-Shattering Roar]
+[24Feb2025 18:16:14.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> cuanta vida tengo??
+[24Feb2025 18:16:21.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> 202
+[24Feb2025 18:16:26.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> :O
+[24Feb2025 18:19:50.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 18:19:50.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 18:19:53.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano
+[24Feb2025 18:20:04.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> regalame uno p xd tienes dos :v
+[24Feb2025 18:23:10.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved wrongly!
+[24Feb2025 18:24:45.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano wa ir a almorzar cuidas de ramon :v
+[24Feb2025 18:24:50.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 18:24:50.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 18:24:54.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> estoy minando
+[24Feb2025 18:24:59.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> ptma
+[24Feb2025 18:25:05.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> pero ya lo encerre xd
+[24Feb2025 18:25:06.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 moved wrongly!
+[24Feb2025 18:25:10.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Disconnected
+[24Feb2025 18:25:10.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[24Feb2025 18:25:19.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=-52, z=572} BlockPos{x=56, y=-53, z=572}
+[24Feb2025 18:25:19.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=-52, z=572} BlockPos{x=56, y=-53, z=572}
+[24Feb2025 18:25:19.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=-52, z=572} BlockPos{x=56, y=-53, z=572}
+[24Feb2025 18:25:19.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=-52, z=572} BlockPos{x=56, y=-53, z=572}
+[24Feb2025 18:25:19.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=-52, z=572} BlockPos{x=56, y=-53, z=572}
+[24Feb2025 18:25:20.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=-52, z=572} BlockPos{x=56, y=-53, z=572}
+[24Feb2025 18:29:50.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 18:29:50.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 18:31:59.628] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by The_Dragon_589
+[24Feb2025 18:34:12.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-358, y=-42, z=892} BlockPos{x=-358, y=-44, z=892}
+[24Feb2025 18:34:14.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-361, y=-41, z=892} BlockPos{x=-362, y=-42, z=892}
+[24Feb2025 18:34:14.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-361, y=-41, z=892} BlockPos{x=-362, y=-42, z=892}
+[24Feb2025 18:34:50.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 18:34:50.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 18:35:09.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
+[24Feb2025 18:37:57.960] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/405, l='ServerLevel[world]', x=39.64, y=78.00, z=908.36] died, message: 'Villager was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:37:57.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Neighborhood Brawl]
+[24Feb2025 18:37:58.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/43409, l='ServerLevel[world]', x=38.63, y=79.00, z=910.95] died, message: 'Librarian was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:37:58.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/12549, l='ServerLevel[world]', x=37.46, y=78.00, z=909.85] died, message: 'Fletcher was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:04.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/12555, l='ServerLevel[world]', x=37.52, y=78.00, z=909.45] died, message: 'Farmer was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:07.154] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/4813, l='ServerLevel[world]', x=37.20, y=78.00, z=912.83] died, message: 'Librarian was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:07.157] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/43410, l='ServerLevel[world]', x=38.10, y=79.00, z=913.92] died, message: 'Fletcher was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:07.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/12553, l='ServerLevel[world]', x=37.16, y=79.00, z=914.55] died, message: 'Fletcher was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:08.703] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/12551, l='ServerLevel[world]', x=38.62, y=79.00, z=912.10] died, message: 'Librarian was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:09.601] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/12552, l='ServerLevel[world]', x=33.30, y=78.88, z=914.70] died, message: 'Librarian was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:09.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/43405, l='ServerLevel[world]', x=32.74, y=78.88, z=914.05] died, message: 'Librarian was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:09.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Crime in Town]
+[24Feb2025 18:38:10.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/43404, l='ServerLevel[world]', x=32.43, y=78.88, z=914.70] died, message: 'Librarian was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:10.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/43408, l='ServerLevel[world]', x=32.10, y=78.13, z=913.76] died, message: 'Librarian was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:11.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/12556, l='ServerLevel[world]', x=29.52, y=78.88, z=914.45] died, message: 'Librarian was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:38:12.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/12561, l='ServerLevel[world]', x=29.10, y=78.88, z=914.28] died, message: 'Librarian was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[24Feb2025 18:39:50.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 18:39:50.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 18:44:50.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 18:44:50.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
