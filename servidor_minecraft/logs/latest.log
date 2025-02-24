@@ -132,3 +132,33 @@
 [24Feb2025 16:52:38.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=74, z=715} BlockPos{x=-8, y=75, z=716}
 [24Feb2025 16:52:50.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=74, z=719} BlockPos{x=-7, y=73, z=719}
 [24Feb2025 16:54:56.974] [Server thread/INFO] [Scaling Health/]: Blight Silverfish was killed by The_Dragon_589
+[24Feb2025 17:06:27.803] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a50a6b3
+[24Feb2025 17:06:27.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:54971] logged in with entity id 10571 at (49.48688235479006, -45.0, 2338.461718768969)
+[24Feb2025 17:06:27.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[24Feb2025 17:06:27.866] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[24Feb2025 17:06:27.867] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[24Feb2025 17:06:27.868] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[24Feb2025 17:06:30.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[24Feb2025 17:06:31.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> :OOO
+[24Feb2025 17:06:34.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=68, z=724} BlockPos{x=8, y=68, z=726}
+[24Feb2025 17:06:43.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> el señor color noche volvio
+[24Feb2025 17:06:47.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=67, z=726} BlockPos{x=9, y=67, z=727}
+[24Feb2025 17:06:47.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=67, z=727} BlockPos{x=11, y=66, z=727}
+[24Feb2025 17:07:05.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> como que color noche webon
+[24Feb2025 17:07:26.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> claro pe
+[24Feb2025 17:07:38.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> o oscuro pe
+[24Feb2025 17:09:10.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> donde estas
+[24Feb2025 17:09:13.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[24Feb2025 17:09:23.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> hola
+[24Feb2025 17:10:04.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=70, z=726} BlockPos{x=32, y=-6, z=2316}
+[24Feb2025 17:10:04.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=70, z=726} BlockPos{x=32, y=-6, z=2316}
+[24Feb2025 17:10:29.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> arriba??
+[24Feb2025 17:10:45.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 31.300000, 125.000000, 2315.693592]
+[24Feb2025 17:10:50.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> wa ir a la hato :V
+[24Feb2025 17:10:56.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
+[24Feb2025 17:11:02.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[24Feb2025 17:11:13.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> a
+[24Feb2025 17:11:15.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> xd
+[24Feb2025 17:12:12.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> lo mejore todo
+[24Feb2025 17:12:18.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ahora hay 4 spawners
+[24Feb2025 17:12:26.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> a la mrda no me di cuenta xdd
