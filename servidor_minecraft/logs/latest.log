@@ -131,3 +131,4 @@
 [24Feb2025 16:51:28.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Voluntary Exile]
 [24Feb2025 16:52:38.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=74, z=715} BlockPos{x=-8, y=75, z=716}
 [24Feb2025 16:52:50.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=74, z=719} BlockPos{x=-7, y=73, z=719}
+[24Feb2025 16:54:56.974] [Server thread/INFO] [Scaling Health/]: Blight Silverfish was killed by The_Dragon_589
