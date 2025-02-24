@@ -123,3 +123,4 @@
 [24Feb2025 14:27:17.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5512ms or 110 ticks behind
 [24Feb2025 14:35:19.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=78, z=699} BlockPos{x=-32, y=77, z=700}
 [24Feb2025 14:39:32.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[24Feb2025 14:48:38.133] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
