@@ -1019,6 +1019,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-24 15:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-15 23:27:55 +0000"
