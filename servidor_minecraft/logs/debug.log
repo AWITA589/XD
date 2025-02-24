@@ -2844,3 +2844,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Feb2025 18:02:54.406] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-255 | 10 | 1978)
 [24Feb2025 18:03:22.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ptmr tiene 600 de vida
 [24Feb2025 18:03:29.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> xdddd
+[24Feb2025 18:04:50.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 18:04:50.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 18:05:25.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
+[24Feb2025 18:06:09.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mi armadura esta echo mrd
+[24Feb2025 18:09:50.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 18:09:50.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 18:11:12.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> dame mi piedra
+[24Feb2025 18:11:14.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> las escamas
+[24Feb2025 18:11:18.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ti te doy las escamas
+[24Feb2025 18:14:21.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> y mi otro hevo
+[24Feb2025 18:14:49.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mi huevo de amatista
+[24Feb2025 18:14:50.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 18:14:50.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
