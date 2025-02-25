@@ -143,3 +143,14 @@
 [25Feb2025 14:42:04.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=67, z=869} BlockPos{x=309, y=67, z=870}
 [25Feb2025 14:42:05.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=68, z=868} BlockPos{x=310, y=69, z=867}
 [25Feb2025 14:42:05.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=68, z=868} BlockPos{x=310, y=69, z=867}
+[25Feb2025 14:51:23.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[25Feb2025 14:52:08.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[25Feb2025 14:56:09.556] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20425, l='ServerLevel[world]', x=44.51, y=78.00, z=908.50] died, message: 'Villager was slain by The_Dragon_589 using [ROMPE ANOS 3000]'
+[25Feb2025 15:02:59.738] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by The_Dragon_589
+[25Feb2025 15:03:02.886] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by The_Dragon_589
+[25Feb2025 15:04:28.193] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by The_Dragon_589
+[25Feb2025 15:06:17.095] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by The_Dragon_589
+[25Feb2025 15:06:17.097] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by The_Dragon_589
+[25Feb2025 15:06:21.441] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by The_Dragon_589
+[25Feb2025 15:07:22.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[25Feb2025 15:08:40.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
