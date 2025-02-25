@@ -154,3 +154,12 @@
 [25Feb2025 15:06:21.441] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by The_Dragon_589
 [25Feb2025 15:07:22.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
 [25Feb2025 15:08:40.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[25Feb2025 15:19:59.319] [Server thread/INFO] [Scaling Health/]: Blight Squid was killed by The_Dragon_589
+[25Feb2025 15:21:02.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
+[25Feb2025 15:23:55.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=123, z=740} BlockPos{x=-21, y=121, z=740}
+[25Feb2025 15:23:56.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=123, z=740} BlockPos{x=-21, y=121, z=740}
+[25Feb2025 15:24:48.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=110, z=736} BlockPos{x=-31, y=109, z=736}
+[25Feb2025 15:24:55.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=110, z=738} BlockPos{x=-28, y=110, z=740}
+[25Feb2025 15:24:55.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=110, z=738} BlockPos{x=-28, y=110, z=740}
+[25Feb2025 15:24:55.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=110, z=738} BlockPos{x=-28, y=110, z=740}
+[25Feb2025 15:24:55.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=110, z=738} BlockPos{x=-28, y=110, z=740}
