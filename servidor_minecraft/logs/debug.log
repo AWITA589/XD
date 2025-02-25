@@ -2360,3 +2360,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Feb2025 15:06:21.441] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by The_Dragon_589
 [25Feb2025 15:07:22.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
 [25Feb2025 15:08:40.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[25Feb2025 15:10:26.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 15:10:26.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Feb2025 15:15:26.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 15:15:26.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
