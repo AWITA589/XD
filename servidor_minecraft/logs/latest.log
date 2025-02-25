@@ -264,3 +264,23 @@
 [25Feb2025 19:02:02.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> .__.
 [25Feb2025 19:03:12.626] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by zalvro
 [25Feb2025 19:05:47.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ye tenemos reparacion
+[25Feb2025 19:07:06.213] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by zalvro
+[25Feb2025 19:07:23.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> cuanta XP quieres??
+[25Feb2025 19:07:30.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> 100
+[25Feb2025 19:07:36.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> 1000000000
+[25Feb2025 19:07:39.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=75, z=877} BlockPos{x=26, y=74, z=878}
+[25Feb2025 19:08:18.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> wa buscar tu dragon
+[25Feb2025 19:08:32.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> que tipo quieres??
+[25Feb2025 19:08:39.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3034ms or 60 ticks behind
+[25Feb2025 19:09:12.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 374.500000, 97.500000, 1792.500000]
+[25Feb2025 19:09:12.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3575ms or 71 ticks behind
+[25Feb2025 19:10:01.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano tienes un libro??
+[25Feb2025 19:10:12.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ya me fui
+[25Feb2025 19:10:28.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> a yayayya lo crafteare nomas
+[25Feb2025 19:11:43.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [What a Deal!]
+[25Feb2025 19:14:42.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[25Feb2025 19:15:00.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
+[25Feb2025 19:15:18.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3261ms or 65 ticks behind
+[25Feb2025 19:15:30.406] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-310, y=29, z=2039} but found not block entity block Block{minecraft:air} at location
+[25Feb2025 19:15:30.407] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-310, y=29, z=2039}
+[25Feb2025 19:16:22.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind

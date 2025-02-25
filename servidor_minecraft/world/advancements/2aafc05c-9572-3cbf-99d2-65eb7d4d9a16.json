@@ -1233,6 +1233,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-25 19:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:07:17 +0000"
@@ -3121,6 +3127,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-25 19:11:25 +0000"
     },
     "done": true
   },

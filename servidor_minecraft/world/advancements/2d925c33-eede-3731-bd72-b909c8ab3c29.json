@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-25 19:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-18 16:05:48 +0000"
@@ -350,6 +356,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-02-17 22:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-25 19:10:47 +0000"
     },
     "done": true
   },
@@ -1051,6 +1063,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-02-25 19:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 23:50:47 +0000"
@@ -1150,6 +1168,12 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-02-20 20:12:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-02-25 19:10:47 +0000"
     },
     "done": true
   },
@@ -1319,6 +1343,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-02-17 22:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-25 19:10:47 +0000"
     },
     "done": true
   },
@@ -1866,6 +1896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-25 19:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-02-20 18:14:32 +0000"
@@ -2119,6 +2155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-25 19:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-15 23:32:47 +0000"
@@ -2182,6 +2224,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 23:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-25 19:11:43 +0000"
     },
     "done": true
   },
@@ -2626,6 +2674,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-18 16:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-25 19:10:47 +0000"
     },
     "done": true
   },
