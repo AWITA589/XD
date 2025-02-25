@@ -136,3 +136,5 @@
 [25Feb2025 14:13:52.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=58, y=84, z=765} BlockPos{x=58, y=83, z=765}
 [25Feb2025 14:13:52.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=58, y=84, z=765} BlockPos{x=58, y=83, z=765}
 [25Feb2025 14:13:52.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=58, y=84, z=765} BlockPos{x=58, y=83, z=765}
+[25Feb2025 14:37:47.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[25Feb2025 14:38:06.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
