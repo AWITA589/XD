@@ -105,3 +105,4 @@
 [26Feb2025 18:58:04.371] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-1945, y=41, z=-164}
 [26Feb2025 18:59:00.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1804, y=6, z=-297} BlockPos{x=-1804, y=5, z=-296}
 [26Feb2025 18:59:38.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 moved wrongly!
+[26Feb2025 19:01:18.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
