@@ -1521,6 +1521,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-02-26 19:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-02-15 23:27:55 +0000"
