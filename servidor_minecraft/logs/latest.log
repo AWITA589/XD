@@ -102,3 +102,14 @@
 [01Mar2025 21:44:07.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Surge Protector]
 [01Mar2025 22:30:33.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
 [01Mar2025 22:31:55.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[01Mar2025 22:37:45.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=86, z=708} BlockPos{x=-32, y=85, z=707}
+[01Mar2025 22:37:45.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=86, z=708} BlockPos{x=-32, y=85, z=707}
+[01Mar2025 22:37:45.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=85, z=708} BlockPos{x=-32, y=85, z=707}
+[01Mar2025 22:37:48.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=87, z=713} BlockPos{x=-26, y=86, z=713}
+[01Mar2025 22:47:02.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Applied effect Speed to The_Dragon_589]
+[01Mar2025 22:47:19.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Removed every effect from The_Dragon_589]
+[01Mar2025 22:47:22.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Applied effect Speed to The_Dragon_589]
+[01Mar2025 22:49:29.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-746, y=12, z=799} BlockPos{x=-748, y=11, z=799}
+[01Mar2025 22:49:30.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-747, y=12, z=799} BlockPos{x=-747, y=10, z=799}
+[01Mar2025 22:51:52.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 60.500000, 76.500000, 865.500000]
+[01Mar2025 22:52:03.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Removed every effect from The_Dragon_589]
