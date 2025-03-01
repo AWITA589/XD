@@ -96,3 +96,6 @@
 [01Mar2025 18:25:10.335] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
 [01Mar2025 18:25:10.337] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [01Mar2025 18:29:45.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[01Mar2025 18:43:25.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=89, z=862} BlockPos{x=44, y=88, z=863}
+[01Mar2025 18:43:25.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=89, z=862} BlockPos{x=44, y=88, z=863}
+[01Mar2025 18:43:25.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=89, z=862} BlockPos{x=44, y=88, z=863}
