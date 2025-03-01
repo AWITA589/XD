@@ -1679,6 +1679,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2025-03-01 23:48:11 +0000",
       "minecraft:sheep": "2025-02-18 17:25:26 +0000",
       "minecraft:cow": "2025-02-18 23:04:38 +0000"
     },
@@ -2251,6 +2252,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-18 16:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-03-01 23:43:45 +0000"
     },
     "done": true
   },
@@ -4945,7 +4952,16 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/siamese.png": "2025-02-23 22:47:43 +0000"
+      "textures/entity/cat/tabby.png": "2025-03-01 23:48:02 +0000",
+      "textures/entity/cat/white.png": "2025-03-01 23:50:54 +0000",
+      "textures/entity/cat/black.png": "2025-03-01 23:49:49 +0000",
+      "textures/entity/cat/jellie.png": "2025-03-01 23:49:06 +0000",
+      "textures/entity/cat/siamese.png": "2025-02-23 22:47:43 +0000",
+      "textures/entity/cat/ragdoll.png": "2025-03-01 23:48:10 +0000",
+      "textures/entity/cat/british_shorthair.png": "2025-03-01 23:47:54 +0000",
+      "textures/entity/cat/persian.png": "2025-03-01 23:47:43 +0000",
+      "textures/entity/cat/red.png": "2025-03-01 23:49:24 +0000",
+      "textures/entity/cat/calico.png": "2025-03-01 23:48:52 +0000"
     },
     "done": false
   },
