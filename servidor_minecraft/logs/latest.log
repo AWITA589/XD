@@ -1,17 +1,120 @@
-[02Mar2025 00:00:52.020] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by The_Dragon_589
-[02Mar2025 00:00:53.302] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by The_Dragon_589
-[02Mar2025 00:01:33.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
-[02Mar2025 00:02:53.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
-[02Mar2025 00:04:30.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
-[02Mar2025 00:04:30.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
-[02Mar2025 00:04:36.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[02Mar2025 00:04:36.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[02Mar2025 00:04:36.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[02Mar2025 00:04:36.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[02Mar2025 00:04:37.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02Mar2025 00:04:37.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02Mar2025 00:04:37.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02Mar2025 00:04:37.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02Mar2025 00:04:37.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02Mar2025 00:04:37.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02Mar2025 00:04:37.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Mar2025 21:16:56.360] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[02Mar2025 21:16:56.364] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
+[02Mar2025 21:16:56.788] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/XD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[02Mar2025 21:16:57.869] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[02Mar2025 21:16:57.873] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[02Mar2025 21:16:57.886] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[02Mar2025 21:16:57.894] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[02Mar2025 21:16:58.146] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[02Mar2025 21:17:04.300] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Mar2025 21:17:05.273] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[02Mar2025 21:17:05.284] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Mar2025 21:17:26.916] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[02Mar2025 21:17:28.759] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[02Mar2025 21:17:28.761] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[02Mar2025 21:17:29.120] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[02Mar2025 21:17:32.798] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / iceandfire:dragonforge]' to registry
+[02Mar2025 21:17:32.799] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'iceandfire:dragonforge' to registry
+[02Mar2025 21:17:33.794] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[02Mar2025 21:17:33.814] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Created README.txt in config folder.
+[02Mar2025 21:17:33.894] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'tool_leveling_table.json' was successfully loaded.
+[02Mar2025 21:17:33.913] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: tool_leveling_table.json
+[02Mar2025 21:17:33.924] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'item_values.json' was successfully loaded.
+[02Mar2025 21:17:33.938] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: item_values.json
+[02Mar2025 21:17:33.939] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'command_config.json' was successfully loaded.
+[02Mar2025 21:17:33.941] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: command_config.json
+[02Mar2025 21:17:35.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02Mar2025 21:17:36.155] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[02Mar2025 21:17:36.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 7.7.6 Target: null
+[02Mar2025 21:17:36.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.18.x/update.json
+[02Mar2025 21:17:36.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 6.2.0 Target: null
+[02Mar2025 21:17:36.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[02Mar2025 21:17:36.391] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 6.3.1+6 Target: 6.3.0
+[02Mar2025 21:17:36.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Mar2025 21:17:36.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[02Mar2025 21:17:42.780] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Mar2025 21:17:45.779] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2360!/assets/.mcassetsroot' uses unexpected schema
+[02Mar2025 21:17:45.780] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2360!/data/.mcassetsroot' uses unexpected schema
+[02Mar2025 21:17:52.180] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Mar2025 21:17:52.186] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Mar2025 21:17:52.193] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Mar2025 21:17:52.199] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Mar2025 21:17:52.201] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Mar2025 21:17:52.211] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, get, server] and [sh_difficulty, get, targets] with inputs: [server]
+[02Mar2025 21:17:52.212] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, set, server] and [sh_difficulty, set, targets] with inputs: [server]
+[02Mar2025 21:17:52.213] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, add, server] and [sh_difficulty, add, targets] with inputs: [server]
+[02Mar2025 21:18:03.377] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[02Mar2025 21:18:07.299] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1452 advancements
+[02Mar2025 21:18:07.320] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
+[02Mar2025 21:18:08.745] [Worker-Main-2/INFO] [Dungeon Crawl/]: Done.
+[02Mar2025 21:18:11.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[02Mar2025 21:18:11.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Mar2025 21:18:11.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Mar2025 21:18:11.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Mar2025 21:18:11.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Mar2025 21:18:11.855] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Mar2025 21:18:12.133] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Mar2025 21:18:12.134] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Mar2025 21:18:12.134] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Mar2025 21:18:12.135] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Mar2025 21:18:12.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Mar2025 21:18:23.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Mar2025 21:18:28.842] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:28.896] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:28.937] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:28.968] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:28.986] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:29.022] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:29.045] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:29.074] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:29.112] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:29.163] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:29.176] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:29.236] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:29.655] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:30.160] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:30.657] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:31.162] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:31.657] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:32.159] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:32.665] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:33.161] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:33.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:34.155] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Mar2025 21:18:34.653] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[02Mar2025 21:18:35.160] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[02Mar2025 21:18:35.657] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[02Mar2025 21:18:36.154] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[02Mar2025 21:18:36.682] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Mar2025 21:18:37.153] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[02Mar2025 21:18:37.653] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[02Mar2025 21:18:38.156] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Mar2025 21:18:39.172] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[02Mar2025 21:18:39.237] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[02Mar2025 21:18:39.654] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[02Mar2025 21:18:40.482] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[02Mar2025 21:18:40.676] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[02Mar2025 21:18:41.167] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[02Mar2025 21:18:41.676] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[02Mar2025 21:18:42.172] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[02Mar2025 21:18:42.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[02Mar2025 21:18:43.170] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
+[02Mar2025 21:18:43.807] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[02Mar2025 21:18:44.155] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[02Mar2025 21:18:45.333] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 21681 ms
+[02Mar2025 21:18:45.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (33.184s)! For help, type "help"
+[02Mar2025 21:18:45.609] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Mar2025 21:18:45.656] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[02Mar2025 21:18:45.661] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[02Mar2025 21:18:47.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[02Mar2025 21:20:55.422] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7cdf1f3d
+[02Mar2025 21:20:55.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.101.2.180:59275] logged in with entity id 456 at (25.848602378656608, 78.0, 841.6362939506508)
+[02Mar2025 21:20:55.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[02Mar2025 21:20:56.117] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[02Mar2025 21:20:56.123] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[02Mar2025 21:20:56.127] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[02Mar2025 21:20:58.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[02Mar2025 21:23:57.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[02Mar2025 21:25:53.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[02Mar2025 21:26:07.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=162, z=781} BlockPos{x=-29, y=161, z=782}
+[02Mar2025 21:26:07.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=162, z=781} BlockPos{x=-29, y=161, z=782}
