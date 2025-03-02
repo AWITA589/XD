@@ -119,3 +119,18 @@
 [02Mar2025 21:26:07.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=162, z=781} BlockPos{x=-29, y=161, z=782}
 [02Mar2025 21:26:07.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=162, z=781} BlockPos{x=-29, y=161, z=782}
 [02Mar2025 21:56:33.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Mar2025 22:00:06.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[02Mar2025 22:00:31.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[02Mar2025 22:01:06.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[02Mar2025 22:01:07.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[02Mar2025 22:01:20.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[02Mar2025 22:01:21.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[02Mar2025 22:01:38.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=128, z=960} BlockPos{x=-18, y=129, z=962}
+[02Mar2025 22:01:38.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=128, z=960} BlockPos{x=-19, y=129, z=963}
+[02Mar2025 22:01:39.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=128, z=960} BlockPos{x=-19, y=128, z=961}
+[02Mar2025 22:01:39.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=128, z=960} BlockPos{x=-19, y=128, z=961}
+[02Mar2025 22:01:39.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=128, z=960} BlockPos{x=-19, y=128, z=963}
+[02Mar2025 22:01:39.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=128, z=960} BlockPos{x=-19, y=128, z=963}
+[02Mar2025 22:01:39.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=128, z=960} BlockPos{x=-19, y=128, z=963}
+[02Mar2025 22:05:06.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=122, z=962} BlockPos{x=-16, y=121, z=964}
+[02Mar2025 22:05:06.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=122, z=962} BlockPos{x=-16, y=121, z=964}
