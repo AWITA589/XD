@@ -142,3 +142,16 @@
 [03Mar2025 15:45:58.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Successfully filled 7066 blocks]
 [03Mar2025 15:47:00.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
 [03Mar2025 15:47:39.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[03Mar2025 16:01:01.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
+[03Mar2025 16:01:01.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[03Mar2025 16:01:14.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[03Mar2025 16:01:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Mar2025 16:01:14.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Mar2025 16:01:14.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Mar2025 16:01:15.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Mar2025 16:01:15.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Mar2025 16:01:15.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Mar2025 16:01:15.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Mar2025 16:01:15.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Mar2025 16:01:15.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Mar2025 16:01:15.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
