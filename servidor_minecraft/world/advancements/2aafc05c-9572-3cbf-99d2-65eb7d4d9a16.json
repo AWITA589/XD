@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-10 22:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:07:17 +0000"
@@ -110,6 +116,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-02-20 15:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-10 22:30:43 +0000"
     },
     "done": true
   },
@@ -308,6 +320,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-02-17 22:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-10 22:11:50 +0000"
     },
     "done": true
   },
@@ -623,6 +641,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-03-10 22:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-02-17 22:38:16 +0000"
@@ -776,6 +800,12 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-19 15:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-10 22:30:43 +0000"
     },
     "done": true
   },
@@ -2015,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-03-10 21:28:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-02-15 19:28:25 +0000"
@@ -2324,6 +2360,12 @@
   "iceandfire:iceandfire/stymphalian_arrow": {
     "criteria": {
       "bestiary": "2025-02-21 23:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-10 22:30:43 +0000"
     },
     "done": true
   },
@@ -4069,6 +4111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-10 22:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:07:52 +0000"
@@ -4543,6 +4591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-03-10 22:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-02-15 23:09:44 +0000"
@@ -4642,6 +4696,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-17 22:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-03-10 22:24:06 +0000"
     },
     "done": true
   },
