@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 15:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-28 23:34:49 +0000"
