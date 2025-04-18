@@ -112,3 +112,18 @@
 [18Apr2025 14:59:19.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3418ms or 68 ticks behind
 [18Apr2025 15:00:02.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4015ms or 80 ticks behind
 [18Apr2025 15:00:02.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 moved too quickly! -6.704423087897844,7.6008933325691,1.9556521462395722
+[18Apr2025 15:12:23.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=137, z=742} BlockPos{x=-104, y=137, z=743}
+[18Apr2025 15:18:06.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=173, z=832} BlockPos{x=-92, y=171, z=832}
+[18Apr2025 15:22:12.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
+[18Apr2025 15:22:12.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[18Apr2025 15:22:20.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[18Apr2025 15:22:20.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Apr2025 15:22:20.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Apr2025 15:22:20.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Apr2025 15:22:21.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Apr2025 15:22:21.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Apr2025 15:22:21.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Apr2025 15:22:21.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Apr2025 15:22:21.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr2025 15:22:21.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr2025 15:22:21.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
