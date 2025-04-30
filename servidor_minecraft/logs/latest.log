@@ -1,114 +1,141 @@
-[19Apr2025 18:26:11.213] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[19Apr2025 18:26:11.218] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
-[19Apr2025 18:26:11.481] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/XD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[19Apr2025 18:26:12.158] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[19Apr2025 18:26:12.165] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[19Apr2025 18:26:12.177] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[19Apr2025 18:26:12.184] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[19Apr2025 18:26:12.388] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[19Apr2025 18:26:15.841] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Apr2025 18:26:15.954] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[19Apr2025 18:26:15.959] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[19Apr2025 18:26:31.101] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.7.
-[19Apr2025 18:26:31.928] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[19Apr2025 18:26:33.136] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[19Apr2025 18:26:33.136] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[19Apr2025 18:26:33.431] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[19Apr2025 18:26:35.131] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
-[19Apr2025 18:26:35.132] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
-[19Apr2025 18:26:35.352] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / iceandfire:dragonforge]' to registry
-[19Apr2025 18:26:35.353] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'iceandfire:dragonforge' to registry
-[19Apr2025 18:26:35.986] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[19Apr2025 18:26:36.073] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Created README.txt in config folder.
-[19Apr2025 18:26:36.240] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'tool_leveling_table.json' was successfully loaded.
-[19Apr2025 18:26:36.247] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: tool_leveling_table.json
-[19Apr2025 18:26:36.259] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'item_values.json' was successfully loaded.
-[19Apr2025 18:26:36.266] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: item_values.json
-[19Apr2025 18:26:36.269] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'command_config.json' was successfully loaded.
-[19Apr2025 18:26:36.270] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: command_config.json
-[19Apr2025 18:26:37.503] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[19Apr2025 18:26:37.747] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.18.x/update.json
-[19Apr2025 18:26:38.204] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5efc0f80]
-[19Apr2025 18:26:38.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 6.2.0 Target: null
-[19Apr2025 18:26:38.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[19Apr2025 18:26:38.266] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
-[19Apr2025 18:26:38.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 7.7.6 Target: null
-[19Apr2025 18:26:38.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[19Apr2025 18:26:38.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 6.3.1+6 Target: 6.3.0
-[19Apr2025 18:26:38.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Apr2025 18:26:38.358] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[19Apr2025 18:26:38.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[19Apr2025 18:26:42.925] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Apr2025 18:26:44.784] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/assets/.mcassetsroot' uses unexpected schema
-[19Apr2025 18:26:44.787] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/data/.mcassetsroot' uses unexpected schema
-[19Apr2025 18:26:49.108] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[19Apr2025 18:26:49.268] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19Apr2025 18:26:49.271] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19Apr2025 18:26:49.280] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19Apr2025 18:26:49.281] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19Apr2025 18:26:49.285] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19Apr2025 18:26:49.316] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, get, server] and [sh_difficulty, get, targets] with inputs: [server]
-[19Apr2025 18:26:49.320] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, set, server] and [sh_difficulty, set, targets] with inputs: [server]
-[19Apr2025 18:26:49.321] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, add, server] and [sh_difficulty, add, targets] with inputs: [server]
-[19Apr2025 18:26:57.863] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[19Apr2025 18:26:59.745] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1452 advancements
-[19Apr2025 18:26:59.753] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
-[19Apr2025 18:27:00.849] [Worker-Main-2/INFO] [Dungeon Crawl/]: Done.
-[19Apr2025 18:27:02.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[19Apr2025 18:27:02.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Apr2025 18:27:02.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Apr2025 18:27:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Apr2025 18:27:03.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Apr2025 18:27:03.066] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Apr2025 18:27:03.283] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Apr2025 18:27:03.284] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Apr2025 18:27:03.284] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Apr2025 18:27:03.284] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Apr2025 18:27:03.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Apr2025 18:27:11.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Apr2025 18:27:12.969] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:13.007] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:13.025] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:13.040] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:13.281] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:14.226] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:14.260] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:14.877] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:15.261] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:15.762] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:16.259] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:16.761] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:17.261] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:17.757] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:18.256] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:18.760] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:19.256] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 18:27:19.758] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[19Apr2025 18:27:20.256] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[19Apr2025 18:27:20.774] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[19Apr2025 18:27:21.256] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[19Apr2025 18:27:21.760] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
-[19Apr2025 18:27:22.259] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
-[19Apr2025 18:27:22.756] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
-[19Apr2025 18:27:23.278] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[19Apr2025 18:27:23.757] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
-[19Apr2025 18:27:24.255] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[19Apr2025 18:27:25.147] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13892 ms
-[19Apr2025 18:27:25.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.840s)! For help, type "help"
-[19Apr2025 18:27:25.248] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Apr2025 18:27:27.788] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[19Apr2025 18:27:27.788] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
-[19Apr2025 18:27:27.814] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[19Apr2025 18:27:27.819] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[19Apr2025 18:27:27.819] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[19Apr2025 18:27:27.822] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
-[19Apr2025 18:27:27.823] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/XD/servidor_minecraft/./config/infernalmobs.cfg
-[19Apr2025 18:27:31.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[19Apr2025 18:28:43.131] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5eddffd6
-[19Apr2025 18:28:43.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.194.196.206:56043] logged in with entity id 602 at (-47.40685020110524, 77.0, 810.0510621149513)
-[19Apr2025 18:28:43.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
-[19Apr2025 18:28:43.813] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
-[19Apr2025 18:28:43.818] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
-[19Apr2025 18:28:43.820] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
-[19Apr2025 18:34:31.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
-[19Apr2025 18:34:31.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[30Apr2025 20:08:58.149] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[30Apr2025 20:08:58.161] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
+[30Apr2025 20:08:58.475] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/XD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[30Apr2025 20:08:59.069] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[30Apr2025 20:08:59.074] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[30Apr2025 20:08:59.078] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[30Apr2025 20:08:59.084] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[30Apr2025 20:08:59.318] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[30Apr2025 20:09:02.892] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Apr2025 20:09:03.020] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[30Apr2025 20:09:03.027] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[30Apr2025 20:09:17.698] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.7.
+[30Apr2025 20:09:18.480] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[30Apr2025 20:09:20.241] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[30Apr2025 20:09:20.242] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[30Apr2025 20:09:20.529] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[30Apr2025 20:09:22.228] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
+[30Apr2025 20:09:22.231] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
+[30Apr2025 20:09:22.610] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / iceandfire:dragonforge]' to registry
+[30Apr2025 20:09:22.611] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'iceandfire:dragonforge' to registry
+[30Apr2025 20:09:23.394] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[30Apr2025 20:09:23.411] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Created README.txt in config folder.
+[30Apr2025 20:09:23.459] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'tool_leveling_table.json' was successfully loaded.
+[30Apr2025 20:09:23.467] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: tool_leveling_table.json
+[30Apr2025 20:09:23.472] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'item_values.json' was successfully loaded.
+[30Apr2025 20:09:23.477] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: item_values.json
+[30Apr2025 20:09:23.479] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'command_config.json' was successfully loaded.
+[30Apr2025 20:09:23.481] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: command_config.json
+[30Apr2025 20:09:24.727] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[30Apr2025 20:09:24.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.18.x/update.json
+[30Apr2025 20:09:25.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 6.2.0 Target: null
+[30Apr2025 20:09:25.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[30Apr2025 20:09:25.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 7.7.6 Target: null
+[30Apr2025 20:09:25.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[30Apr2025 20:09:25.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 6.3.1+6 Target: 6.3.0
+[30Apr2025 20:09:25.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Apr2025 20:09:25.446] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4815d1d8]
+[30Apr2025 20:09:25.465] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
+[30Apr2025 20:09:25.527] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[30Apr2025 20:09:25.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[30Apr2025 20:09:30.146] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Apr2025 20:09:32.559] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/assets/.mcassetsroot' uses unexpected schema
+[30Apr2025 20:09:32.559] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/data/.mcassetsroot' uses unexpected schema
+[30Apr2025 20:09:36.989] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[30Apr2025 20:09:37.198] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Apr2025 20:09:37.202] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Apr2025 20:09:37.211] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Apr2025 20:09:37.215] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Apr2025 20:09:37.221] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Apr2025 20:09:37.251] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, get, server] and [sh_difficulty, get, targets] with inputs: [server]
+[30Apr2025 20:09:37.255] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, set, server] and [sh_difficulty, set, targets] with inputs: [server]
+[30Apr2025 20:09:37.259] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, add, server] and [sh_difficulty, add, targets] with inputs: [server]
+[30Apr2025 20:09:45.177] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[30Apr2025 20:09:47.109] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1452 advancements
+[30Apr2025 20:09:47.122] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
+[30Apr2025 20:09:48.219] [Worker-Main-2/INFO] [Dungeon Crawl/]: Done.
+[30Apr2025 20:09:50.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[30Apr2025 20:09:50.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Apr2025 20:09:50.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Apr2025 20:09:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Apr2025 20:09:50.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Apr2025 20:09:50.783] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30Apr2025 20:09:50.983] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Apr2025 20:09:50.983] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Apr2025 20:09:50.984] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Apr2025 20:09:50.984] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Apr2025 20:09:51.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Apr2025 20:09:59.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Apr2025 20:10:03.746] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:03.786] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:03.804] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:03.827] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:04.025] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:04.055] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:04.074] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:04.089] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:04.111] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:04.132] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:04.189] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:04.687] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:05.192] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:05.676] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:06.176] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:06.678] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:07.181] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:07.673] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:08.176] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:08.674] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:09.181] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 20:10:09.677] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[30Apr2025 20:10:10.177] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[30Apr2025 20:10:10.675] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[30Apr2025 20:10:11.188] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[30Apr2025 20:10:11.674] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[30Apr2025 20:10:12.180] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[30Apr2025 20:10:12.678] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
+[30Apr2025 20:10:13.175] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[30Apr2025 20:10:13.709] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[30Apr2025 20:10:14.913] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15740 ms
+[30Apr2025 20:10:14.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.918s)! For help, type "help"
+[30Apr2025 20:10:14.997] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Apr2025 20:10:18.251] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[30Apr2025 20:10:18.253] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[30Apr2025 20:10:18.315] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[30Apr2025 20:10:18.318] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[30Apr2025 20:10:18.319] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[30Apr2025 20:10:18.320] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
+[30Apr2025 20:10:18.321] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/XD/servidor_minecraft/./config/infernalmobs.cfg
+[30Apr2025 20:10:21.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[30Apr2025 20:12:25.052] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@797b2800
+[30Apr2025 20:12:25.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:54611] logged in with entity id 575 at (4732.045323006454, 88.0, 1237.4446824959464)
+[30Apr2025 20:12:25.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[30Apr2025 20:12:25.332] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[30Apr2025 20:12:25.334] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[30Apr2025 20:12:25.336] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[30Apr2025 20:12:30.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5528ms or 110 ticks behind
+[30Apr2025 20:15:30.221] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1fadd9c3
+[30Apr2025 20:15:30.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.225.129.126:41825] logged in with entity id 1746 at (-81.37788876936372, 77.0, 878.3000000119209)
+[30Apr2025 20:15:30.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[30Apr2025 20:15:30.517] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[30Apr2025 20:15:30.519] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[30Apr2025 20:15:30.522] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[30Apr2025 20:15:42.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[30Apr2025 20:15:58.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no era P
+[30Apr2025 20:15:59.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[30Apr2025 20:16:02.973] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[30Apr2025 20:16:07.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma
+[30Apr2025 20:16:25.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> usa eso
+[30Apr2025 20:16:28.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> blanco
+[30Apr2025 20:16:43.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> ayaa
+[30Apr2025 20:17:04.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano como alejo la camara??
+[30Apr2025 20:17:09.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> es que no se
+[30Apr2025 20:17:17.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[30Apr2025 20:17:21.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pon Y
+[30Apr2025 20:17:23.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> siento que esta en zoom xd
+[30Apr2025 20:17:32.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> y pon cambiar posision
+[30Apr2025 20:17:53.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> para el POV
+[30Apr2025 20:17:59.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> en ajustes
+[30Apr2025 20:18:26.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> no ya lo wa dejar asi es que no me aparece lo que tu me dices ps xd
+[30Apr2025 20:18:37.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> como se craftea las vendas estas?
+[30Apr2025 20:18:53.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> para eso esta la mesa de crafteo no??
