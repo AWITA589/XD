@@ -2843,6 +2843,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-04-30 20:55:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-02-19 16:53:54 +0000"
