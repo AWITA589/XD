@@ -1077,3 +1077,147 @@ Caused by: java.lang.IllegalArgumentException: Player Papaya53 is missing a dama
 [01May2025 19:59:32.018] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='The_Dragon_589', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
 [01May2025 20:00:39.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> oye mrd
 [01May2025 20:00:49.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> transformaste a los aldeanos en brujas
+[01May2025 20:00:56.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> kbro
+[01May2025 20:01:03.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has reached the goal [Bone Crusher]
+[01May2025 20:01:38.733] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by The_Dragon_589
+[01May2025 20:01:46.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> yo que wa saberr
+[01May2025 20:01:48.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mira mr
+[01May2025 20:02:00.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/35704, l='ServerLevel[world]', x=44.43, y=78.00, z=914.38] was struck by lightning LightningBolt['Lightning Bolt'/43751, l='ServerLevel[world]', x=44.30, y=78.00, z=916.50].
+[01May2025 20:02:21.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no uses esa mamada serca de aca
+[01May2025 20:02:25.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> pero por que paso eso :c
+[01May2025 20:02:30.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> cual cosa??
+[01May2025 20:02:34.685] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:02:34.885] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:02:35.086] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:02:35.285] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:02:38.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> esa espada
+[01May2025 20:02:42.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved wrongly!
+[01May2025 20:02:44.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> aaaa
+[01May2025 20:02:54.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma
+[01May2025 20:02:56.290] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:02:56.491] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:02:56.659] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:02:57.209] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:03:02.186] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:03:19.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 was slain by Corpse Maggot
+[01May2025 20:03:19.792] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 20:03:20.812] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player Papaya53 is missing a damage model!
+	Index: 4
+	Listeners:
+		0: NORMAL
+		1: ASM: top.theillusivec4.champions.common.ChampionEventsHandler@17b07147 onLivingHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+		2: ASM: top.theillusivec4.champions.common.affix.WoundingAffix@2330ec1e onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+		3: LOW
+		4: ASM: class ichttt.mods.firstaid.common.EventHandler onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+java.lang.IllegalArgumentException: Player Papaya53 is missing a damage model!
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:143)
+	at TRANSFORMER/forge@40.2.21/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281)
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:143)
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:93)
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:258)
+	at net.minecraftforge.eventbus.ASMEventHandler_227_EventHandler_onHeal_LivingHealEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at TRANSFORMER/forge@40.2.21/net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:529)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:979)
+	at TRANSFORMER/silentlib@6.2.0/net.silentchaos512.lib.util.EntityHelper.heal(EntityHelper.java:87)
+	at TRANSFORMER/scalinghealth@6.3.1+6/net.silentchaos512.scalinghealth.objects.potion.BandagedEffect.m_6742_(BandagedEffect.java:49)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.Entity.m_8119_(Entity.java:413)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:235)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.Connection.m_129483_(Connection.java:245)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[01May2025 20:03:20.862] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.204.117.36:43101
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.IllegalArgumentException: Player Papaya53 is missing a damage model!
+	at ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:143) ~[firstaid-1.11.1.jar%2351!/:1.11.1]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281) ~[forge-1.18.2-40.2.21-universal.jar%2372!/:?]
+	at ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:143) ~[firstaid-1.11.1.jar%2351!/:1.11.1]
+	at ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:93) ~[firstaid-1.11.1.jar%2351!/:1.11.1]
+	at ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:258) ~[firstaid-1.11.1.jar%2351!/:1.11.1]
+	at net.minecraftforge.eventbus.ASMEventHandler_227_EventHandler_onHeal_LivingHealEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:529) ~[forge-1.18.2-40.2.21-universal.jar%2372!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:979) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.silentchaos512.lib.util.EntityHelper.heal(EntityHelper.java:87) ~[silent-lib-1.18.2-6.2.0.jar%2359!/:6.2.0]
+	at net.silentchaos512.scalinghealth.objects.potion.BandagedEffect.m_6742_(BandagedEffect.java:49) ~[ScalingHealth-1.18.2-6.3.1+6.jar%2358!/:6.3.1+6]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	... 9 more
+[01May2025 20:03:20.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papaya53 lost connection: Internal server error
+[01May2025 20:03:20.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 left the game
+[01May2025 20:03:25.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDD
+[01May2025 20:03:27.086] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78a6a08f
+[01May2025 20:03:27.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papaya53[/127.204.117.36:47919] logged in with entity id 44164 at (25.102091146043183, 75.5, 879.9143306072611)
+[01May2025 20:03:27.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 joined the game
+[01May2025 20:03:27.152] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01May2025 20:03:27.152] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01May2025 20:03:27.152] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01May2025 20:03:30.662] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01May2025 20:03:30.663] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01May2025 20:03:35.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> XD
+[01May2025 20:03:50.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> fernannnn ayudame a buscar el ultimo que queda
+[01May2025 20:04:39.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has reached the goal [Fortuitous Militia]
+[01May2025 20:04:40.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Suit Up]
+[01May2025 20:04:57.408] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:05:34.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> q haces
+[01May2025 20:05:43.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[01May2025 20:05:46.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> viendo que hacen
+[01May2025 20:06:22.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> q paso??
+[01May2025 20:06:26.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[01May2025 20:06:37.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> me mori por que uno tenia espinas
+[01May2025 20:06:44.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[01May2025 20:08:13.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> gracias xd
+[01May2025 20:08:21.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 withered away
+[01May2025 20:08:21.339] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 20:08:23.654] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01May2025 20:08:23.654] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01May2025 20:08:25.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDD
+[01May2025 20:08:56.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> cuanta XP tienes stefany
+[01May2025 20:09:05.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> 11
+[01May2025 20:09:29.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> 14
+[01May2025 20:09:35.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> usa corazones
+[01May2025 20:09:43.857] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:09:44.057] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:09:44.284] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:09:55.964] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by The_Dragon_589
+[01May2025 20:10:26.953] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Papaya53
+[01May2025 20:10:41.535] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:10:41.704] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:10:41.920] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:10:42.120] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:10:42.304] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:10:42.552] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 20:10:56.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Surge Protector]

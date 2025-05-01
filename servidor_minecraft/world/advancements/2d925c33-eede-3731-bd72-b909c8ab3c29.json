@@ -591,7 +591,9 @@
     "criteria": {
       "minecraft:pillager": "2025-02-20 19:20:02 +0000",
       "minecraft:skeleton": "2025-02-15 23:34:39 +0000",
+      "minecraft:ravager": "2025-05-01 20:08:34 +0000",
       "minecraft:hoglin": "2025-02-18 17:34:20 +0000",
+      "minecraft:vindicator": "2025-05-01 20:05:33 +0000",
       "minecraft:magma_cube": "2025-02-20 19:10:17 +0000",
       "minecraft:spider": "2025-02-15 23:17:11 +0000",
       "minecraft:piglin_brute": "2025-02-17 22:31:56 +0000",
@@ -1908,6 +1910,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-02-15 23:18:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 20:04:39 +0000"
     },
     "done": true
   },
