@@ -1,7 +1,19 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-01 19:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-01 17:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-01 19:17:27 +0000"
     },
     "done": true
   },
@@ -65,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-01 19:17:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 18:58:06 +0000"
@@ -110,6 +128,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-05-01 17:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-01 19:11:54 +0000"
     },
     "done": true
   },
@@ -245,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-01 19:06:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-01 18:44:48 +0000"
@@ -271,6 +301,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2025-05-01 19:18:17 +0000",
       "carrot": "2025-05-01 17:42:18 +0000"
     },
     "done": false
@@ -389,6 +420,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-05-01 19:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 17:47:12 +0000"
@@ -398,6 +435,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-01 19:11:54 +0000"
     },
     "done": true
   },
@@ -470,6 +513,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-01 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-01 19:14:51 +0000"
     },
     "done": true
   },
@@ -611,6 +660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-01 19:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-01 18:44:21 +0000"
@@ -626,6 +681,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-05-01 18:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-01 19:06:25 +0000"
     },
     "done": true
   },
@@ -804,6 +865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-01 19:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-05-01 17:42:59 +0000"
@@ -918,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-01 19:17:27 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-05-01 18:51:48 +0000"
@@ -933,6 +1006,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-01 18:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-01 19:11:54 +0000"
     },
     "done": true
   },
@@ -1044,6 +1123,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-01 19:12:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-01 18:46:38 +0000"
@@ -1094,10 +1179,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2025-05-01 19:06:50 +0000",
       "minecraft:stony_shore": "2025-05-01 17:37:35 +0000",
       "minecraft:jagged_peaks": "2025-05-01 17:35:12 +0000",
       "minecraft:forest": "2025-05-01 17:18:19 +0000",
+      "minecraft:lush_caves": "2025-05-01 19:16:43 +0000",
       "minecraft:ocean": "2025-05-01 17:41:17 +0000",
+      "minecraft:jungle": "2025-05-01 19:16:25 +0000",
       "minecraft:plains": "2025-05-01 18:20:11 +0000"
     },
     "done": false
@@ -1129,6 +1217,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-01 18:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-01 19:06:25 +0000"
     },
     "done": true
   },
@@ -1177,6 +1271,12 @@
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-05-01 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-01 19:17:27 +0000"
     },
     "done": true
   },
