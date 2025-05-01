@@ -434,3 +434,58 @@
 [01May2025 17:11:29.027] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sons_of_sins:sons_of_sins,silentlib:network,tombstone:tombstone_channel,paraglider:master,toolleveling:main,sophisticatedbackpacks:channel,scalinghealth:network,sophisticatedcore:channel] rejected their client side version number
 [01May2025 17:11:29.028] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [01May2025 17:11:29.032] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bbce242[id=<null>,name=Papaya53,properties={},legacy=false] (/127.191.255.163:50141) lost connection: Connection closed - mismatched mod channel list
+[01May2025 17:18:19.182] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ea77282
+[01May2025 17:18:19.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papaya53[/127.191.255.163:42277] logged in with entity id 5069 at (-7.5, 77.0, 727.5)
+[01May2025 17:18:19.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 joined the game
+[01May2025 17:18:19.323] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01May2025 17:18:19.323] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01May2025 17:18:19.324] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01May2025 17:18:19.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Ice and Fire]
+[01May2025 17:19:28.407] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1e61962a
+[01May2025 17:19:28.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:59595] logged in with entity id 5327 at (41.48740234439921, 77.0, 876.9905079083817)
+[01May2025 17:19:28.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[01May2025 17:19:28.548] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01May2025 17:19:28.549] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01May2025 17:19:28.549] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01May2025 17:19:49.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papaya53 lost connection: Timed out
+[01May2025 17:19:49.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 left the game
+[01May2025 17:19:49.391] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01May2025 17:19:50.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> rrwqqwqw4
+[01May2025 17:19:53.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Disconnected
+[01May2025 17:19:53.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[01May2025 17:20:03.917] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3924b8de
+[01May2025 17:20:03.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:44043] logged in with entity id 5412 at (41.48740234439921, 77.0, 876.9905079083817)
+[01May2025 17:20:03.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[01May2025 17:20:04.058] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01May2025 17:20:04.060] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01May2025 17:20:04.060] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01May2025 17:20:05.235] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71df3dfa
+[01May2025 17:20:05.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papaya53[/127.204.117.36:50959] logged in with entity id 5428 at (31.074195560391992, 77.0, 859.638061259715)
+[01May2025 17:20:05.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 joined the game
+[01May2025 17:20:05.293] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01May2025 17:20:05.294] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01May2025 17:20:05.294] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01May2025 17:20:34.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Timed out
+[01May2025 17:20:34.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[01May2025 17:22:00.992] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5df4392e
+[01May2025 17:22:00.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:44639] logged in with entity id 5676 at (41.48740234439921, 77.0, 876.9905079083817)
+[01May2025 17:22:01.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[01May2025 17:22:01.055] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01May2025 17:22:01.056] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01May2025 17:22:01.056] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01May2025 17:25:05.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 was slain by zalvro
+[01May2025 17:25:05.056] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 17:25:05.056] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 17:25:05.056] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 17:25:05.057] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 17:25:06.668] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01May2025 17:25:06.669] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01May2025 17:25:10.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has completed the challenge [Almost Unkillable]
+[01May2025 17:25:10.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by zalvro
+[01May2025 17:25:12.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
+[01May2025 17:25:12.665] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[01May2025 17:25:12.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papaya53 moved too quickly! 3.3724373471191864,0.15481870438443934,9.465522186548242
+[01May2025 17:26:29.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Draconic Evolution]
+[01May2025 17:26:29.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Amateur Archaeologist]
+[01May2025 17:26:29.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Knowledge of Death]
+[01May2025 17:26:29.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Funeral Theft]
