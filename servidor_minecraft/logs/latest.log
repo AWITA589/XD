@@ -619,3 +619,8 @@ Caused by: java.lang.IllegalArgumentException: Player Papaya53 is missing a dama
 [01May2025 18:17:24.736] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [01May2025 18:17:28.202] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [01May2025 18:17:28.202] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[01May2025 18:19:30.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 was shot by Skeleton
+[01May2025 18:19:30.788] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 18:19:34.234] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01May2025 18:19:34.234] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01May2025 18:20:14.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has reached the goal [Here They Come]
