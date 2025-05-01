@@ -1985,6 +1985,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 20:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-02-17 21:30:18 +0000"
@@ -3148,12 +3154,14 @@
       "minecraft:pillager": "2025-02-15 22:56:55 +0000",
       "minecraft:blaze": "2025-05-01 19:18:25 +0000",
       "minecraft:skeleton": "2025-02-15 19:39:22 +0000",
+      "minecraft:ravager": "2025-05-01 20:19:34 +0000",
       "minecraft:hoglin": "2025-02-17 22:28:16 +0000",
       "minecraft:vindicator": "2025-02-15 22:57:50 +0000",
       "minecraft:magma_cube": "2025-02-16 00:29:53 +0000",
       "minecraft:spider": "2025-02-15 19:39:42 +0000",
       "minecraft:piglin_brute": "2025-02-17 22:31:50 +0000",
       "minecraft:creeper": "2025-02-15 19:39:36 +0000",
+      "minecraft:evoker": "2025-05-01 20:17:45 +0000",
       "minecraft:phantom": "2025-02-20 16:02:12 +0000",
       "minecraft:zombified_piglin": "2025-03-05 19:40:54 +0000",
       "minecraft:witch": "2025-03-01 22:19:09 +0000",
@@ -3164,6 +3172,7 @@
       "minecraft:stray": "2025-02-17 21:31:18 +0000",
       "minecraft:enderman": "2025-02-18 16:56:54 +0000",
       "minecraft:silverfish": "2025-02-19 23:13:23 +0000",
+      "minecraft:vex": "2025-05-01 20:16:22 +0000",
       "minecraft:zombie": "2025-02-15 19:40:13 +0000",
       "minecraft:drowned": "2025-02-20 16:01:52 +0000",
       "minecraft:zombie_villager": "2025-02-15 23:52:03 +0000"
@@ -4069,6 +4078,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-01 20:20:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 23:03:33 +0000"
@@ -4223,7 +4238,9 @@
       "cooked_cod": "2025-02-18 16:47:18 +0000",
       "bread": "2025-02-17 21:32:14 +0000",
       "golden_apple": "2025-02-17 21:37:26 +0000",
-      "glow_berries": "2025-02-17 21:35:35 +0000"
+      "cookie": "2025-05-01 20:11:30 +0000",
+      "glow_berries": "2025-02-17 21:35:35 +0000",
+      "enchanted_golden_apple": "2025-05-01 20:20:08 +0000"
     },
     "done": false
   },

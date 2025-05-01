@@ -604,6 +604,7 @@
       "minecraft:piglin": "2025-02-17 22:31:51 +0000",
       "minecraft:enderman": "2025-02-15 23:16:35 +0000",
       "minecraft:stray": "2025-02-17 21:55:37 +0000",
+      "minecraft:vex": "2025-05-01 20:20:34 +0000",
       "minecraft:zombie": "2025-02-15 23:17:30 +0000",
       "minecraft:drowned": "2025-02-20 18:16:15 +0000",
       "minecraft:zombie_villager": "2025-02-20 19:18:44 +0000"
@@ -1615,6 +1616,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-02-17 21:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-01 20:20:31 +0000"
     },
     "done": true
   },
