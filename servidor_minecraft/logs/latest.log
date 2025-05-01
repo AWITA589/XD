@@ -1741,3 +1741,12 @@ Caused by: java.lang.IllegalArgumentException: Player The_Dragon_589 is missing 
 [01May2025 22:11:51.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> sisisisi wa ir a buscar otro dragon xd
 [01May2025 22:12:29.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDDDD
 [01May2025 22:12:33.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> oe mrd
+[01May2025 22:13:23.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> sin casa sera
+[01May2025 22:13:47.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Magma Cube
+[01May2025 22:13:47.144] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[01May2025 22:13:48.478] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01May2025 22:13:48.484] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01May2025 22:13:58.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> eso me pasa por ir a full defrente xddd
+[01May2025 22:14:05.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=160, y=62, z=874} too far away from player BlockPos{x=35, y=33, z=-31}.
+[01May2025 22:14:05.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=160, y=62, z=874} too far away from player BlockPos{x=35, y=33, z=-31}.
+[01May2025 22:17:52.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=36, z=57} BlockPos{x=16, y=36, z=56}
