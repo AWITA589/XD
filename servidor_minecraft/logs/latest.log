@@ -1655,3 +1655,4 @@ Caused by: java.lang.IllegalArgumentException: Player The_Dragon_589 is missing 
 [01May2025 21:03:18.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
 [01May2025 21:03:24.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no lo toques
 [01May2025 21:04:09.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[01May2025 21:18:29.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=64, z=863} BlockPos{x=191, y=63, z=862}
