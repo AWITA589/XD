@@ -427,3 +427,7 @@
 [01May2025 16:51:18.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14695ms or 293 ticks behind
 [01May2025 16:51:37.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4382ms or 87 ticks behind
 [01May2025 16:57:30.179] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[01May2025 16:59:12.284] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sons_of_sins:sons_of_sins,silentlib:network,tombstone:tombstone_channel,paraglider:master,toolleveling:main,sophisticatedbackpacks:channel,scalinghealth:network,sophisticatedcore:channel] rejected their client side version number
+[01May2025 16:59:12.284] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[01May2025 16:59:12.331] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ccbbb1[id=<null>,name=Papaya53,properties={},legacy=false] (/127.191.255.163:56907) lost connection: Connection closed - mismatched mod channel list
+[01May2025 17:00:50.728] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
