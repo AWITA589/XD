@@ -912,3 +912,54 @@ Caused by: java.lang.IllegalArgumentException: Player Papaya53 is missing a dama
 [01May2025 19:19:54.302] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
 [01May2025 19:19:54.303] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [01May2025 19:19:56.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDD
+[01May2025 19:19:58.355] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01May2025 19:19:58.355] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[01May2025 19:20:02.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/31594, l='ServerLevel[world]', x=165.62, y=-12.68, z=1536.79] died: Foundry Guardian was slain by The_Dragon_589
+[01May2025 19:20:04.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> wtf me saco
+[01May2025 19:20:10.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> xd
+[01May2025 19:20:14.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/31930, l='ServerLevel[world]', x=148.19, y=-11.96, z=1546.02] died: Foundry Guardian was slain by The_Dragon_589
+[01May2025 19:20:19.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/32367, l='ServerLevel[world]', x=152.10, y=-12.51, z=1551.23] died: Foundry Guardian was slain by The_Dragon_589
+[01May2025 19:20:23.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/31928, l='ServerLevel[world]', x=153.87, y=-13.00, z=1549.99] died: Foundry Guardian was slain by The_Dragon_589
+[01May2025 19:20:26.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Take Aim]
+[01May2025 19:20:27.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/32369, l='ServerLevel[world]', x=155.50, y=-13.00, z=1548.86] died: Foundry Guardian was slain by The_Dragon_589
+[01May2025 19:20:33.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/32368, l='ServerLevel[world]', x=158.23, y=-13.00, z=1540.39] died: Foundry Guardian was slain by The_Dragon_589
+[01May2025 19:21:56.759] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by The_Dragon_589
+[01May2025 19:22:12.153] [Server thread/INFO] [Scaling Health/]: Blight Magma Cube was killed by The_Dragon_589
+[01May2025 19:22:44.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> tengo un huevo de dragon para ti
+[01May2025 19:23:39.807] [Server thread/INFO] [Scaling Health/]: Blight Magma Cube was killed by The_Dragon_589
+[01May2025 19:24:06.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/33417, l='ServerLevel[world]', x=144.13, y=-13.00, z=1545.33] died: Foundry Guardian was slain by The_Dragon_589
+[01May2025 19:24:09.659] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/33419, l='ServerLevel[world]', x=151.07, y=-7.89, z=1539.44] died: Foundry Guardian was slain by The_Dragon_589
+[01May2025 19:24:11.848] [Server thread/INFO] [Scaling Health/]: Blight Magma Cube was killed by The_Dragon_589
+[01May2025 19:24:56.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> que fue
+[01May2025 19:25:14.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> por que me estaba ahogando
+[01May2025 19:25:22.751] [Server thread/INFO] [Scaling Health/]: Blight Magma Cube was killed by The_Dragon_589
+[01May2025 19:25:47.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 was slain by Magma Cube
+[01May2025 19:25:47.988] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 19:25:47.990] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 19:25:47.992] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 19:25:49.466] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01May2025 19:25:49.467] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[01May2025 19:26:17.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> perdon xd
+[01May2025 19:26:20.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mucho caos
+[01May2025 19:26:28.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> base??
+[01May2025 19:26:34.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> ya
+[01May2025 19:26:38.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> pera
+[01May2025 19:26:38.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ya se lleno mi mochila :C
+[01May2025 19:26:49.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 42.500000, 77.500000, 877.500000]
+[01May2025 19:26:50.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> y el huevo?
+[01May2025 19:26:52.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ya??
+[01May2025 19:26:58.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> lo tengo
+[01May2025 19:27:04.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported Papaya53 to The_Dragon_589]
+[01May2025 19:27:06.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> yaya
+[01May2025 19:27:10.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> es marron
+[01May2025 19:27:17.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> tremendo viaje XD
+[01May2025 19:27:28.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Mother of Dragons]
+[01May2025 19:27:35.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> es electrico
+[01May2025 19:27:44.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> cuando llueva
+[01May2025 19:27:51.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> le va caer un rayo
+[01May2025 19:27:59.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> y recien va eclocionar
+[01May2025 19:28:18.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> hacemos un criadero
+[01May2025 19:28:34.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Papaya53> yayaya
+[01May2025 19:28:40.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> primero vacio mi mochila
+[01May2025 19:28:43.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ven
+[01May2025 19:29:53.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pasa tu mochila
