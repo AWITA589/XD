@@ -509,3 +509,26 @@
 [01May2025 17:48:17.264] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
 [01May2025 17:48:18.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Timed out
 [01May2025 17:48:18.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[01May2025 17:48:38.424] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6baa0d2c
+[01May2025 17:48:38.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:42309] logged in with entity id 10508 at (50.97755870132348, 78.24918707874468, 879.129198967066)
+[01May2025 17:48:38.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[01May2025 17:48:38.584] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01May2025 17:48:38.586] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01May2025 17:48:38.586] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01May2025 17:48:55.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Disconnected
+[01May2025 17:48:55.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[01May2025 17:48:59.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Not Today, Thank You]
+[01May2025 17:49:02.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 was shot by Skeleton
+[01May2025 17:49:02.935] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 17:49:04.500] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01May2025 17:49:04.500] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01May2025 17:51:25.542] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16e11709
+[01May2025 17:51:25.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:58187] logged in with entity id 11498 at (50.97755870132348, 78.24918707874468, 879.129198967066)
+[01May2025 17:51:25.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[01May2025 17:51:25.640] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[01May2025 17:51:25.640] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[01May2025 17:51:25.641] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[01May2025 17:51:47.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Best Friends Forever]
+[01May2025 17:53:04.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [An Ear-Shattering Roar]
+[01May2025 17:54:18.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=187, y=65, z=880} BlockPos{x=185, y=64, z=880}
+[01May2025 17:54:35.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=65, z=861} BlockPos{x=194, y=64, z=861}
