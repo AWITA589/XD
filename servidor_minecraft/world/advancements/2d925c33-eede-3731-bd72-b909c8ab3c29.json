@@ -1283,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-01 21:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-02-15 23:18:24 +0000",
@@ -1550,6 +1556,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-02-17 22:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-01 21:34:13 +0000"
     },
     "done": true
   },
@@ -1843,6 +1855,7 @@
       "baked_potato": "2025-02-19 23:47:47 +0000",
       "porkchop": "2025-02-19 22:12:03 +0000",
       "apple": "2025-02-15 23:09:38 +0000",
+      "mutton": "2025-05-01 21:34:54 +0000",
       "bread": "2025-02-16 00:35:42 +0000",
       "golden_apple": "2025-02-17 22:01:24 +0000",
       "rotten_flesh": "2025-02-15 23:45:20 +0000",
@@ -2347,6 +2360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-05-01 21:34:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-02-19 22:48:11 +0000"
@@ -2452,6 +2471,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-02-20 17:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-05-01 21:34:13 +0000"
     },
     "done": true
   },

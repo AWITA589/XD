@@ -1656,3 +1656,37 @@ Caused by: java.lang.IllegalArgumentException: Player The_Dragon_589 is missing 
 [01May2025 21:03:24.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no lo toques
 [01May2025 21:04:09.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
 [01May2025 21:18:29.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=64, z=863} BlockPos{x=191, y=63, z=862}
+[01May2025 21:27:49.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 120.500000, -20.500000, 1572.500000]
+[01May2025 21:31:03.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=-13, z=1619} BlockPos{x=154, y=-15, z=1615}
+[01May2025 21:32:11.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=127, y=-15, z=1559} BlockPos{x=127, y=-15, z=1561}
+[01May2025 21:32:11.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=127, y=-15, z=1559} BlockPos{x=127, y=-15, z=1561}
+[01May2025 21:32:11.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=127, y=-15, z=1559} BlockPos{x=127, y=-15, z=1561}
+[01May2025 21:32:50.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=6, z=1548} BlockPos{x=106, y=6, z=1546}
+[01May2025 21:33:10.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=-14, z=1540} BlockPos{x=107, y=-15, z=1538}
+[01May2025 21:33:10.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=-14, z=1540} BlockPos{x=107, y=-15, z=1538}
+[01May2025 21:33:10.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=-14, z=1540} BlockPos{x=107, y=-15, z=1538}
+[01May2025 21:33:10.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=-14, z=1540} BlockPos{x=107, y=-15, z=1538}
+[01May2025 21:33:10.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=-14, z=1540} BlockPos{x=107, y=-15, z=1538}
+[01May2025 21:33:10.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=-14, z=1540} BlockPos{x=107, y=-15, z=1538}
+[01May2025 21:34:26.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=-12, z=1558} BlockPos{x=191, y=-15, z=1552}
+[01May2025 21:34:26.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=-12, z=1558} BlockPos{x=191, y=-15, z=1552}
+[01May2025 21:34:26.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=-12, z=1558} BlockPos{x=191, y=-15, z=1552}
+[01May2025 21:34:26.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=-12, z=1558} BlockPos{x=191, y=-15, z=1552}
+[01May2025 21:34:26.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=-12, z=1558} BlockPos{x=191, y=-15, z=1552}
+[01May2025 21:34:26.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=-12, z=1558} BlockPos{x=191, y=-15, z=1552}
+[01May2025 21:35:54.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[01May2025 21:36:07.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> me faltan cosas pa decorar :c
+[01May2025 21:36:16.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ta chueco
+[01May2025 21:36:21.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> fuera mrda
+[01May2025 21:36:54.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> lo muevo con creativo
+[01May2025 21:37:01.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> xdddd
+[01May2025 21:37:06.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> si o no
+[01May2025 21:37:13.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> yayayyayaya xdd
+[01May2025 21:37:15.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[01May2025 21:39:31.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[01May2025 21:39:46.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> no mames
+[01May2025 21:40:38.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDDDDDDDDDDDDDDDDD
+[01May2025 21:41:07.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> la cague
+[01May2025 21:41:44.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
+[01May2025 21:41:51.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDDDDDDDDD
+[01May2025 21:42:19.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> fernan eres una mrda xdd
