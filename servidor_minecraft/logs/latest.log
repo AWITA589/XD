@@ -492,3 +492,20 @@
 [01May2025 17:31:52.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Splintering II]
 [01May2025 17:32:05.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Splintering II]
 [01May2025 17:32:25.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [A Flaming Sword]
+[01May2025 17:38:33.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has reached the goal [Pray to the Goddess]
+[01May2025 17:44:33.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Monster Hunter]
+[01May2025 17:44:43.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 was slain by Zombie
+[01May2025 17:44:43.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Your First Grave]
+[01May2025 17:44:43.090] [Server thread/INFO] [tombstone/]: The player Papaya53 has successfully been saved
+[01May2025 17:44:46.782] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01May2025 17:44:46.782] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01May2025 17:44:46.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [The Most Useful Key]
+[01May2025 17:45:45.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Ashes 'n Bones]
+[01May2025 17:45:45.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [A Strange Grave Dust]
+[01May2025 17:47:12.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has made the advancement [Acquire Hardware]
+[01May2025 17:47:47.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Papaya53 has completed the challenge [Champion Hunter]
+[01May2025 17:48:16.865] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 17:48:17.065] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 17:48:17.264] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Papaya53', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[01May2025 17:48:18.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Timed out
+[01May2025 17:48:18.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
