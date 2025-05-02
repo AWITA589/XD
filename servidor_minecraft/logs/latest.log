@@ -112,3 +112,4 @@
 [02May2025 15:47:48.709] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [02May2025 15:48:15.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4650ms or 93 ticks behind
 [02May2025 16:19:30.900] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[02May2025 17:45:19.148] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
