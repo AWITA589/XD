@@ -503,3 +503,15 @@
 [03May2025 22:38:03.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> como se hace para que el dragon baje???
 [03May2025 22:38:13.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> nose
 [03May2025 22:38:13.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> casi se me escapa el webon este
+[03May2025 22:39:00.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03May2025 22:39:00.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03May2025 22:39:00.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Server closed
+[03May2025 22:39:00.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[03May2025 22:39:00.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03May2025 22:39:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03May2025 22:39:03.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03May2025 22:39:03.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03May2025 22:39:03.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03May2025 22:39:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03May2025 22:39:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03May2025 22:39:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
