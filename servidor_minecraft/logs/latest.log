@@ -489,3 +489,7 @@
 [03May2025 22:14:06.299] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
 [03May2025 22:14:15.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved wrongly!
 [03May2025 22:16:22.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved wrongly!
+[03May2025 22:19:30.816] [Server thread/INFO] [Scaling Health/]: Blight Corpse Maggot has died
+[03May2025 22:22:31.404] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[03May2025 22:22:37.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[03May2025 22:22:45.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
