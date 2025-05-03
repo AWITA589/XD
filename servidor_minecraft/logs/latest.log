@@ -165,3 +165,25 @@
 [03May2025 20:09:45.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> tu crees que en esta cueva alla un dragon??n
 [03May2025 20:10:13.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
 [03May2025 20:10:21.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> deja veo
+[03May2025 20:13:02.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Spider
+[03May2025 20:13:02.803] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[03May2025 20:13:04.047] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03May2025 20:13:04.048] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03May2025 20:13:09.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDDD
+[03May2025 20:13:11.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=162, y=63, z=878} too far away from player BlockPos{x=-1326, y=27, z=3346}.
+[03May2025 20:13:38.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1764, y=-17, z=3455} BlockPos{x=-1765, y=-17, z=3455}
+[03May2025 20:13:38.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1764, y=-17, z=3455} BlockPos{x=-1765, y=-17, z=3455}
+[03May2025 20:13:38.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> que es esa mrda mano me tiraba un monton de pociones y depaso se tiraba curas :vvv
+[03May2025 20:13:45.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[03May2025 20:14:54.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Magic Writing]
+[03May2025 20:15:01.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has reached the goal [Great minds think alike]
+[03May2025 20:16:37.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> encontraste???
+[03May2025 20:16:41.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no
+[03May2025 20:16:54.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1296, y=30, z=3279} BlockPos{x=-1295, y=31, z=3279}
+[03May2025 20:16:54.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1296, y=30, z=3279} BlockPos{x=-1294, y=31, z=3279}
+[03May2025 20:17:01.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1300, y=34, z=3279} BlockPos{x=-1299, y=35, z=3279}
+[03May2025 20:17:01.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1300, y=34, z=3279} BlockPos{x=-1299, y=35, z=3279}
+[03May2025 20:17:01.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1300, y=34, z=3279} BlockPos{x=-1299, y=35, z=3279}
+[03May2025 20:17:01.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1300, y=34, z=3279} BlockPos{x=-1299, y=35, z=3279}
+[03May2025 20:17:59.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=49, z=3244} BlockPos{x=-1270, y=47, z=3244}
+[03May2025 20:20:48.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no hay ni mrd
