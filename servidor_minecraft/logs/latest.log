@@ -114,3 +114,8 @@
 [03May2025 19:21:54.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
 [03May2025 19:22:22.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
 [03May2025 19:27:59.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 moved wrongly!
+[03May2025 19:42:25.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 moved wrongly!
+[03May2025 19:44:22.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[03May2025 19:45:27.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[03May2025 19:45:43.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[03May2025 19:47:10.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
