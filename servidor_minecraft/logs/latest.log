@@ -493,3 +493,13 @@
 [03May2025 22:22:31.404] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
 [03May2025 22:22:37.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
 [03May2025 22:22:45.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[03May2025 22:29:02.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[03May2025 22:29:10.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[03May2025 22:32:37.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[03May2025 22:32:43.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[03May2025 22:35:31.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Dragon Growth Hormone]
+[03May2025 22:37:36.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [The Song of the Dragons]
+[03May2025 22:37:40.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved too quickly! 9.734543863387685,0.0,3.540253797224409
+[03May2025 22:38:03.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> como se hace para que el dragon baje???
+[03May2025 22:38:13.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> nose
+[03May2025 22:38:13.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> casi se me escapa el webon este
