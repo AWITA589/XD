@@ -278,3 +278,15 @@
 [03May2025 20:54:42.191] [Worker-Main-72/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [03May2025 20:54:44.443] [Worker-Main-122/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [03May2025 20:54:44.443] [Worker-Main-122/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 21:05:16.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 817.430750, 88.000000, -2457.654212]
+[03May2025 21:06:35.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/52322, l='ServerLevel[world]', x=784.17, y=65.90, z=-2782.12]
+[03May2025 21:06:35.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/52328, l='ServerLevel[world]', x=784.49, y=64.75, z=-2782.47]
+[03May2025 21:07:03.142] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03May2025 21:07:03.143] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03May2025 21:07:03.257] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03May2025 21:07:03.258] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03May2025 21:07:03.289] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03May2025 21:07:03.291] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03May2025 21:10:55.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 484.500000, 0.000000, -2827.500000]
+[03May2025 21:11:03.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 484.500000, 200.000000, -2827.500000]
+[03May2025 21:12:04.599] [Server thread/INFO] [Scaling Health/]: Blight Cyclops was killed by The_Dragon_589
