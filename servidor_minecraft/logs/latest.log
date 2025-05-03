@@ -1,292 +1,452 @@
-[03May2025 18:39:54.038] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[03May2025 18:39:54.050] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
-[03May2025 18:39:54.375] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/XD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[03May2025 18:39:55.008] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[03May2025 18:39:55.010] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[03May2025 18:39:55.015] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[03May2025 18:39:55.020] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[03May2025 18:39:55.175] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[03May2025 18:39:58.448] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03May2025 18:39:58.626] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[03May2025 18:39:58.632] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[03May2025 18:40:13.623] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.7.
-[03May2025 18:40:14.331] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[03May2025 18:40:15.552] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[03May2025 18:40:15.552] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[03May2025 18:40:15.847] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[03May2025 18:40:17.610] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
-[03May2025 18:40:17.611] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
-[03May2025 18:40:17.886] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / iceandfire:dragonforge]' to registry
-[03May2025 18:40:17.902] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'iceandfire:dragonforge' to registry
-[03May2025 18:40:18.584] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[03May2025 18:40:18.603] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Created README.txt in config folder.
-[03May2025 18:40:18.646] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'tool_leveling_table.json' was successfully loaded.
-[03May2025 18:40:18.652] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: tool_leveling_table.json
-[03May2025 18:40:18.663] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'item_values.json' was successfully loaded.
-[03May2025 18:40:18.670] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: item_values.json
-[03May2025 18:40:18.672] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'command_config.json' was successfully loaded.
-[03May2025 18:40:18.677] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: command_config.json
-[03May2025 18:40:19.842] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[03May2025 18:40:20.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.18.x/update.json
-[03May2025 18:40:20.432] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@b11843]
-[03May2025 18:40:20.447] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
-[03May2025 18:40:20.512] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[03May2025 18:40:20.566] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 6.2.0 Target: null
-[03May2025 18:40:20.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[03May2025 18:40:20.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 7.7.6 Target: null
-[03May2025 18:40:20.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[03May2025 18:40:20.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 6.3.1+6 Target: 6.3.0
-[03May2025 18:40:20.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03May2025 18:40:20.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[03May2025 18:40:25.359] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03May2025 18:40:27.815] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/assets/.mcassetsroot' uses unexpected schema
-[03May2025 18:40:27.816] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/data/.mcassetsroot' uses unexpected schema
-[03May2025 18:40:31.962] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[03May2025 18:40:32.196] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03May2025 18:40:32.201] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03May2025 18:40:32.213] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03May2025 18:40:32.215] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03May2025 18:40:32.218] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03May2025 18:40:32.265] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, get, server] and [sh_difficulty, get, targets] with inputs: [server]
-[03May2025 18:40:32.268] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, set, server] and [sh_difficulty, set, targets] with inputs: [server]
-[03May2025 18:40:32.281] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, add, server] and [sh_difficulty, add, targets] with inputs: [server]
-[03May2025 18:40:40.523] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[03May2025 18:40:43.063] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1452 advancements
-[03May2025 18:40:43.069] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
-[03May2025 18:40:44.116] [Worker-Main-2/INFO] [Dungeon Crawl/]: Done.
-[03May2025 18:40:46.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[03May2025 18:40:46.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03May2025 18:40:46.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03May2025 18:40:46.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03May2025 18:40:46.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03May2025 18:40:46.739] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03May2025 18:40:46.906] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03May2025 18:40:46.907] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03May2025 18:40:46.907] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03May2025 18:40:46.910] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03May2025 18:40:47.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03May2025 18:40:55.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03May2025 18:40:57.534] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:40:57.555] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:40:57.570] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:40:57.602] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:40:57.627] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:40:57.652] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:40:58.645] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:40:58.665] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:40:59.314] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:40:59.643] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:41:00.137] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:41:00.641] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:41:01.140] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:41:01.638] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:41:02.142] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:41:02.640] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:41:03.140] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:41:03.637] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 18:41:04.138] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[03May2025 18:41:04.679] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[03May2025 18:41:05.137] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[03May2025 18:41:05.640] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
-[03May2025 18:41:06.175] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[03May2025 18:41:06.637] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[03May2025 18:41:07.147] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
-[03May2025 18:41:07.637] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
-[03May2025 18:41:08.141] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
-[03May2025 18:41:09.000] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13863 ms
-[03May2025 18:41:09.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.072s)! For help, type "help"
-[03May2025 18:41:09.056] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03May2025 18:41:11.309] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[03May2025 18:41:11.311] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
-[03May2025 18:41:11.349] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[03May2025 18:41:11.352] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[03May2025 18:41:11.355] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[03May2025 18:41:11.356] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
-[03May2025 18:41:11.359] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/XD/servidor_minecraft/./config/infernalmobs.cfg
-[03May2025 19:08:32.024] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2665debd
-[03May2025 19:08:32.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.225.129.126:58091] logged in with entity id 618 at (171.91240636119701, 64.86646913190864, 867.4426072297562)
-[03May2025 19:08:32.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
-[03May2025 19:08:32.385] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
-[03May2025 19:08:32.387] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
-[03May2025 19:08:32.387] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
-[03May2025 19:08:45.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
-[03May2025 19:14:57.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
-[03May2025 19:21:54.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
-[03May2025 19:22:22.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
-[03May2025 19:27:59.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 moved wrongly!
-[03May2025 19:42:25.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 moved wrongly!
-[03May2025 19:44:22.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
-[03May2025 19:45:27.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
-[03May2025 19:45:43.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
-[03May2025 19:47:10.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
-[03May2025 19:50:48.213] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
-[03May2025 19:53:34.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 42.500000, 77.500000, 877.500000]
-[03May2025 19:54:09.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
-[03May2025 19:54:16.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
-[03May2025 19:56:32.418] [Server thread/INFO] [Scaling Health/]: Blight Corpse Maggot was killed by The_Dragon_589
-[03May2025 19:57:44.492] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@138e2ef3
-[03May2025 19:57:44.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:49699] logged in with entity id 14172 at (-882.683464901271, 64.0, 3460.8749966280475)
-[03May2025 19:57:44.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
-[03May2025 19:57:44.535] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
-[03May2025 19:57:44.536] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
-[03May2025 19:57:44.537] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
-[03May2025 19:57:46.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
-[03May2025 19:58:01.882] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
-[03May2025 19:58:05.936] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-961, y=-42, z=3254}
-[03May2025 19:58:29.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> aaaaa ciertooo estaba buscando a un dragon xddd casi te digo que se bugueo el server xdd
-[03May2025 19:59:21.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDD
-[03May2025 19:59:29.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> oye y la stefany??
-[03May2025 19:59:39.008] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-919, y=29, z=3130} but found not block entity block Block{minecraft:water}[level=0] at location
-[03May2025 19:59:39.008] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-919, y=29, z=3130}
-[03May2025 19:59:52.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
-[03May2025 20:00:09.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
-[03May2025 20:02:23.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano webadas pones es que pense que en el mapa decia DRAGON de fugo pero nooo decia MOSQUITO de fuego :vv
-[03May2025 20:03:39.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDD
-[03May2025 20:04:46.948] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
-[03May2025 20:04:47.175] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
-[03May2025 20:04:47.348] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
-[03May2025 20:04:47.573] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
-[03May2025 20:04:47.699] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
-[03May2025 20:04:47.849] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
-[03May2025 20:06:31.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
-[03May2025 20:06:37.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> dame una montura
-[03May2025 20:06:48.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no tengo
-[03May2025 20:07:01.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1416, y=10, z=3172} but found not block entity block Block{minecraft:water}[level=0] at location
-[03May2025 20:07:01.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1416, y=10, z=3172}
-[03May2025 20:07:47.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no tengo
-[03May2025 20:07:51.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
-[03May2025 20:08:12.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> oye
-[03May2025 20:08:15.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mande xd
-[03May2025 20:08:24.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mira
-[03May2025 20:08:34.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> nica mano
-[03May2025 20:08:56.418] [Server thread/INFO] [Scaling Health/]: Blight Gorgon was killed by zalvro
-[03May2025 20:08:59.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Clash of the Titans]
-[03May2025 20:09:00.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> jajjajajja
-[03May2025 20:09:45.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> tu crees que en esta cueva alla un dragon??n
-[03May2025 20:10:13.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
-[03May2025 20:10:21.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> deja veo
-[03May2025 20:13:02.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Spider
-[03May2025 20:13:02.803] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
-[03May2025 20:13:04.047] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[03May2025 20:13:04.048] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[03May2025 20:13:09.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDDD
-[03May2025 20:13:11.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=162, y=63, z=878} too far away from player BlockPos{x=-1326, y=27, z=3346}.
-[03May2025 20:13:38.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1764, y=-17, z=3455} BlockPos{x=-1765, y=-17, z=3455}
-[03May2025 20:13:38.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1764, y=-17, z=3455} BlockPos{x=-1765, y=-17, z=3455}
-[03May2025 20:13:38.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> que es esa mrda mano me tiraba un monton de pociones y depaso se tiraba curas :vvv
-[03May2025 20:13:45.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
-[03May2025 20:14:54.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Magic Writing]
-[03May2025 20:15:01.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has reached the goal [Great minds think alike]
-[03May2025 20:16:37.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> encontraste???
-[03May2025 20:16:41.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no
-[03May2025 20:16:54.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1296, y=30, z=3279} BlockPos{x=-1295, y=31, z=3279}
-[03May2025 20:16:54.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1296, y=30, z=3279} BlockPos{x=-1294, y=31, z=3279}
-[03May2025 20:17:01.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1300, y=34, z=3279} BlockPos{x=-1299, y=35, z=3279}
-[03May2025 20:17:01.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1300, y=34, z=3279} BlockPos{x=-1299, y=35, z=3279}
-[03May2025 20:17:01.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1300, y=34, z=3279} BlockPos{x=-1299, y=35, z=3279}
-[03May2025 20:17:01.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1300, y=34, z=3279} BlockPos{x=-1299, y=35, z=3279}
-[03May2025 20:17:59.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=49, z=3244} BlockPos{x=-1270, y=47, z=3244}
-[03May2025 20:20:48.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> no hay ni mrd
-[03May2025 20:21:06.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> tonces buscare por tierra :v
-[03May2025 20:21:25.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [You Are A Pirate]
-[03May2025 20:21:55.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
-[03May2025 20:22:24.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
-[03May2025 20:23:02.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma
-[03May2025 20:23:09.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Vindicator
-[03May2025 20:23:09.776] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
-[03May2025 20:23:11.734] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[03May2025 20:23:11.735] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[03May2025 20:23:12.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDDD
-[03May2025 20:23:58.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> el barcomrd
-[03May2025 20:24:13.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1553, y=65, z=3287} BlockPos{x=-1552, y=64, z=3287}
-[03May2025 20:24:43.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> vez lo q haces mrd
-[03May2025 20:24:51.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> nop xd
-[03May2025 20:25:08.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma
-[03May2025 20:25:42.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> por aya dice dragon de fuego xdd
-[03May2025 20:25:55.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> donde??
-[03May2025 20:26:03.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to -1651.500000, -13.500000, -367.500000]
-[03May2025 20:26:11.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
-[03May2025 20:26:17.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> bueno mientras venia decia qeu si
-[03May2025 20:26:17.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> aqui
-[03May2025 20:26:23.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> sisisis
-[03May2025 20:26:35.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> es enorme
-[03May2025 20:26:43.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> ya weno mano dejame ser burro por una vezz (osea cacharme a la dragona xdd)
-[03May2025 20:27:36.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> a la mrd
-[03May2025 20:28:36.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Zombie
-[03May2025 20:28:36.434] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
-[03May2025 20:28:37.829] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[03May2025 20:28:37.829] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[03May2025 20:28:57.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD mataste un dragon y un zombi te culio
-[03May2025 20:29:04.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> ujum xddd
-[03May2025 20:29:21.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> no dejo huevo :c
-[03May2025 20:29:29.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> de aqui ya no encontre mas
-[03May2025 20:29:38.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to -1563.500000, -6.500000, 143.500000]
-[03May2025 20:29:48.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
-[03May2025 20:31:15.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 moved too quickly! 1.3433131460192271,6.258823613837934,-8.550536966560458
-[03May2025 20:31:15.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[03May2025 20:31:34.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[03May2025 20:32:14.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved wrongly!
-[03May2025 20:32:30.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved wrongly!
-[03May2025 20:34:15.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved wrongly!
-[03May2025 20:34:26.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1645, y=-15, z=-346} BlockPos{x=-1633, y=-16, z=-350}
-[03May2025 20:35:52.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> MANO
-[03May2025 20:36:01.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> creo que se me bugueo :v
-[03May2025 20:36:15.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> es que a cada rato me sale una telaraña
-[03May2025 20:36:25.337] [Server thread/INFO] [Scaling Health/]: Blight Spider was killed by zalvro
-[03May2025 20:36:41.399] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
-[03May2025 20:36:41.626] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='zalvro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
-[03May2025 20:37:59.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> encontraste algo??
-[03May2025 20:38:10.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> na :c
-[03May2025 20:40:23.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> encontre uno
-[03May2025 20:40:30.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> :O asme tpppp
-[03May2025 20:40:39.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
-[03May2025 20:40:40.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by The_Dragon_589 using [ZIDOSO]
-[03May2025 20:40:40.597] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
-[03May2025 20:40:47.851] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[03May2025 20:40:47.851] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[03May2025 20:40:52.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDD
-[03May2025 20:40:55.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> se como todo
-[03May2025 20:40:58.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDDDDDDDDDDDDDDDDDDDD
-[03May2025 20:41:07.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
-[03May2025 20:41:07.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> xddd
-[03May2025 20:41:10.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pense
-[03May2025 20:41:33.754] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1958, y=39, z=-677} but found not block entity block Block{minecraft:water}[level=2] at location
-[03May2025 20:41:33.756] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=-1958, y=39, z=-677}
-[03May2025 20:41:38.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> wa ir comiendo mientras buscas xd
-[03May2025 20:41:45.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> aqui esta
-[03May2025 20:41:48.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> sisisisiis
-[03May2025 20:41:50.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
-[03May2025 20:43:50.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> 6 frascos
-[03May2025 20:44:39.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> y si vamos por uno de hiel?+o???
-[03May2025 20:44:52.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> okok
-[03May2025 20:45:14.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> wa comer mano :c +
-[03May2025 20:45:29.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> despues de un rato vuelvooo
-[03May2025 20:45:32.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> yaya
-[03May2025 20:45:33.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Disconnected
-[03May2025 20:45:33.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
-[03May2025 20:47:47.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 484.500000, -14.500000, -2827.500000]
-[03May2025 20:47:47.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3809ms or 76 ticks behind
-[03May2025 20:52:57.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
-[03May2025 20:53:04.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
-[03May2025 20:54:39.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=748, y=-5, z=-2887} BlockPos{x=749, y=-4, z=-2887}
-[03May2025 20:54:39.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=748, y=-5, z=-2887} BlockPos{x=749, y=-4, z=-2887}
-[03May2025 20:54:39.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=747, y=-4, z=-2888} BlockPos{x=749, y=-4, z=-2887}
-[03May2025 20:54:39.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=748, y=-4, z=-2888} BlockPos{x=749, y=-4, z=-2887}
-[03May2025 20:54:39.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=748, y=-4, z=-2888} BlockPos{x=749, y=-4, z=-2887}
-[03May2025 20:54:39.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=748, y=-4, z=-2888} BlockPos{x=749, y=-4, z=-2887}
-[03May2025 20:54:42.190] [Worker-Main-72/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[03May2025 20:54:42.191] [Worker-Main-72/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[03May2025 20:54:44.443] [Worker-Main-122/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[03May2025 20:54:44.443] [Worker-Main-122/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[03May2025 21:05:16.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 817.430750, 88.000000, -2457.654212]
-[03May2025 21:06:35.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/52322, l='ServerLevel[world]', x=784.17, y=65.90, z=-2782.12]
-[03May2025 21:06:35.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/52328, l='ServerLevel[world]', x=784.49, y=64.75, z=-2782.47]
-[03May2025 21:07:03.142] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[03May2025 21:07:03.143] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[03May2025 21:07:03.257] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[03May2025 21:07:03.258] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[03May2025 21:07:03.289] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[03May2025 21:07:03.291] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[03May2025 21:10:55.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 484.500000, 0.000000, -2827.500000]
-[03May2025 21:11:03.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 484.500000, 200.000000, -2827.500000]
-[03May2025 21:12:04.599] [Server thread/INFO] [Scaling Health/]: Blight Cyclops was killed by The_Dragon_589
+[03May2025 21:17:25.487] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[03May2025 21:17:25.503] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
+[03May2025 21:17:27.416] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/XD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[03May2025 21:17:28.385] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[03May2025 21:17:28.404] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[03May2025 21:17:28.408] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[03May2025 21:17:28.412] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[03May2025 21:17:28.653] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[03May2025 21:17:33.821] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03May2025 21:17:34.097] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[03May2025 21:17:34.106] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03May2025 21:17:58.550] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.7.
+[03May2025 21:18:00.424] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[03May2025 21:18:03.065] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[03May2025 21:18:03.066] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[03May2025 21:18:03.609] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[03May2025 21:18:06.978] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
+[03May2025 21:18:06.980] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
+[03May2025 21:18:07.356] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / iceandfire:dragonforge]' to registry
+[03May2025 21:18:07.356] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'iceandfire:dragonforge' to registry
+[03May2025 21:18:08.530] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[03May2025 21:18:08.616] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Created README.txt in config folder.
+[03May2025 21:18:08.651] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'tool_leveling_table.json' was successfully loaded.
+[03May2025 21:18:08.657] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: tool_leveling_table.json
+[03May2025 21:18:08.688] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'item_values.json' was successfully loaded.
+[03May2025 21:18:08.691] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: item_values.json
+[03May2025 21:18:08.715] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'command_config.json' was successfully loaded.
+[03May2025 21:18:08.720] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: command_config.json
+[03May2025 21:18:11.447] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[03May2025 21:18:11.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.18.x/update.json
+[03May2025 21:18:11.837] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@28fa0b5]
+[03May2025 21:18:11.889] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
+[03May2025 21:18:11.968] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[03May2025 21:18:12.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 6.2.0 Target: null
+[03May2025 21:18:12.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[03May2025 21:18:12.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 7.7.6 Target: null
+[03May2025 21:18:12.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[03May2025 21:18:12.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 6.3.1+6 Target: 6.3.0
+[03May2025 21:18:12.554] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03May2025 21:18:13.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[03May2025 21:18:18.791] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03May2025 21:18:22.591] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/assets/.mcassetsroot' uses unexpected schema
+[03May2025 21:18:22.596] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/data/.mcassetsroot' uses unexpected schema
+[03May2025 21:18:30.135] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[03May2025 21:18:30.357] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03May2025 21:18:30.366] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03May2025 21:18:30.392] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03May2025 21:18:30.396] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03May2025 21:18:30.400] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03May2025 21:18:30.567] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, get, server] and [sh_difficulty, get, targets] with inputs: [server]
+[03May2025 21:18:30.571] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, set, server] and [sh_difficulty, set, targets] with inputs: [server]
+[03May2025 21:18:30.572] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, add, server] and [sh_difficulty, add, targets] with inputs: [server]
+[03May2025 21:18:41.432] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[03May2025 21:18:44.893] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1452 advancements
+[03May2025 21:18:44.903] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
+[03May2025 21:18:46.256] [Worker-Main-2/INFO] [Dungeon Crawl/]: Done.
+[03May2025 21:18:49.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[03May2025 21:18:49.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03May2025 21:18:49.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03May2025 21:18:49.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03May2025 21:18:49.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03May2025 21:18:49.724] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03May2025 21:18:50.086] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03May2025 21:18:50.087] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03May2025 21:18:50.088] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03May2025 21:18:50.090] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03May2025 21:18:50.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03May2025 21:19:01.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03May2025 21:19:08.113] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.214] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.268] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.295] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.319] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.339] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.358] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.444] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.485] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.644] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.675] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.749] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.761] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.785] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.846] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:08.875] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:09.373] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:09.941] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:10.389] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:10.929] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:11.379] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:11.874] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:12.379] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:12.874] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:13.374] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:13.876] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:14.425] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:14.882] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:15.660] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:15.872] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03May2025 21:19:16.378] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[03May2025 21:19:16.874] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[03May2025 21:19:17.371] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[03May2025 21:19:17.873] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[03May2025 21:19:18.392] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[03May2025 21:19:18.871] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[03May2025 21:19:19.373] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[03May2025 21:19:19.873] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[03May2025 21:19:20.512] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[03May2025 21:19:20.872] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[03May2025 21:19:21.372] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[03May2025 21:19:21.875] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
+[03May2025 21:19:22.375] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[03May2025 21:19:22.874] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[03May2025 21:19:23.375] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[03May2025 21:19:23.871] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[03May2025 21:19:24.382] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[03May2025 21:19:24.871] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[03May2025 21:19:25.377] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[03May2025 21:19:25.874] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[03May2025 21:19:27.650] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 26280 ms
+[03May2025 21:19:27.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (37.522s)! For help, type "help"
+[03May2025 21:19:27.966] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03May2025 21:19:32.713] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[03May2025 21:19:32.715] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[03May2025 21:19:32.810] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[03May2025 21:19:32.814] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[03May2025 21:19:32.820] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[03May2025 21:19:32.824] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
+[03May2025 21:19:32.829] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/XD/servidor_minecraft/./config/infernalmobs.cfg
+[03May2025 21:19:33.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
+[03May2025 21:19:33.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (get|base|modifier)
+[03May2025 21:19:33.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[03May2025 21:19:33.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|remove|list|set|get)
+[03May2025 21:19:33.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
+[03May2025 21:19:33.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[03May2025 21:19:33.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (merge|get|remove|modify)
+[03May2025 21:19:33.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (enable|disable|list)
+[03May2025 21:19:33.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (start|stop|function)
+[03May2025 21:19:33.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (survival|creative|adventure|spectator)
+[03May2025 21:19:33.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [peaceful|easy|normal|hard]
+[03May2025 21:19:33.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
+[03May2025 21:19:33.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
+[03May2025 21:19:33.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
+[03May2025 21:19:33.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|set|query)
+[03May2025 21:19:33.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
+[03May2025 21:19:33.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[03May2025 21:19:33.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|remove|query)
+[03May2025 21:19:33.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
+[03May2025 21:19:33.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (survival|creative|adventure|spectator)
+[03May2025 21:19:33.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|babySkeletonSpawn|bloodyGadflySpawn|boneImpSpawn|bonescallerSpawn|clownTentGeneration|commandBlockOutput|corpseFishSpawn|corpseFlySpawn|darkTowerGeneration|darkVortexSpawn|decayingZombieSpawn|decrepitSkeletonSpawn|disableElytraMovementCheck|disableRaids|disappearanceofSpiritsUndertheSun|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|doorKnightSpawn|dreadHoundSpawn|drowningDamage|fallDamage|fallenChaosKnightSpawn|farmGeneration|fireDamage|firelightSpawn|firewellGeneration|forgiveDeadPlayers|freezeDamage|generationofInfectedDiamonds|gluttonFishSpawn|keepInventory|logAdminCommands|maggotsAppearance|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|observationTowerGeneration|phantomCreeperSpawn|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|restlessSpiritSpawn|sendCommandFeedback|serPumpkinheadSpawn|showDeathMessages|skeletonBombSpawn|skeletonThrasherSpawn|sonsGriefing|soulStratificationEffect|spawnRadius|spectatorsGenerateChunks|spiritGuideSpawn|theappearanceoftheNightmareStalker|thornshellCrabSpawn|universalAnger|wistiverJawLimit|witherStriderSpawn|zombieBruiserSpawn|zombieClownSpawn|zombieFishermanSpawn|zombiesinaBarrelSpawn)
+[03May2025 21:19:33.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
+[03May2025 21:19:33.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
+[03May2025 21:19:33.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /item (replace|modify)
+[03May2025 21:19:33.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
+[03May2025 21:19:33.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
+[03May2025 21:19:33.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
+[03May2025 21:19:33.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate <structure>
+[03May2025 21:19:33.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
+[03May2025 21:19:33.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (replace|insert|give|spawn)
+[03May2025 21:19:33.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
+[03May2025 21:19:33.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
+[03May2025 21:19:33.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
+[03May2025 21:19:33.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
+[03May2025 21:19:33.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /placefeature <feature> [<pos>]
+[03May2025 21:19:33.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[03May2025 21:19:33.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
+[03May2025 21:19:33.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
+[03May2025 21:19:33.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
+[03May2025 21:19:33.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (function|clear)
+[03May2025 21:19:33.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
+[03May2025 21:19:33.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
+[03May2025 21:19:33.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[03May2025 21:19:33.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
+[03May2025 21:19:33.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
+[03May2025 21:19:33.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
+[03May2025 21:19:33.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[03May2025 21:19:33.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[03May2025 21:19:33.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
+[03May2025 21:19:33.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|remove|list)
+[03May2025 21:19:33.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (list|add|remove|empty|join|leave|modify)
+[03May2025 21:19:33.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
+[03May2025 21:19:33.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
+[03May2025 21:19:33.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<location>|<destination>|<targets>)
+[03May2025 21:19:33.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
+[03May2025 21:19:33.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
+[03May2025 21:19:33.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (set|add|query)
+[03May2025 21:19:33.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[03May2025 21:19:33.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
+[03May2025 21:19:33.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
+[03May2025 21:19:33.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|set|center|damage|get|warning)
+[03May2025 21:19:33.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /jfr (start|stop)
+[03May2025 21:19:33.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
+[03May2025 21:19:33.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
+[03May2025 21:19:33.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
+[03May2025 21:19:33.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
+[03May2025 21:19:33.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
+[03May2025 21:19:33.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
+[03May2025 21:19:33.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
+[03May2025 21:19:33.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /perf (start|stop)
+[03May2025 21:19:33.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
+[03May2025 21:19:33.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
+[03May2025 21:19:33.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
+[03May2025 21:19:33.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
+[03May2025 21:19:33.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
+[03May2025 21:19:33.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (on|off|list|add|remove|reload)
+[03May2025 21:19:33.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sl_nbt (block|entity|item)
+[03May2025 21:19:33.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sl_tp <entity> <dimension> <pos>
+[03May2025 21:19:33.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[03May2025 21:19:33.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /champions (egg|summon|summonpos)
+[03May2025 21:19:33.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrestoreinventory [<player>]
+[03May2025 21:19:33.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbshowlastgrave [<player>]
+[03May2025 21:19:33.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbknowledge [<player>]
+[03May2025 21:19:33.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbacceptteleport [<target>]
+[03May2025 21:19:33.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbsiege [start|stop]
+[03May2025 21:19:33.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrecovery [save_all_players|save_player|load_player]
+[03May2025 21:19:33.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrevivefamiliar [<player>]
+[03May2025 21:19:33.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrequestteleport [<target>]
+[03May2025 21:19:33.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbbind [show|set|teleport]
+[03May2025 21:19:33.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbteleport [pos|player|grave|death|home|discovery|biome]
+[03May2025 21:19:33.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /superenchant <targets> <enchantment> [<level>]
+[03May2025 21:19:33.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /toolleveling (config|openitemvalues|github|issue|wiki|discord|curseforge|modrinth)
+[03May2025 21:19:33.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sbp (list|give|removeNonPlayer)
+[03May2025 21:19:33.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sophisticatedbackpacks -> sbp
+[03May2025 21:19:33.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /replacenear [<args>]
+[03May2025 21:19:33.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //replacenear [<args>]
+[03May2025 21:19:33.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /.s [<args>]
+[03May2025 21:19:33.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /lrbuild [<args>]
+[03May2025 21:19:33.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //lrbuild [<args>]
+[03May2025 21:19:33.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //stack [<args>]
+[03May2025 21:19:33.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //overlay [<args>]
+[03May2025 21:19:33.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //shift [<args>]
+[03May2025 21:19:33.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /searchitem [<args>]
+[03May2025 21:19:33.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //searchitem [<args>]
+[03May2025 21:19:33.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //l [<args>]
+[03May2025 21:19:33.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //search [<args>]
+[03May2025 21:19:33.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /toggleeditwand [<args>]
+[03May2025 21:19:33.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /none [<args>]
+[03May2025 21:19:33.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gmask [<args>]
+[03May2025 21:19:33.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //gmask [<args>]
+[03May2025 21:19:33.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /selwand [<args>]
+[03May2025 21:19:33.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //selwand [<args>]
+[03May2025 21:19:33.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /removeabove [<args>]
+[03May2025 21:19:33.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //removeabove [<args>]
+[03May2025 21:19:33.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pumpkins [<args>]
+[03May2025 21:19:33.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //outset [<args>]
+[03May2025 21:19:33.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /navwand [<args>]
+[03May2025 21:19:33.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //navwand [<args>]
+[03May2025 21:19:33.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //generate [<args>]
+[03May2025 21:19:33.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //gen [<args>]
+[03May2025 21:19:33.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //g [<args>]
+[03May2025 21:19:33.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //replace [<args>]
+[03May2025 21:19:33.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //re [<args>]
+[03May2025 21:19:33.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //rep [<args>]
+[03May2025 21:19:33.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //faces [<args>]
+[03May2025 21:19:33.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //outline [<args>]
+[03May2025 21:19:33.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //deform [<args>]
+[03May2025 21:19:33.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /biomelist [<args>]
+[03May2025 21:19:33.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /biomels [<args>]
+[03May2025 21:19:33.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /green [<args>]
+[03May2025 21:19:33.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //green [<args>]
+[03May2025 21:19:33.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /extinguish [<args>]
+[03May2025 21:19:33.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //ex [<args>]
+[03May2025 21:19:33.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //ext [<args>]
+[03May2025 21:19:33.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //extinguish [<args>]
+[03May2025 21:19:33.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ex [<args>]
+[03May2025 21:19:33.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ext [<args>]
+[03May2025 21:19:33.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /unstuck [<args>]
+[03May2025 21:19:33.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /! [<args>]
+[03May2025 21:19:33.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /farwand [<args>]
+[03May2025 21:19:33.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /removenear [<args>]
+[03May2025 21:19:33.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //removenear [<args>]
+[03May2025 21:19:33.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ceil [<args>]
+[03May2025 21:19:33.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //smooth [<args>]
+[03May2025 21:19:33.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: // [<args>]
+[03May2025 21:19:33.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /, [<args>]
+[03May2025 21:19:33.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /floodfill [<args>]
+[03May2025 21:19:33.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /flood [<args>]
+[03May2025 21:19:33.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //cyl [<args>]
+[03May2025 21:19:33.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //watchdog [<args>]
+[03May2025 21:19:33.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /superpickaxe [<args>]
+[03May2025 21:19:33.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pickaxe [<args>]
+[03May2025 21:19:33.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sp [<args>]
+[03May2025 21:19:33.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /size [<args>]
+[03May2025 21:19:33.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //generatebiome [<args>]
+[03May2025 21:19:33.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //genbiome [<args>]
+[03May2025 21:19:33.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //gb [<args>]
+[03May2025 21:19:33.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /material [<args>]
+[03May2025 21:19:33.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //material [<args>]
+[03May2025 21:19:33.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //naturalize [<args>]
+[03May2025 21:19:33.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //world [<args>]
+[03May2025 21:19:33.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //help [<args>]
+[03May2025 21:19:33.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //hcyl [<args>]
+[03May2025 21:19:33.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //sel [<args>]
+[03May2025 21:19:33.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /; [<args>]
+[03May2025 21:19:33.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //desel [<args>]
+[03May2025 21:19:33.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //deselect [<args>]
+[03May2025 21:19:33.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clearhistory [<args>]
+[03May2025 21:19:33.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //clearhistory [<args>]
+[03May2025 21:19:33.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /snapshot [<args>]
+[03May2025 21:19:33.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /snap [<args>]
+[03May2025 21:19:33.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /toggleplace [<args>]
+[03May2025 21:19:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //toggleplace [<args>]
+[03May2025 21:19:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forestgen [<args>]
+[03May2025 21:19:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schematic [<args>]
+[03May2025 21:19:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schem [<args>]
+[03May2025 21:19:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //schematic [<args>]
+[03May2025 21:19:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //schem [<args>]
+[03May2025 21:19:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //move [<args>]
+[03May2025 21:19:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //chunk [<args>]
+[03May2025 21:19:33.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /range [<args>]
+[03May2025 21:19:33.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //paste [<args>]
+[03May2025 21:19:33.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /brush [<args>]
+[03May2025 21:19:33.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /br [<args>]
+[03May2025 21:19:33.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //brush [<args>]
+[03May2025 21:19:33.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //br [<args>]
+[03May2025 21:19:33.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //hsphere [<args>]
+[03May2025 21:19:33.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //perf [<args>]
+[03May2025 21:19:33.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //timeout [<args>]
+[03May2025 21:19:33.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //rotate [<args>]
+[03May2025 21:19:33.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deltree [<args>]
+[03May2025 21:19:33.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /repl [<args>]
+[03May2025 21:19:33.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //distr [<args>]
+[03May2025 21:19:33.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /remove [<args>]
+[03May2025 21:19:33.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rem [<args>]
+[03May2025 21:19:33.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rement [<args>]
+[03May2025 21:19:33.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /undo [<args>]
+[03May2025 21:19:33.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //undo [<args>]
+[03May2025 21:19:33.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //sphere [<args>]
+[03May2025 21:19:33.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /descend [<args>]
+[03May2025 21:19:33.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /desc [<args>]
+[03May2025 21:19:33.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //inset [<args>]
+[03May2025 21:19:33.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //wand [<args>]
+[03May2025 21:19:33.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //reorder [<args>]
+[03May2025 21:19:33.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /redo [<args>]
+[03May2025 21:19:33.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //redo [<args>]
+[03May2025 21:19:33.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fixwater [<args>]
+[03May2025 21:19:33.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //fixwater [<args>]
+[03May2025 21:19:33.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldedit [<args>]
+[03May2025 21:19:33.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /we [<args>]
+[03May2025 21:19:33.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /jumpto [<args>]
+[03May2025 21:19:33.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /j [<args>]
+[03May2025 21:19:33.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //line [<args>]
+[03May2025 21:19:33.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fixlava [<args>]
+[03May2025 21:19:33.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //fixlava [<args>]
+[03May2025 21:19:33.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /biomeinfo [<args>]
+[03May2025 21:19:33.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /chunkinfo [<args>]
+[03May2025 21:19:33.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ascend [<args>]
+[03May2025 21:19:33.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /asc [<args>]
+[03May2025 21:19:33.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /cs [<args>]
+[03May2025 21:19:33.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //size [<args>]
+[03May2025 21:19:33.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /thru [<args>]
+[03May2025 21:19:33.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //fillr [<args>]
+[03May2025 21:19:33.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //contract [<args>]
+[03May2025 21:19:33.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tracemask [<args>]
+[03May2025 21:19:33.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /removebelow [<args>]
+[03May2025 21:19:33.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //removebelow [<args>]
+[03May2025 21:19:33.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /butcher [<args>]
+[03May2025 21:19:33.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //flora [<args>]
+[03May2025 21:19:33.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /cycler [<args>]
+[03May2025 21:19:33.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //calculate [<args>]
+[03May2025 21:19:33.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //calc [<args>]
+[03May2025 21:19:33.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //eval [<args>]
+[03May2025 21:19:33.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //evaluate [<args>]
+[03May2025 21:19:33.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //solve [<args>]
+[03May2025 21:19:33.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /thaw [<args>]
+[03May2025 21:19:33.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //thaw [<args>]
+[03May2025 21:19:33.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /up [<args>]
+[03May2025 21:19:33.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //count [<args>]
+[03May2025 21:19:33.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /info [<args>]
+[03May2025 21:19:33.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /listchunks [<args>]
+[03May2025 21:19:33.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //hpyramid [<args>]
+[03May2025 21:19:33.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //cut [<args>]
+[03May2025 21:19:33.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //forest [<args>]
+[03May2025 21:19:33.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tree [<args>]
+[03May2025 21:19:33.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tool [<args>]
+[03May2025 21:19:33.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //center [<args>]
+[03May2025 21:19:33.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //middle [<args>]
+[03May2025 21:19:33.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /snow [<args>]
+[03May2025 21:19:33.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //snow [<args>]
+[03May2025 21:19:33.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //setbiome [<args>]
+[03May2025 21:19:33.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //limit [<args>]
+[03May2025 21:19:33.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /restore [<args>]
+[03May2025 21:19:33.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //restore [<args>]
+[03May2025 21:19:33.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //pyramid [<args>]
+[03May2025 21:19:33.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //drain [<args>]
+[03May2025 21:19:33.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //set [<args>]
+[03May2025 21:19:33.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //pos1 [<args>]
+[03May2025 21:19:33.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //regen [<args>]
+[03May2025 21:19:33.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //pos2 [<args>]
+[03May2025 21:19:33.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //fast [<args>]
+[03May2025 21:19:33.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //hollow [<args>]
+[03May2025 21:19:33.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //hpos2 [<args>]
+[03May2025 21:19:33.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //hpos1 [<args>]
+[03May2025 21:19:33.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //flip [<args>]
+[03May2025 21:19:33.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //drawsel [<args>]
+[03May2025 21:19:33.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /mask [<args>]
+[03May2025 21:19:33.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //copy [<args>]
+[03May2025 21:19:33.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /delchunks [<args>]
+[03May2025 21:19:33.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //expand [<args>]
+[03May2025 21:19:33.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clearclipboard [<args>]
+[03May2025 21:19:33.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //walls [<args>]
+[03May2025 21:19:33.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //fill [<args>]
+[03May2025 21:19:33.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: //curve [<args>]
+[03May2025 21:19:33.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /damagePart (HEAD|LEFT_ARM|LEFT_LEG|LEFT_FOOT|BODY|RIGHT_ARM|RIGHT_LEG|RIGHT_FOOT|ALL)
+[03May2025 21:19:33.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sh_difficulty (get|set|add)
+[03May2025 21:19:33.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sh_health (get|set|add)
+[03May2025 21:19:33.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sh_power (get|set|add)
+[03May2025 21:19:33.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sh_recalculate all
+[03May2025 21:19:33.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sh_summon <entity> [<difficulty>]
+[03May2025 21:19:33.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[03May2025 21:19:33.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
+[03May2025 21:19:33.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /feclass <entClass>
+[03May2025 21:19:33.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawninfernal <x> <y> <z> <entClass> <modifiers>
+[03May2025 21:19:33.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /carryon (debug|clear)
+[03May2025 21:19:35.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
+[03May2025 21:20:09.533] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c7c68ce
+[03May2025 21:20:09.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:51849] logged in with entity id 511 at (-1851.382980586765, -14.375, -685.1917147902642)
+[03May2025 21:20:10.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[03May2025 21:20:10.300] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[03May2025 21:20:10.304] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[03May2025 21:20:10.305] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[03May2025 21:20:16.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7853ms or 157 ticks behind
+[03May2025 21:20:34.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[03May2025 21:20:39.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Disconnected
+[03May2025 21:20:39.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[03May2025 21:20:40.172] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 21:21:24.254] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16e1a2cc
+[03May2025 21:21:24.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:34517] logged in with entity id 715 at (-1851.382980586765, -14.375, -685.1917147902642)
+[03May2025 21:21:24.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[03May2025 21:21:24.307] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[03May2025 21:21:24.310] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[03May2025 21:21:24.310] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[03May2025 21:21:26.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[03May2025 21:21:47.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[03May2025 21:22:00.979] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66fb4e83
+[03May2025 21:22:01.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.225.129.126:38985] logged in with entity id 973 at (455.0598064069509, 72.0, -2856.764907712974)
+[03May2025 21:22:01.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[03May2025 21:22:01.090] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[03May2025 21:22:01.090] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[03May2025 21:22:01.094] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[03May2025 21:22:08.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6038ms or 120 ticks behind
+[03May2025 21:22:28.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5942ms or 118 ticks behind
+[03May2025 21:22:51.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7158ms or 143 ticks behind
+[03May2025 21:23:19.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13907ms or 278 ticks behind
+[03May2025 21:24:10.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Local Brewery]
+[03May2025 21:24:39.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[03May2025 21:24:39.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from zalvro: hit position BlockPos{x=-1840, y=-4, z=-647} too far away from player BlockPos{x=531, y=43, z=-2889}.
+[03May2025 21:24:44.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 782.500000, -13.500000, -2777.500000]
+[03May2025 21:24:48.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[03May2025 21:24:54.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> aqui hay dos
+[03May2025 21:24:59.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> ya veo
+[03May2025 21:25:12.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> yo ya me mate 2
+[03May2025 21:25:12.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> ya mano le wa dar como burro a las dosss ummm
