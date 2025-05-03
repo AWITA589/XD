@@ -1333,6 +1333,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-05-03 21:25:24 +0000",
       "minecraft:birch_forest": "2025-02-15 23:18:24 +0000",
       "minecraft:wooded_badlands": "2025-02-19 16:29:37 +0000",
       "minecraft:bamboo_jungle": "2025-02-25 19:50:07 +0000",
@@ -1346,6 +1347,7 @@
       "minecraft:stony_shore": "2025-02-15 23:05:54 +0000",
       "minecraft:snowy_plains": "2025-05-03 21:24:40 +0000",
       "minecraft:dripstone_caves": "2025-02-19 22:00:08 +0000",
+      "minecraft:snowy_taiga": "2025-05-03 21:25:45 +0000",
       "minecraft:jagged_peaks": "2025-02-15 23:17:45 +0000",
       "minecraft:forest": "2025-02-15 23:02:04 +0000",
       "minecraft:lush_caves": "2025-05-01 22:29:50 +0000",
@@ -1727,6 +1729,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-05-01 20:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-03 21:39:35 +0000"
     },
     "done": true
   },
@@ -2125,6 +2133,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-17 22:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-03 21:38:57 +0000"
     },
     "done": true
   },
@@ -2882,6 +2896,12 @@
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2025-02-19 16:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-03 21:38:57 +0000"
     },
     "done": true
   },
