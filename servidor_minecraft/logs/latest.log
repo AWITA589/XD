@@ -115,3 +115,28 @@
 [10May2025 22:40:35.101] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
 [10May2025 22:40:35.101] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [10May2025 22:40:39.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[10May2025 22:40:52.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Disconnected
+[10May2025 22:40:52.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[10May2025 22:41:02.808] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@eaeb3fb
+[10May2025 22:41:02.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.207.20.87:51037] logged in with entity id 945 at (41.83801022842187, 77.0, 881.5212715086898)
+[10May2025 22:41:02.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[10May2025 22:41:02.945] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[10May2025 22:41:02.948] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[10May2025 22:41:02.948] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[10May2025 22:41:05.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[10May2025 22:41:29.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> god
+[10May2025 22:42:44.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
+[10May2025 22:42:44.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[10May2025 22:42:54.609] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78f4e676
+[10May2025 22:42:54.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.225.129.126:55817] logged in with entity id 1416 at (36.277288683365065, 86.69437553597398, 803.9430039925512)
+[10May2025 22:42:54.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[10May2025 22:42:54.791] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[10May2025 22:42:54.793] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[10May2025 22:42:54.794] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[10May2025 22:46:59.690] [Server thread/INFO] [Scaling Health/]: Blight Pillager was killed by zalvro
+[10May2025 22:49:52.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[10May2025 22:50:25.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> me hago tp a 10000 bloques
+[10May2025 22:50:34.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> a la mrda xdd
+[10May2025 22:50:46.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 9574.471982, 73.000000, 10789.990964]
+[10May2025 22:50:46.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8638ms or 172 ticks behind
+[10May2025 22:50:48.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> habla q si te escucho

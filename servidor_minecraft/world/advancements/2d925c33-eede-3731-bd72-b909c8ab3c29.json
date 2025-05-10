@@ -1340,6 +1340,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-10 22:46:15 +0000",
       "minecraft:frozen_river": "2025-05-03 21:25:24 +0000",
       "minecraft:birch_forest": "2025-02-15 23:18:24 +0000",
       "minecraft:wooded_badlands": "2025-02-19 16:29:37 +0000",
