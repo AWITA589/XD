@@ -3593,6 +3593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 22:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-17 22:32:08 +0000"
@@ -3889,6 +3895,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-10 22:50:46 +0000",
       "minecraft:mushroom_fields": "2025-02-15 23:02:05 +0000",
       "minecraft:taiga": "2025-02-23 22:44:37 +0000",
       "minecraft:deep_ocean": "2025-02-16 00:22:49 +0000",

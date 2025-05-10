@@ -140,3 +140,58 @@
 [10May2025 22:50:46.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 9574.471982, 73.000000, 10789.990964]
 [10May2025 22:50:46.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8638ms or 172 ticks behind
 [10May2025 22:50:48.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> habla q si te escucho
+[10May2025 22:51:19.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported zalvro to The_Dragon_589]
+[10May2025 22:53:51.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[10May2025 22:53:52.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of zalvro) moved wrongly! 0.7308174545578368
+[10May2025 22:53:52.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of zalvro) moved wrongly! 1.6579284603594715
+[10May2025 22:53:52.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of zalvro) moved wrongly! 2.5965052657156775
+[10May2025 22:53:52.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of zalvro) moved wrongly! 3.5450927047513687
+[10May2025 22:53:52.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of zalvro) moved wrongly! 4.502438146031636
+[10May2025 22:53:52.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of zalvro) moved wrongly! 5.468060045128368
+[10May2025 22:53:52.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of zalvro) moved wrongly! 6.422066827421077
+[10May2025 22:54:59.437] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=9220, y=37, z=11318} but found not block entity block Block{minecraft:water}[level=1] at location
+[10May2025 22:54:59.438] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=9220, y=37, z=11318}
+[10May2025 22:56:27.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [The Lighthouse]
+[10May2025 22:56:55.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has completed the challenge [Master Siphoner]
+[10May2025 22:57:23.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Zombie
+[10May2025 22:57:23.752] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[10May2025 22:57:24.992] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10May2025 22:57:24.994] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10May2025 22:57:29.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> jajajajja
+[10May2025 22:57:39.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [Knowledge raises the soul]
+[10May2025 23:02:11.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Zombie
+[10May2025 23:02:11.808] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[10May2025 23:02:13.085] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10May2025 23:02:13.088] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[10May2025 23:02:31.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Zombie
+[10May2025 23:02:31.621] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[10May2025 23:02:32.966] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10May2025 23:02:32.966] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[10May2025 23:02:42.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to zalvro]
+[10May2025 23:02:57.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro was slain by Zombie
+[10May2025 23:02:57.249] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
+[10May2025 23:02:58.440] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10May2025 23:02:58.440] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[10May2025 23:03:00.650] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by The_Dragon_589
+[10May2025 23:04:36.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[10May2025 23:04:54.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> y mano para q querias al dereck
+[10May2025 23:05:56.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> mano??
+[10May2025 23:06:01.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> weno mas que a solo dereck yo queria a gente para seguirlos ps :v y que pareciera que solo estaba con mis amigos y que no los estaba siguiendo y asi ademas si la cosa se ponia picante ps ya tenia al dereck xd
+[10May2025 23:06:13.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9969, y=69, z=10921} BlockPos{x=9969, y=67, z=10922}
+[10May2025 23:06:13.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9969, y=68, z=10921} BlockPos{x=9969, y=67, z=10922}
+[10May2025 23:06:32.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XDDDDDDDDDD
+[10May2025 23:08:00.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> spawneo dragones
+[10May2025 23:08:06.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> yayayyayayya
+[10May2025 23:08:08.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> para tu armor
+[10May2025 23:08:28.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> que sean de fuego xd
+[10May2025 23:08:38.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> mano no puedes hacer un coliseo?? xdd
+[10May2025 23:08:49.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> en hay nos sacamos la mrda con digamos
+[10May2025 23:09:00.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> XD
+[10May2025 23:09:04.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> 3 ciclopes con un dragon
+[10May2025 23:09:07.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> o cosas asi
+[10May2025 23:09:09.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> a ver
+[10May2025 23:09:20.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[10May2025 23:09:26.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> quieres creativo??
+[10May2025 23:09:37.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pero no te sacas nada
+[10May2025 23:09:50.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zalvro> yaya o asi noma mano soy capaz xd
+[10May2025 23:11:25.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro has made the advancement [People Are Strange]
