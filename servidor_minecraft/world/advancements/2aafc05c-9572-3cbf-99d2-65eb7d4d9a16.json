@@ -1097,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-10 23:46:56 +0000"
+    },
+    "done": true
+  },
   "enchantmentmachine:recipes/enchantmentmachine/enchantment_block": {
     "criteria": {
       "has_obsidian": "2025-02-20 15:33:55 +0000"
@@ -3305,6 +3311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-10 23:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-02-17 22:34:21 +0000"
@@ -4133,6 +4145,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-03-04 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-10 23:46:56 +0000"
     },
     "done": true
   },
