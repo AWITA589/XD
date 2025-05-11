@@ -8,3 +8,26 @@
 [11May2025 00:01:55.107] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [11May2025 00:01:55.107] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [11May2025 00:02:30.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved too quickly! -8.935145028235638,0.0,5.255542556144064
+[11May2025 00:02:46.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pasa todo
+[11May2025 00:03:36.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> cual
+[11May2025 00:03:51.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ???
+[11May2025 00:04:14.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> te di tu espada verdad
+[11May2025 00:04:20.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> cual
+[11May2025 00:05:04.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> muy pocos??
+[11May2025 00:05:08.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma
+[11May2025 00:06:07.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> cual quieres
+[11May2025 00:06:57.101] [Server thread/INFO] [Scaling Health/]: Blight Zombie Clown was killed by zalvro
+[11May2025 00:07:21.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> pero si estabas completo
+[11May2025 00:08:43.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> espera un toque
+[11May2025 00:10:08.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ya
+[11May2025 00:10:18.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Timed out
+[11May2025 00:10:18.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
+[11May2025 00:10:18.694] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11May2025 00:11:06.700] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@df87198
+[11May2025 00:11:06.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zalvro[/127.195.113.136:51487] logged in with entity id 8922 at (10196.19709833069, 134.0, 10730.266740779378)
+[11May2025 00:11:06.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro joined the game
+[11May2025 00:11:06.801] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[11May2025 00:11:06.802] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[11May2025 00:11:06.802] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[11May2025 00:12:21.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro lost connection: Timed out
+[11May2025 00:12:21.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zalvro left the game
