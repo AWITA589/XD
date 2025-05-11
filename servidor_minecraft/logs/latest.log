@@ -289,3 +289,5 @@ Caused by: java.lang.IllegalArgumentException: Player zalvro is missing a damage
 [11May2025 00:36:32.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> otro dia jugamos ya me voy
 [11May2025 00:36:33.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
 [11May2025 00:36:33.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[11May2025 01:01:23.459] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=601, y=32, z=312} but found not block entity block Block{minecraft:water}[level=0] at location
+[11May2025 01:01:23.459] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=601, y=32, z=312}
