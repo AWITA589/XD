@@ -282,3 +282,10 @@ Caused by: java.lang.IllegalArgumentException: Player zalvro is missing a damage
 [11May2025 00:32:44.343] [Server thread/INFO] [tombstone/]: The player zalvro has successfully been saved
 [11May2025 00:32:47.624] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [11May2025 00:32:47.625] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[11May2025 00:34:47.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zalvro moved too quickly! 0.35535443948954537,0.0,-10.392880153332385
+[11May2025 00:34:52.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[11May2025 00:35:39.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[11May2025 00:36:22.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> ya mano
+[11May2025 00:36:32.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> otro dia jugamos ya me voy
+[11May2025 00:36:33.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
+[11May2025 00:36:33.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
