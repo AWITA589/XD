@@ -1643,6 +1643,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-05-14 22:19:53 +0000"
+    },
+    "done": true
+  },
   "champions:kill_a_champion": {
     "criteria": {
       "kill_a_champion": "2025-02-20 17:27:54 +0000"
