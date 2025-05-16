@@ -128,3 +128,86 @@
 [16May2025 23:34:46.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
 [16May2025 23:38:32.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Successfully filled 1 blocks]
 [16May2025 23:39:06.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
+[16May2025 23:40:30.954] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[16May2025 23:42:07.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[16May2025 23:43:34.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[16May2025 23:44:15.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[16May2025 23:50:12.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 was slain by Nightmare Stalker
+[16May2025 23:50:13.624] [Server thread/INFO] [tombstone/]: The player The_Dragon_589 has successfully been saved
+[16May2025 23:50:14.331] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player The_Dragon_589 is missing a damage model!
+	Index: 4
+	Listeners:
+		0: NORMAL
+		1: ASM: top.theillusivec4.champions.common.ChampionEventsHandler@3f032bb3 onLivingHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+		2: ASM: top.theillusivec4.champions.common.affix.WoundingAffix@184c183f onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+		3: LOW
+		4: ASM: class ichttt.mods.firstaid.common.EventHandler onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+java.lang.IllegalArgumentException: Player The_Dragon_589 is missing a damage model!
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:143)
+	at TRANSFORMER/forge@40.2.21/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281)
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:143)
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:93)
+	at TRANSFORMER/firstaid@1.11.1/ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:258)
+	at net.minecraftforge.eventbus.ASMEventHandler_227_EventHandler_onHeal_LivingHealEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at TRANSFORMER/forge@40.2.21/net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:529)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:979)
+	at TRANSFORMER/silentlib@6.2.0/net.silentchaos512.lib.util.EntityHelper.heal(EntityHelper.java:87)
+	at TRANSFORMER/scalinghealth@6.3.1+6/net.silentchaos512.scalinghealth.objects.potion.BandagedEffect.m_6742_(BandagedEffect.java:49)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.Entity.m_8119_(Entity.java:413)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:235)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.Connection.m_129483_(Connection.java:245)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[16May2025 23:50:14.667] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.225.129.126:48439
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.IllegalArgumentException: Player The_Dragon_589 is missing a damage model!
+	at ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:143) ~[firstaid-1.11.1.jar%2351!/:1.11.1]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281) ~[forge-1.18.2-40.2.21-universal.jar%2372!/:?]
+	at ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:143) ~[firstaid-1.11.1.jar%2351!/:1.11.1]
+	at ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:93) ~[firstaid-1.11.1.jar%2351!/:1.11.1]
+	at ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:258) ~[firstaid-1.11.1.jar%2351!/:1.11.1]
+	at net.minecraftforge.eventbus.ASMEventHandler_227_EventHandler_onHeal_LivingHealEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:529) ~[forge-1.18.2-40.2.21-universal.jar%2372!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:979) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.silentchaos512.lib.util.EntityHelper.heal(EntityHelper.java:87) ~[silent-lib-1.18.2-6.2.0.jar%2359!/:6.2.0]
+	at net.silentchaos512.scalinghealth.objects.potion.BandagedEffect.m_6742_(BandagedEffect.java:49) ~[ScalingHealth-1.18.2-6.3.1+6.jar%2358!/:6.3.1+6]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	... 9 more
+[16May2025 23:50:14.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Internal server error
+[16May2025 23:50:14.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
