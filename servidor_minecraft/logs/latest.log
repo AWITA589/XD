@@ -124,3 +124,7 @@
 [16May2025 23:23:51.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
 [16May2025 23:24:10.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4151ms or 83 ticks behind
 [16May2025 23:25:31.457] [Server thread/INFO] [Scaling Health/]: Blight Silverfish was killed by The_Dragon_589
+[16May2025 23:31:29.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 42.500000, 77.500000, 877.500000]
+[16May2025 23:34:46.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[16May2025 23:38:32.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Successfully filled 1 blocks]
+[16May2025 23:39:06.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
