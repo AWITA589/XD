@@ -211,3 +211,11 @@ Caused by: java.lang.IllegalArgumentException: Player The_Dragon_589 is missing 
 	... 9 more
 [16May2025 23:50:14.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Internal server error
 [16May2025 23:50:14.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[16May2025 23:50:47.254] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c84b6eb
+[16May2025 23:50:47.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.225.129.126:51853] logged in with entity id 12844 at (20.454563827067197, 77.0, 858.6546469538347)
+[16May2025 23:50:47.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[16May2025 23:50:47.360] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[16May2025 23:50:47.362] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[16May2025 23:50:47.362] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[16May2025 23:50:51.496] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16May2025 23:50:51.496] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
