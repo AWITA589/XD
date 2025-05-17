@@ -5,3 +5,19 @@
 [17May2025 00:13:20.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 42.500000, 77.500000, 877.500000]
 [17May2025 00:18:15.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
 [17May2025 00:18:52.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[17May2025 00:33:43.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [The Heart and the Flame]
+[17May2025 00:38:43.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[17May2025 00:39:07.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[17May2025 00:41:14.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
+[17May2025 00:41:14.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[17May2025 00:41:25.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[17May2025 00:41:25.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17May2025 00:41:25.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17May2025 00:41:25.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17May2025 00:41:26.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17May2025 00:41:26.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17May2025 00:41:26.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17May2025 00:41:26.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17May2025 00:41:26.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17May2025 00:41:26.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17May2025 00:41:26.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

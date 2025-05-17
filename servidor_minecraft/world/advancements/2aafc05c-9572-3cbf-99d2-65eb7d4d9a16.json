@@ -3377,6 +3377,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-05-17 00:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-17 21:53:02 +0000"
