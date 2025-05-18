@@ -186,3 +186,20 @@
 [18May2025 23:44:23.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> quieres tradear palitos
 [18May2025 23:47:02.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> para descuentos usa esto
 [18May2025 23:47:05.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> toma
+[18May2025 23:47:31.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> te regale un sombrero de paja
+[18May2025 23:47:38.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> donde esta??
+[18May2025 23:48:02.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> a
+[18May2025 23:49:48.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> quieres aplanar o q wea hacemos
+[18May2025 23:49:52.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> dragona??
+[18May2025 23:50:00.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> .-.
+[18May2025 23:51:11.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> terreneitor
+[18May2025 23:51:53.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <The_Dragon_589> al 10
+[18May2025 23:55:53.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Timed out
+[18May2025 23:55:53.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
+[18May2025 23:55:53.154] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 23:56:14.439] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3cea7e2c
+[18May2025 23:56:14.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.225.129.126:34105] logged in with entity id 14287 at (-53.578636169433594, 81.5074508190155, 865.6005859375)
+[18May2025 23:56:14.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
+[18May2025 23:56:14.548] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[18May2025 23:56:14.549] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[18May2025 23:56:14.549] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
