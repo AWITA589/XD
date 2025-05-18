@@ -1,277 +1,99 @@
-[17May2025 19:00:59.501] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[17May2025 19:00:59.506] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
-[17May2025 19:00:59.801] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/XD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[17May2025 19:01:00.510] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[17May2025 19:01:00.521] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[17May2025 19:01:00.525] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[17May2025 19:01:00.529] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[17May2025 19:01:00.756] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[17May2025 19:01:04.275] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[17May2025 19:01:04.508] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[17May2025 19:01:04.516] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[17May2025 19:01:19.959] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.7.
-[17May2025 19:01:20.908] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[17May2025 19:01:22.396] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[17May2025 19:01:22.396] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[17May2025 19:01:22.602] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[17May2025 19:01:24.790] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
-[17May2025 19:01:24.790] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
-[17May2025 19:01:25.071] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / iceandfire:dragonforge]' to registry
-[17May2025 19:01:25.072] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'iceandfire:dragonforge' to registry
-[17May2025 19:01:25.588] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[17May2025 19:01:25.606] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Created README.txt in config folder.
-[17May2025 19:01:25.634] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'tool_leveling_table.json' was successfully loaded.
-[17May2025 19:01:25.641] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: tool_leveling_table.json
-[17May2025 19:01:25.650] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'item_values.json' was successfully loaded.
-[17May2025 19:01:25.655] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: item_values.json
-[17May2025 19:01:25.655] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'command_config.json' was successfully loaded.
-[17May2025 19:01:25.659] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: command_config.json
-[17May2025 19:01:26.630] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[17May2025 19:01:26.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.18.x/update.json
-[17May2025 19:01:27.103] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3a79a889]
-[17May2025 19:01:27.128] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
-[17May2025 19:01:27.181] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 6.2.0 Target: null
-[17May2025 19:01:27.181] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[17May2025 19:01:27.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 7.7.6 Target: null
-[17May2025 19:01:27.202] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[17May2025 19:01:27.290] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[17May2025 19:01:27.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 6.3.1+6 Target: 6.3.0
-[17May2025 19:01:27.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[17May2025 19:01:27.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[17May2025 19:01:31.545] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17May2025 19:01:34.029] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/assets/.mcassetsroot' uses unexpected schema
-[17May2025 19:01:34.030] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/data/.mcassetsroot' uses unexpected schema
-[17May2025 19:01:38.704] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[17May2025 19:01:38.890] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17May2025 19:01:38.894] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17May2025 19:01:38.902] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17May2025 19:01:38.903] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17May2025 19:01:38.907] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17May2025 19:01:38.934] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, get, server] and [sh_difficulty, get, targets] with inputs: [server]
-[17May2025 19:01:38.935] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, set, server] and [sh_difficulty, set, targets] with inputs: [server]
-[17May2025 19:01:38.939] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, add, server] and [sh_difficulty, add, targets] with inputs: [server]
-[17May2025 19:01:47.095] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[17May2025 19:01:49.180] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1452 advancements
-[17May2025 19:01:49.199] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
-[17May2025 19:01:50.284] [Worker-Main-2/INFO] [Dungeon Crawl/]: Done.
-[17May2025 19:01:52.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[17May2025 19:01:52.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[17May2025 19:01:52.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[17May2025 19:01:52.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[17May2025 19:01:52.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[17May2025 19:01:52.524] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[17May2025 19:01:52.698] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17May2025 19:01:52.700] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[17May2025 19:01:52.700] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17May2025 19:01:52.701] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[17May2025 19:01:53.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[17May2025 19:02:00.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[17May2025 19:02:03.587] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:03.609] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:03.624] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:03.639] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:03.652] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:03.665] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:04.585] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:04.604] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:05.251] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:05.427] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:05.919] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:06.417] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:06.934] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:07.417] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:07.919] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:08.416] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:08.919] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 19:02:09.417] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[17May2025 19:02:09.918] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[17May2025 19:02:10.416] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[17May2025 19:02:10.916] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[17May2025 19:02:11.419] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[17May2025 19:02:11.917] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[17May2025 19:02:12.424] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[17May2025 19:02:12.918] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[17May2025 19:02:13.440] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[17May2025 19:02:13.918] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[17May2025 19:02:15.060] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14144 ms
-[17May2025 19:02:15.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.341s)! For help, type "help"
-[17May2025 19:02:15.132] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[17May2025 19:02:18.775] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[17May2025 19:02:18.775] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
-[17May2025 19:02:18.939] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[17May2025 19:02:18.957] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[17May2025 19:02:18.960] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[17May2025 19:02:18.965] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
-[17May2025 19:02:18.966] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/XD/servidor_minecraft/./config/infernalmobs.cfg
-[17May2025 19:02:21.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
-[17May2025 19:02:32.016] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44094d50
-[17May2025 19:02:32.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.225.129.126:50729] logged in with entity id 640 at (27.113173642634276, 78.0, 843.0886568186047)
-[17May2025 19:02:32.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
-[17May2025 19:02:32.795] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
-[17May2025 19:02:32.797] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
-[17May2025 19:02:32.798] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
-[17May2025 19:02:39.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
-[17May2025 19:04:15.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -4.812773965130264,0.0,9.191392342848644
-[17May2025 19:04:15.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -5.692652868397728,0.0,10.691740184779974
-[17May2025 19:04:15.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -6.575129376486663,0.0,12.191033919718052
-[17May2025 19:04:16.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 5.874938995585428,0.0,-10.654022200046029
-[17May2025 19:04:16.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 5.874938995585428,0.0,-10.654022200046029
-[17May2025 19:04:16.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 5.874938995585428,0.0,-10.654022200046029
-[17May2025 19:04:16.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 5.797180159767006,0.0,-10.693749732559468
-[17May2025 19:04:16.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 5.092939673953023,0.0,-9.107746765363572
-[17May2025 19:05:14.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3738ms or 74 ticks behind
-[17May2025 19:05:14.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 3.38408294463008,0.0,9.410337459367156
-[17May2025 19:05:14.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 3.5871611576993736,0.0,11.120865376147549
-[17May2025 19:05:14.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 3.7454360267682496,0.0,12.843588745890088
-[17May2025 19:05:14.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 3.879737519744811,0.0,14.572837659361653
-[17May2025 19:05:14.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.001211337151929,0.0,16.30557826117729
-[17May2025 19:05:14.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.115821321118098,0.0,18.04018719580904
-[17May2025 19:05:14.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.226758604660091,0.0,19.77579583808017
-[17May2025 19:05:14.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.335730699430851,0.0,21.51193940397718
-[17May2025 19:05:14.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.426298831892343,0.0,23.249274976072684
-[17May2025 19:05:14.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.4648316999991735,0.0,24.987881298421712
-[17May2025 19:05:14.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.446991118871146,0.0,26.726313875884443
-[17May2025 19:05:14.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.371740565269668,0.0,28.46289569649764
-[17May2025 19:05:14.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.331475494371695,0.0,29.39210600500155
-[17May2025 19:05:14.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.3099304577330955,0.0,29.889307914627125
-[17May2025 19:05:14.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 4.29840213818947,0.0,30.155350743331155
-[17May2025 19:05:14.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 1.164885655074663,0.0,22.577298636558567
-[17May2025 19:05:14.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 1.1615849741485889,0.0,22.65346953786809
-[17May2025 19:05:14.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 1.1615849741485889,0.0,22.694227068474902
-[17May2025 19:05:14.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 1.1615849741485889,0.0,22.71603561048505
-[17May2025 19:05:14.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 1.1615849741485889,0.0,22.727704926499314
-[17May2025 19:05:14.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 1.1615849741485889,0.0,22.733948944837493
-[17May2025 19:05:14.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 0.5925291422730119,0.0,23.09886477981229
-[17May2025 19:05:14.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -0.3050936721501678,0.0,23.614677921154225
-[17May2025 19:05:14.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -1.4177178880815475,0.0,24.12461737377589
-[17May2025 19:05:14.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -2.6506000609940905,0.0,24.616803684027104
-[17May2025 19:05:14.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -3.9542577201572975,0.0,25.07983104662037
-[17May2025 19:05:14.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -5.302967754145005,0.0,25.50241946492872
-[17May2025 19:05:14.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -6.678641649180932,0.0,25.89235808866306
-[17May2025 19:05:14.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -8.071879976134316,0.0,26.2517527261532
-[17May2025 19:05:14.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -9.47718009625326,0.0,26.58268249430114
-[17May2025 19:05:14.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -10.895103414473713,0.0,26.864817685675916
-[17May2025 19:05:14.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -11.6538059117124,0.0,27.01578260141173
-[17May2025 19:05:14.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.05977249108896,0.0,27.09656091790623
-[17May2025 19:05:14.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.276997113612982,0.0,27.139783784516567
-[17May2025 19:05:14.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.393229678133853,0.0,27.162911478668775
-[17May2025 19:05:14.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.455423405981644,0.0,27.175286646693166
-[17May2025 19:05:14.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.488702029743838,0.0,27.181908352368737
-[17May2025 19:05:14.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.50650875781481,0.0,27.185451495053144
-[17May2025 19:05:14.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.516036782977732,0.0,27.185451495053144
-[17May2025 19:05:14.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.521135039274082,0.0,27.185451495053144
-[17May2025 19:05:14.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.521135039274082,0.0,27.185451495053144
-[17May2025 19:05:14.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.872174107432858,0.0,26.609836644508732
-[17May2025 19:05:39.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.697072974472583
-[17May2025 19:05:39.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:39.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:39.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:39.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:39.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9999999999999929
-[17May2025 19:05:40.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.8657985616989023
-[17May2025 19:05:40.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.6597053764627319
-[17May2025 19:05:40.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.41459712411526795
-[17May2025 19:05:43.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.839834687682135
-[17May2025 19:05:43.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.000000000000007
-[17May2025 19:05:43.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.000000000000007
-[17May2025 19:05:43.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.000000000000007
-[17May2025 19:05:43.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.000000000000007
-[17May2025 19:05:57.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.7954708990096861
-[17May2025 19:05:57.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.46884364299509684
-[17May2025 19:05:57.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.8291519726975736
-[17May2025 19:05:57.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.0
-[17May2025 19:05:57.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.8700211256391981
-[17May2025 19:05:57.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.6704931471071092
-[17May2025 19:05:57.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.5637297039532996
-[17May2025 19:05:58.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.5066027141551075
-[17May2025 19:05:58.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.47603520090339657
-[17May2025 19:05:58.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.4596791340128732
-[17May2025 19:05:58.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.45092732872454633
-[17May2025 19:05:58.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.4462444122069371
-[17May2025 19:05:58.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.4462444122069371
-[17May2025 19:05:58.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.4462444122069371
-[17May2025 19:05:58.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.31580959315320456
-[17May2025 19:06:44.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Timed out
-[17May2025 19:06:44.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
-[17May2025 19:07:06.357] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6027c5d3
-[17May2025 19:07:06.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: The_Dragon_589[/127.225.129.126:59195] logged in with entity id 1992 at (-35.30670166015625, 79.05817866325378, 892.1011962890625)
-[17May2025 19:07:06.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 joined the game
-[17May2025 19:07:06.490] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
-[17May2025 19:07:06.490] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
-[17May2025 19:07:06.490] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
-[17May2025 19:14:40.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
-[17May2025 19:14:59.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
-[17May2025 19:17:12.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
-[17May2025 19:19:28.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
-[17May2025 19:24:33.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.48644080847509485
-[17May2025 19:24:33.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.3160210767243825
-[17May2025 19:24:33.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 2.0
-[17May2025 19:24:34.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 2.0
-[17May2025 19:24:35.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.36458276862754246
-[17May2025 19:24:35.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.768705670425561
-[17May2025 19:24:35.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.9450492734138152
-[17May2025 19:24:36.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.5868625000130123
-[17May2025 19:24:36.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.8440063636803643
-[17May2025 19:24:37.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.6137083093426554
-[17May2025 19:24:37.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 2.0565375454293644
-[17May2025 19:24:37.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 3.5088267785149583
-[17May2025 19:24:38.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.4768950947659505
-[17May2025 19:24:38.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.8947058031631059
-[17May2025 19:24:38.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 2.3149824543449995
-[17May2025 19:24:38.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 0.7200545160599177
-[17May2025 19:24:38.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 2.1104031643858434
-[17May2025 19:24:38.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved wrongly! 1.657599474733047
-[17May2025 19:24:38.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! 3.336087355554241,4.0,-9.713198733283889
-[17May2025 19:25:29.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -10.761695418511806,0.0,-0.28407207737723184
-[17May2025 19:25:55.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -10.200093375065237,-0.19722541673243654,4.98459988545892
-[17May2025 19:25:55.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.01525882911821,-0.22706448110652389,5.5032486043395465
-[17May2025 19:25:55.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -13.853604123757776,-0.25629569775867367,5.959240277021195
-[17May2025 19:25:55.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -15.712412200600369,-0.28499101562664464,6.359968323508269
-[17May2025 19:25:55.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -17.589284066292947,-0.31321386240446714,6.71195375587854
-[17May2025 19:25:55.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -11.070916541239058,-0.17432326444045998,2.6260365422697305
-[17May2025 19:25:55.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -12.977766778653645,-0.2017622942276489,2.8938350674985713
-[17May2025 19:25:55.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -14.89696027404311,-0.22887751805670575,3.1234780297064617
-[17May2025 19:25:55.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -16.826904265720714,-0.2557072450552198,3.315463527627003
-[17May2025 19:25:55.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaspi (vehicle of The_Dragon_589) moved too quickly! -18.76616862787678,-0.2822852475991624,3.470960900896557
-[17May2025 19:35:30.726] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[17May2025 19:35:30.731] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[17May2025 19:42:23.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to 42.500000, 77.500000, 877.500000]
-[17May2025 19:42:48.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
-[17May2025 19:42:48.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game
-[17May2025 19:43:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[17May2025 19:43:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[17May2025 19:43:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[17May2025 19:43:43.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17May2025 19:43:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17May2025 19:43:44.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17May2025 19:43:44.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17May2025 19:43:44.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17May2025 19:43:44.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17May2025 19:43:44.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18May2025 00:06:43.731] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[18May2025 00:06:43.735] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
+[18May2025 00:06:44.052] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/XD/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[18May2025 00:06:44.579] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[18May2025 00:06:44.588] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[18May2025 00:06:44.597] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[18May2025 00:06:44.605] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/XD/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[18May2025 00:06:44.767] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[18May2025 00:06:48.143] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18May2025 00:06:48.272] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[18May2025 00:06:48.277] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[18May2025 00:07:02.427] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.7.
+[18May2025 00:07:03.628] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[18May2025 00:07:05.422] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[18May2025 00:07:05.423] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[18May2025 00:07:05.726] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[18May2025 00:07:07.968] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
+[18May2025 00:07:07.971] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
+[18May2025 00:07:08.174] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / iceandfire:dragonforge]' to registry
+[18May2025 00:07:08.176] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'iceandfire:dragonforge' to registry
+[18May2025 00:07:08.846] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[18May2025 00:07:08.992] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Created README.txt in config folder.
+[18May2025 00:07:09.067] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'tool_leveling_table.json' was successfully loaded.
+[18May2025 00:07:09.078] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: tool_leveling_table.json
+[18May2025 00:07:09.089] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'item_values.json' was successfully loaded.
+[18May2025 00:07:09.098] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: item_values.json
+[18May2025 00:07:09.100] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Config 'command_config.json' was successfully loaded.
+[18May2025 00:07:09.104] [modloading-worker-0/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Saved the checked/corrected config: command_config.json
+[18May2025 00:07:10.066] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[18May2025 00:07:10.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.18.x/update.json
+[18May2025 00:07:10.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 6.2.0 Target: null
+[18May2025 00:07:10.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[18May2025 00:07:10.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 7.7.6 Target: null
+[18May2025 00:07:10.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[18May2025 00:07:10.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 6.3.1+6 Target: 6.3.0
+[18May2025 00:07:10.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18May2025 00:07:10.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[18May2025 00:07:11.122] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4932d600]
+[18May2025 00:07:11.135] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
+[18May2025 00:07:11.177] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[18May2025 00:07:15.916] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18May2025 00:07:18.346] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/assets/.mcassetsroot' uses unexpected schema
+[18May2025 00:07:18.348] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/XD/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/data/.mcassetsroot' uses unexpected schema
+[18May2025 00:07:22.392] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[18May2025 00:07:22.599] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18May2025 00:07:22.606] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18May2025 00:07:22.613] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18May2025 00:07:22.618] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18May2025 00:07:22.623] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18May2025 00:07:22.656] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, get, server] and [sh_difficulty, get, targets] with inputs: [server]
+[18May2025 00:07:22.658] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, set, server] and [sh_difficulty, set, targets] with inputs: [server]
+[18May2025 00:07:22.662] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [sh_difficulty, add, server] and [sh_difficulty, add, targets] with inputs: [server]
+[18May2025 00:07:31.271] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[18May2025 00:07:33.547] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1452 advancements
+[18May2025 00:07:33.552] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
+[18May2025 00:07:34.538] [Worker-Main-2/INFO] [Dungeon Crawl/]: Done.
+[18May2025 00:07:36.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[18May2025 00:07:36.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18May2025 00:07:36.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18May2025 00:07:36.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18May2025 00:07:36.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18May2025 00:07:36.516] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18May2025 00:07:36.856] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18May2025 00:07:36.861] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18May2025 00:07:36.863] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18May2025 00:07:36.863] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18May2025 00:07:37.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18May2025 00:07:45.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18May2025 00:07:49.975] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.017] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.022] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.036] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.051] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.060] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.074] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.090] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.104] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.116] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.535] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:50.932] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:51.433] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:51.928] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:52.426] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:52.934] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:53.427] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:53.926] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:54.428] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:07:54.926] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[18May2025 00:07:55.429] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[18May2025 00:07:55.928] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[18May2025 00:07:56.425] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[18May2025 00:07:56.926] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[18May2025 00:07:57.430] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18May2025 00:07:58.255] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[18May2025 00:07:58.443] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[18May2025 00:07:58.924] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[18May2025 00:07:59.504] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[18May2025 00:07:59.951] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[18May2025 00:08:00.429] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
