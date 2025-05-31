@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-05-31 18:31:42 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/paraglider/cosmetic/rito_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-02-20 19:19:10 +0000"
