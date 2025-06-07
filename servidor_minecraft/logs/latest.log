@@ -145,3 +145,8 @@
 [07Jun2025 21:44:38.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
 [07Jun2025 21:44:57.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3928ms or 78 ticks behind
 [07Jun2025 21:59:27.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=14, z=-131} BlockPos{x=129, y=14, z=-132}
+[07Jun2025 22:05:45.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Teleported The_Dragon_589 to -3.500000, 100.500000, 113.500000]
+[07Jun2025 22:05:53.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[07Jun2025 22:08:37.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
+[07Jun2025 22:08:57.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Survival Mode]
+[07Jun2025 22:09:38.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [The_Dragon_589: Set own game mode to Creative Mode]
