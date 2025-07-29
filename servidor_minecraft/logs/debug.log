@@ -2535,3 +2535,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jul2025 21:58:16.870] [Server thread/DEBUG] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: entity ArmorStand['Armor Stand'/612, l='ServerLevel[world]', x=189.50, y=75.00, z=867.50] was spawned in unmodified before, not modifying it
 [29Jul2025 22:03:15.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jul2025 22:03:15.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 22:08:15.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 22:08:15.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 22:13:15.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 22:13:15.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
